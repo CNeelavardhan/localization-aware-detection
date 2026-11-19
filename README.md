@@ -150,8 +150,9 @@ Images, model checkpoints and third-party weights are too large for git (checkpo
 ### Quick start (default settings)
 
 Every script runs from the repo root with sensible defaults. Most accept `--dry-run`, which
-loads the data/models and runs the pipeline on a couple of batches without writing results (it
-needs the data and checkpoints listed above).
+loads the data/models and runs the pipeline on a couple of batches (it needs the data and
+checkpoints listed above). A dry run still writes a summary and log into its output folder, so
+pass a scratch `--output-dir` to avoid overwriting real results.
 
 Check the install (works straight after cloning, no data needed):
 
@@ -195,7 +196,7 @@ All other scripts share these flags:
 
 | Flag | Meaning |
 |------|---------|
-| `--dry-run` | Validate inputs and run a tiny smoke test without writing results |
+| `--dry-run` | Run a tiny smoke test (still writes to `--output-dir`; use a scratch folder) |
 | `--log-level {DEBUG,INFO,WARNING}` | Logging verbosity |
 | `--data-dir`, `--splits-dir`, `--output-dir` | Override default `data/`, `data/splits/`, `outputs/<step>/` |
 
