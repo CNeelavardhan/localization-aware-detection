@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Large / generated artifacts - see README "What is not in this repository"
+data/coco/
+data/original/
+data/manipulated/
+data/masks/
+data/metadata/
+data/logs/
+data/manifest.json
+outputs/
+external_weights/
+tgif-dataset/
+*.pth
+*.pt
+*.npz

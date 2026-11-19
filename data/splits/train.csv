@@ -1,0 +1,843 @@
+image_id,file_name,source_dataset,object_class,mask_area,mask_area_ratio,manipulation_type,prompt,negative_prompt,diffusion_model,guidance_scale,inference_steps,sha256
+2006,000000002006.jpg,COCO,bus,168463,0.5484,removal,remove the bus,,SDXL,7.5,30,6648f1b6d6d6ddf2eed2594c390333c42ab43d4af27eb505b016ee984402c737
+2153,000000002153.jpg,COCO,person,5052,0.0164,replacement,replace person with firefighter,,SDXL,7.5,30,e96c27c9d09c569772ebd41da85d2f7d1b2213cf7b1dcb22bce509732494f6e5
+2261,000000002261.jpg,COCO,person,5760,0.0211,replacement,replace person with firefighter,,SDXL,7.5,30,ec0871c4d2afa5ec1bc11fec938e5f82f604637c40ebe5e68006af988659b1e1
+2431,000000002431.jpg,COCO,person,8976,0.0307,replacement,replace person with firefighter,,SDXL,7.5,30,928bc8bbb79045cce94ee7909f66e675f3e4d713a0b76499df936e47ead5e8a9
+2685,000000002685.jpg,COCO,person,47706,0.1343,replacement,replace person with firefighter,,SDXL,7.5,30,ae989cc11bd5d6f8b9c835effdb46f3dff8ce7eb5b8dca4affd49d1bc3539280
+3156,000000003156.jpg,COCO,person,127449,0.4495,replacement,replace person with firefighter,,SDXL,7.5,30,9bd7c3471c8bc4e5ae6483e42000cc8a162edec94ae76700ae55d87af49aa503
+5193,000000005193.jpg,COCO,person,14621,0.0538,replacement,replace person with firefighter,,SDXL,7.5,30,da135128a6352490559f439ad98a8c1ee3715e2a9b9a3b71782919772cd79fd3
+5529,000000005529.jpg,COCO,person,30786,0.1083,replacement,replace person with firefighter,,SDXL,7.5,30,0e18496f6248858b4087640ad1b229c2315663576ace57d638f04a5d55c9d72a
+6040,000000006040.jpg,COCO,train,84567,0.3765,removal,remove the train,,SDXL,7.5,30,919c1b63dc6a0a6f5851ec33fe9c2b96425a90723284dc183268c5db8b0a0756
+6954,000000006954.jpg,COCO,person,14285,0.0465,replacement,replace person with firefighter,,SDXL,7.5,30,53345d1a37b2b5806d1cd0677fb2a96a1521a6e728d42426ecf38bb4d6422855
+7108,000000007108.jpg,COCO,elephant,90392,0.3315,removal,remove the elephant,,SDXL,7.5,30,8913ded783b7e3376acda2dcfaa0cbee38159d6a60ae1079e14cf4915902a654
+7278,000000007278.jpg,COCO,person,5882,0.0191,replacement,replace person with firefighter,,SDXL,7.5,30,7cfbe1cd5af839a93db63f6886b65f660e9860aa7dd6b913ff7ad5d12265f11e
+7281,000000007281.jpg,COCO,person,4910,0.0213,replacement,replace person with firefighter,,SDXL,7.5,30,e4dffc714995e08f8f6c0113edd7f4896c82d8ed933d44b3baab2ca24daf920a
+8021,000000008021.jpg,COCO,person,50929,0.1658,replacement,replace person with firefighter,,SDXL,7.5,30,70521d9eb7e443e3f91414268471351bdd640384f895f4b7d62aeb34c54fcdf9
+9590,000000009590.jpg,COCO,person,48868,0.1788,replacement,replace person with firefighter,,SDXL,7.5,30,941cd2a8e950963ec549614b426905ca1ba791a2060745e67fbe8be14c856bcd
+10363,000000010363.jpg,COCO,car,121581,0.5262,replacement,replace car with truck,,SDXL,7.5,30,9fa187c8ab6adbbbdd62032e2aa6dc13aa29dcc10a6fb6b6623fc5f90bde6255
+11051,000000011051.jpg,COCO,person,130614,0.3808,replacement,replace person with firefighter,,SDXL,7.5,30,492cefa0e9cabc7f2fcd53315a809eab9b647982257bbdd00a36a82616d6db7e
+11149,000000011149.jpg,COCO,person,3689,0.0197,replacement,replace person with firefighter,,SDXL,7.5,30,dc59b11e98e509ee0ec49ec188258b399dbb4083882219f7875004265de403c0
+12670,000000012670.jpg,COCO,person,7994,0.0292,replacement,replace person with firefighter,,SDXL,7.5,30,554de3c9c0430466d36ab94be4c614ffc79ebac12740ffc5818990b3d9a7cfd2
+12748,000000012748.jpg,COCO,horse,67175,0.2187,replacement,replace horse with zebra,,SDXL,7.5,30,fd1e5064cdee8738de948682616b834cac3beb3587f738082dc77b6f6381a196
+13201,000000013201.jpg,COCO,person,35364,0.1294,replacement,replace person with firefighter,,SDXL,7.5,30,8ad3c6315f3657e78d44df8474117a7af3e76b697b0943bb680ec0d4924d6811
+13729,000000013729.jpg,COCO,person,28950,0.0942,replacement,replace person with firefighter,,SDXL,7.5,30,4442c5052bd0179521e1623657d043009becfd6b55625620d7206bef2760481e
+14439,000000014439.jpg,COCO,person,7888,0.0305,replacement,replace person with firefighter,,SDXL,7.5,30,2a22836933ef8eaf7ae0c79ca41b28680d4c7d5ec311e652edec753102528665
+14473,000000014473.jpg,COCO,train,43557,0.1594,removal,remove the train,,SDXL,7.5,30,563819ae9ac0a8fa4dd47f1628bd4cf2bdde0b37380c7b7bebad6ee92014aa30
+15335,000000015335.jpg,COCO,person,44858,0.146,replacement,replace person with firefighter,,SDXL,7.5,30,4a90f2392ffc633b0f49b20c28378b123386999d0df2c8eba61c133ae5d08b9d
+15751,000000015751.jpg,COCO,bird,5843,0.0214,replacement,replace bird with eagle,,SDXL,7.5,30,aea746db9a89db450a28c1fcfdb3481ab9ff512d536224c4d01bc12463435339
+15956,000000015956.jpg,COCO,person,7309,0.0238,replacement,replace person with firefighter,,SDXL,7.5,30,6dd313b6d5a80f95ebecdfa1af8003ce50c8cc3e201cc5a85ec5725e728996fc
+16249,000000016249.jpg,COCO,person,5444,0.0298,replacement,replace person with firefighter,,SDXL,7.5,30,752d389af96c54bcb3d2ce05d5041535f91c962a9b325c4cc51e0948fa362cdc
+17627,000000017627.jpg,COCO,car,6113,0.0199,replacement,replace car with truck,,SDXL,7.5,30,7066b3ef019f6eabd2ff2054e497d7b8d8d1673b28aac4d78b77cd1f6551da41
+18193,000000018193.jpg,COCO,person,83621,0.2722,replacement,replace person with firefighter,,SDXL,7.5,30,4a4b3644cb7e42f6caf74e955857c5314c2d510c96a3a206eb0eb9a4e6fca4f4
+18380,000000018380.jpg,COCO,person,4518,0.0166,replacement,replace person with firefighter,,SDXL,7.5,30,3a05a394f20ddeb2e61311f9203f7a6c98bb2ba99c4f0bdc644dd8e980658f67
+18837,000000018837.jpg,COCO,person,7450,0.0243,replacement,replace person with firefighter,,SDXL,7.5,30,eccf2af1ea1653053803dee6658b733bac7bf0d10792042d8ed2f31b1f2810d3
+20059,000000020059.jpg,COCO,zebra,7193,0.0263,removal,remove the zebra,,SDXL,7.5,30,b838969aaea5352fe0d84acfa7ade42281d96708df859e2d8b415a1c71479183
+20333,000000020333.jpg,COCO,person,86820,0.3177,replacement,replace person with firefighter,,SDXL,7.5,30,c9b5872b95fcd2b96ad415072ac5b4e6423e565db42688dcdc42ac69cfed9d97
+22396,000000022396.jpg,COCO,airplane,8825,0.0279,replacement,replace airplane with fighter jet,,SDXL,7.5,30,d1dc041adab26367220d39352d7e96baf13aeffecc7a863c7fb7a42fc3f2c45c
+22935,000000022935.jpg,COCO,person,87651,0.2853,replacement,replace person with firefighter,,SDXL,7.5,30,a343a0454ffe78cb10043f8a3a582c0ca2c3fe5f01e3e3964797683b2c5bb583
+24021,000000024021.jpg,COCO,person,3930,0.0157,replacement,replace person with firefighter,,SDXL,7.5,30,8de0a216bdd7f103d77dac90005db39035ca65e8ec065a6bad13703b1abb1e84
+24243,000000024243.jpg,COCO,person,41748,0.1359,replacement,replace person with firefighter,,SDXL,7.5,30,e5536015cf76e77f618427e95bbbc6ff0bf7320eb88b4e3004703f82292c2ad6
+25393,000000025393.jpg,COCO,person,30342,0.0988,replacement,replace person with firefighter,,SDXL,7.5,30,8f253387cc29cbc2f69b324dee34c168b30a8945da82c0116f61be31dcf9e7df
+26204,000000026204.jpg,COCO,car,7633,0.0279,replacement,replace car with truck,,SDXL,7.5,30,a23f2478080880828632ae24f0f0d7d08e07683c8b4da4aae4de77b085c45f87
+27186,000000027186.jpg,COCO,person,64199,0.2344,replacement,replace person with firefighter,,SDXL,7.5,30,731cc790e5f7584d30eab2280d35f79753d5893e94dd5944bb804c8c5ac8e40c
+27696,000000027696.jpg,COCO,person,15369,0.0586,replacement,replace person with firefighter,,SDXL,7.5,30,e9733de08c5aef852e6265c532fb06d073181016046eaba4801b566e8165a990
+28449,000000028449.jpg,COCO,elephant,25784,0.0944,removal,remove the elephant,,SDXL,7.5,30,26f7ba28c879a6163d712a58182a078696af2a854dff6853862a96f0a1d33e4f
+30494,000000030494.jpg,COCO,dog,11632,0.0379,replacement,replace dog with wolf,,SDXL,7.5,30,06a1870f76cf864d3d68d611448c611fe78f8b0d5360b6f6b338a4f7f31da5da
+31093,000000031093.jpg,COCO,person,25707,0.0943,replacement,replace person with firefighter,,SDXL,7.5,30,d3f3666520ba35800b426120c5a3f40f86d47c85518b2ac2b380f87ff6760690
+31217,000000031217.jpg,COCO,person,5223,0.0192,replacement,replace person with firefighter,,SDXL,7.5,30,1b5db1f97c52319a7b7fee31503386f1057d950e67584d4f2e3efc4921b0177c
+32735,000000032735.jpg,COCO,person,8495,0.0311,replacement,replace person with firefighter,,SDXL,7.5,30,16c87ef36aca45180bbfe391fedcd49b81e649578a5cac1b6fc69a991336dbb7
+32817,000000032817.jpg,COCO,person,43958,0.1431,replacement,replace person with firefighter,,SDXL,7.5,30,1c6aabb8f5f39942e8be0a09fb4cc54e6eb571f3cd9b490fd8ca40c29451df69
+32861,000000032861.jpg,COCO,person,61943,0.2272,replacement,replace person with firefighter,,SDXL,7.5,30,fdeaefff3f29c37e801f2d03609253d34e6d93e6bf79362ea3b38cb918c26de1
+32901,000000032901.jpg,COCO,person,39975,0.1144,replacement,replace person with firefighter,,SDXL,7.5,30,3789879139c66417fc35cbc972a41bc00d6eb7e39c9370f15b21d863d1b0455f
+33104,000000033104.jpg,COCO,person,33622,0.1571,replacement,replace person with firefighter,,SDXL,7.5,30,8b6ae5be06b7793976af8a1eb88dd4da77e8000c1050d11c29d01bc978dc7038
+33221,000000033221.jpg,COCO,person,17468,0.1049,replacement,replace person with firefighter,,SDXL,7.5,30,4e5ecc35c98dcc67f5eef5cd4e1c91d40cac955b49e387c10e32225df4f78a9a
+34139,000000034139.jpg,COCO,person,13385,0.0436,replacement,replace person with firefighter,,SDXL,7.5,30,476828f4c5a2f088ae09f31396e93eb7b6a5d97be947d735925eddaafab4b468
+34452,000000034452.jpg,COCO,person,5563,0.0181,replacement,replace person with firefighter,,SDXL,7.5,30,97e0229df198e503a9adaf20858e87cc56436292f43b280b8eca9d2b90f6befc
+37988,000000037988.jpg,COCO,person,5049,0.0164,replacement,replace person with firefighter,,SDXL,7.5,30,0d25cc492901be83512f7364cba185ecce8bddcf6f60d7970d8078636c33cf9f
+38829,000000038829.jpg,COCO,person,12229,0.0447,replacement,replace person with firefighter,,SDXL,7.5,30,6bf2e4b3295c98f8fd241fd9f9c08bd96d3e1434dc6f56e8b7b9e05b58200557
+39484,000000039484.jpg,COCO,car,5184,0.0185,replacement,replace car with truck,,SDXL,7.5,30,594565e6c2294d51adfd1b70f0328eb8f3e2fea0a3254939a90ee3aa73df11a7
+39914,000000039914.jpg,COCO,person,6785,0.0218,replacement,replace person with firefighter,,SDXL,7.5,30,e2c571670f7b59ba3f16cfddcbd18daa12c16875173590d2b5d11365c298c1ca
+41635,000000041635.jpg,COCO,cow,21005,0.0684,replacement,replace cow with horse,,SDXL,7.5,30,0c72d6294005a3b6d96ab01984123b11706f66ce1ba8851fb56eef500c9e9198
+41888,000000041888.jpg,COCO,bird,6496,0.0211,replacement,replace bird with eagle,,SDXL,7.5,30,2c3c633ee41ab76bf78433493674f6b5545953dd871e8404f93fb28bbdfe40c0
+42178,000000042178.jpg,COCO,train,16466,0.0536,removal,remove the train,,SDXL,7.5,30,852b74d5509cb4fd32e72b480b894401184086dcab47068110797ccaf423b2ba
+42563,000000042563.jpg,COCO,train,11353,0.0284,removal,remove the train,,SDXL,7.5,30,4ab7fce04dc324843cd80fe9104494218894659c4dc86be4ca4e3391bfda70d1
+44590,000000044590.jpg,COCO,motorcycle,2639,0.0168,removal,remove the motorcycle,,SDXL,7.5,30,8fff4e0844a84d944106e99346b63456c40998c7116e2c38aae737785c774148
+44877,000000044877.jpg,COCO,person,52379,0.1917,replacement,replace person with firefighter,,SDXL,7.5,30,8fce351b38339979882a35837f97bff75ea584d37dd9a4227bdd1ff2f71bc909
+46048,000000046048.jpg,COCO,person,7940,0.0258,replacement,replace person with firefighter,,SDXL,7.5,30,0ff2f7de6b4e89a29834d69c01733a70b08721c4115e903349c9006e281c833c
+49810,000000049810.jpg,COCO,cat,67130,0.2474,replacement,replace cat with fox,,SDXL,7.5,30,d9efa5cebb76cba2a170dc868fe252b58d4897f441767ab24abdb31e82a3ae2b
+50145,000000050145.jpg,COCO,bicycle,7772,0.0506,removal,remove the bicycle,,SDXL,7.5,30,829ec5e1784ea95a5b629e71563608f4cc955d6def136d8434b5c1bcea5a2585
+50326,000000050326.jpg,COCO,person,12604,0.0672,replacement,replace person with firefighter,,SDXL,7.5,30,819933c96827c056b30496ac08b9dfe3d5d8bbf8979cca8619061a8b5bf8c657
+51309,000000051309.jpg,COCO,horse,31471,0.1366,replacement,replace horse with zebra,,SDXL,7.5,30,c2939f961096a9d1c2ea452fa0f942acc68f158ba2ddd883a965be47ea97c4cd
+52462,000000052462.jpg,COCO,zebra,20299,0.0743,removal,remove the zebra,,SDXL,7.5,30,e8cfd72c09e4230bc110c0a0a7197f3de0477486089307a0f07c751dcdee97a2
+52565,000000052565.jpg,COCO,cow,36786,0.1255,replacement,replace cow with horse,,SDXL,7.5,30,64021f126f67ed695214a83632d850b22a6c4befe2ebaac25f0fae4f3cbe234f
+52996,000000052996.jpg,COCO,person,8800,0.0323,replacement,replace person with firefighter,,SDXL,7.5,30,ba70f4406e3001617988adf78714c3a956a10586f4dd0e8df9b1e9cd81be1577
+53626,000000053626.jpg,COCO,person,14334,0.0467,replacement,replace person with firefighter,,SDXL,7.5,30,a6ee4e5fe693d4100e416b8d22ab986f9e474ff5cd12c9f2679c7f7a28d6bd14
+54593,000000054593.jpg,COCO,person,5367,0.0196,replacement,replace person with firefighter,,SDXL,7.5,30,b028e5203dd1e6433f8f61b23f3ac5be01abbc75aec773c9273d92ce7bf62263
+54967,000000054967.jpg,COCO,person,5130,0.0189,replacement,replace person with firefighter,,SDXL,7.5,30,92dda1e546aa4b59c7f0e35ae0ff0c1b2ea74016c13fd17763c6281c4cdfd46c
+56350,000000056350.jpg,COCO,person,14482,0.0387,replacement,replace person with firefighter,,SDXL,7.5,30,ec4ba60cbd63836e96746946841545eefa68db8c67437650712442e6e799a394
+57149,000000057149.jpg,COCO,train,24438,0.0894,removal,remove the train,,SDXL,7.5,30,51e80d053ee58248ada8e5e8cf98c642e93be8e91b89b29d0b218a2928a8a7f6
+58539,000000058539.jpg,COCO,person,71495,0.2653,replacement,replace person with firefighter,,SDXL,7.5,30,4dad9ded19a018b02e3932b75042e1d46b307001e823e23c9a8dca8ec9bf9e51
+60823,000000060823.jpg,COCO,cow,10023,0.0326,replacement,replace cow with horse,,SDXL,7.5,30,15a019113f1326f0081c86af77345ab871dcfb112266bd5b0a331b664fb4c7de
+60932,000000060932.jpg,COCO,person,7392,0.027,replacement,replace person with firefighter,,SDXL,7.5,30,5f03d332bd7c67050a5e356fca37b54b47801d125a508f63a84222332b1bc6fb
+61171,000000061171.jpg,COCO,horse,44317,0.1443,replacement,replace horse with zebra,,SDXL,7.5,30,b35418cd8758e7b23c665a25b9e4bb6a557f81be19e0dfb2eb2bb99031c73617
+61418,000000061418.jpg,COCO,boat,6672,0.0228,replacement,replace boat with ship,,SDXL,7.5,30,5e7753dd34b9e19193424a5878874dde67c82b81ef4805e489e73fa86c8ed3c6
+61584,000000061584.jpg,COCO,person,5675,0.0303,replacement,replace person with firefighter,,SDXL,7.5,30,0ba063b9004d5e6a9c43e41265af7c0aba26a698e1fa85be099b88c939bb0f24
+61960,000000061960.jpg,COCO,person,69435,0.2924,replacement,replace person with firefighter,,SDXL,7.5,30,240d14589396cb5094ce4f7b12f76ad470497e61f0191cdd125d518e04e0cee8
+62355,000000062355.jpg,COCO,person,7437,0.0272,replacement,replace person with firefighter,,SDXL,7.5,30,e2a0bd9fee9065244b9859034ae6e55a18db77cc3a1756d7f43d7e8176a34ee2
+62692,000000062692.jpg,COCO,person,16031,0.0587,replacement,replace person with firefighter,,SDXL,7.5,30,3e386baa454c827a19a5d659f12948c41723a80648bd5670cb32a21860f15b0d
+63552,000000063552.jpg,COCO,cat,88126,0.235,replacement,replace cat with fox,,SDXL,7.5,30,aa29a8079d1b174a692a9b64df948407176fcebce9835cca68c10329e249654e
+64359,000000064359.jpg,COCO,zebra,7350,0.0443,removal,remove the zebra,,SDXL,7.5,30,aae3ddc6f42ad9e571630d44cb7eb811d6430a7b9c6f40d4378dd75093a2f433
+64499,000000064499.jpg,COCO,zebra,14850,0.0483,removal,remove the zebra,,SDXL,7.5,30,3aa5abb037d3d366b9f4d4887923d63e14307097108ff5c28ce5ad0dcd21805a
+64523,000000064523.jpg,COCO,person,5260,0.0185,replacement,replace person with firefighter,,SDXL,7.5,30,4cc91ce7a78b20b00d709b10adfef8231eea1efa1fe125711da093336ce783ee
+64868,000000064868.jpg,COCO,person,46617,0.2486,replacement,replace person with firefighter,,SDXL,7.5,30,3e70170000949dd7624878a591a8a33d4a48ed50c286014aa18b8b0c1b1d6d14
+67213,000000067213.jpg,COCO,car,14230,0.0458,replacement,replace car with truck,,SDXL,7.5,30,450ec3941e12aea504a190ffaf690d939f83ff3fa42ca1250110a93e133930f9
+68093,000000068093.jpg,COCO,car,10254,0.0334,replacement,replace car with truck,,SDXL,7.5,30,b39bbbe109d32f01d19facbd042d9eec5057340d61c484dcfeb5af5f3d0fcb01
+68387,000000068387.jpg,COCO,person,5996,0.0195,replacement,replace person with firefighter,,SDXL,7.5,30,c3436fcf5e0336cadb786d1080434a99fffdc7b29d227c8c4dd483bd67d5225c
+68409,000000068409.jpg,COCO,person,3002,0.0178,replacement,replace person with firefighter,,SDXL,7.5,30,9d5055edc1d036f473acfb85f3ae27394f4b81567e3376a3496509bb52da09c4
+68933,000000068933.jpg,COCO,zebra,18236,0.1165,removal,remove the zebra,,SDXL,7.5,30,63ed8c1ef8f493bd4860e5c3af3e80a722d69cfede1b1424cacffb3ce2a1f693
+69356,000000069356.jpg,COCO,person,24499,0.0758,replacement,replace person with firefighter,,SDXL,7.5,30,e81af3e552be9e47da966e7a1f777ffea3fb86d563da8f0119ddb83826278dd6
+70158,000000070158.jpg,COCO,zebra,66888,0.2448,removal,remove the zebra,,SDXL,7.5,30,1700164213fa93a26117c19c63cbb01c1c4f11045fd6c6d37cb8ce36947b5d0e
+70254,000000070254.jpg,COCO,train,38015,0.1547,removal,remove the train,,SDXL,7.5,30,eb92ab90f202b2c560a2dc72d33db6fccbbe1146c73b07826b1a2554c19e1750
+70774,000000070774.jpg,COCO,motorcycle,43385,0.1595,removal,remove the motorcycle,,SDXL,7.5,30,d62dca0b673d3f9128170e0ce1858f25614a66ad088701ff74d86d3e6d1e4518
+71226,000000071226.jpg,COCO,cat,7386,0.0271,replacement,replace cat with fox,,SDXL,7.5,30,d04444d1e70682f45de31c705b6dfaf2f9729d63acb1ce04199cd400b30903ce
+71877,000000071877.jpg,COCO,person,24196,0.0883,replacement,replace person with firefighter,,SDXL,7.5,30,7efe8806be64fb8fd0278c8f3246f7532a365bdc76eee5d01340785929ab51a5
+71938,000000071938.jpg,COCO,person,165084,0.5374,replacement,replace person with firefighter,,SDXL,7.5,30,7a800cb82559c65e8d4a18f925e52eddfd02dc5d9053a21c3a8078206ef4d379
+73702,000000073702.jpg,COCO,person,76377,0.2572,replacement,replace person with firefighter,,SDXL,7.5,30,e1cdba3e4cb634144d6ccb5f074094ca9e43d93cc2f53563f0b61155e78a2e79
+74256,000000074256.jpg,COCO,person,74356,0.242,replacement,replace person with firefighter,,SDXL,7.5,30,d915be3450737c9d486879112e8e725a4ac91c9f9f8f1fffe8e1230ba5cc5949
+74733,000000074733.jpg,COCO,person,6089,0.0163,replacement,replace person with firefighter,,SDXL,7.5,30,f8dc80004f3dd08b09d6eaf4b4e9f5fa9d59e757e3aec331b7edcc8b17bd7328
+75612,000000075612.jpg,COCO,person,8508,0.0277,replacement,replace person with firefighter,,SDXL,7.5,30,234d508abfa099a785c756486b6b23c30b8d3b93c118516bb59c6ca4ea3192d2
+76417,000000076417.jpg,COCO,truck,92285,0.3017,replacement,replace truck with bus,,SDXL,7.5,30,8c2f930f86418691bcdb02a490c8c00c742518dd446412b02d1103c5c04b0a7f
+76468,000000076468.jpg,COCO,person,6128,0.0199,replacement,replace person with firefighter,,SDXL,7.5,30,9f6609ee07efab4a6e9bf48064a2914647c0bf427143fad2292b0ef1a5dac422
+76547,000000076547.jpg,COCO,person,18160,0.0591,replacement,replace person with firefighter,,SDXL,7.5,30,b634c4d74f43e9127b6010dd477d403f9a9afb110d8f2eba572504a5cfd7ea97
+77396,000000077396.jpg,COCO,cat,11106,0.0362,replacement,replace cat with fox,,SDXL,7.5,30,2fdfc49bbe8c5a0dd5700624b5aed723caed3bbadfdc192e9ccab344d049e40b
+78170,000000078170.jpg,COCO,person,30727,0.075,replacement,replace person with firefighter,,SDXL,7.5,30,83fe7cdd7ea16064988c21f5a20d1b882d93227121329e0ee1e282a542f278e4
+78404,000000078404.jpg,COCO,person,13733,0.0785,replacement,replace person with firefighter,,SDXL,7.5,30,062475f41246c3a463f40ab122e6c8834b35b66bb16a3ca38846d7f87e4787b9
+78823,000000078823.jpg,COCO,dog,16968,0.0552,replacement,replace dog with wolf,,SDXL,7.5,30,93ac996978681f5fdc858ad94ff6d8d54a2a889fd2f4c69a9e74370b9fce9c7a
+78843,000000078843.jpg,COCO,person,108175,0.3521,replacement,replace person with firefighter,,SDXL,7.5,30,705145029917f72ca1e9b573adadda09aea96be6106484959c4de99b12b59b93
+78915,000000078915.jpg,COCO,person,12771,0.0415,replacement,replace person with firefighter,,SDXL,7.5,30,fd72ac976d1ecaef6083c2e1ea228772c9eb09ac1e021d787a4a9b0e6091f9b0
+79229,000000079229.jpg,COCO,horse,17315,0.0635,replacement,replace horse with zebra,,SDXL,7.5,30,cd1d7bd783e49872c9c7bae2b23bcfaaaed506739f1484257046368673e37d19
+80274,000000080274.jpg,COCO,elephant,34086,0.111,removal,remove the elephant,,SDXL,7.5,30,c8f668531a082e310bf1df3f612a68d9dc258fa67b0a05eda6af1873605412db
+80340,000000080340.jpg,COCO,person,11484,0.042,replacement,replace person with firefighter,,SDXL,7.5,30,6d18edfbd090cabc508dee51d0b2685171fe1ffa54c3d78696b1bb183609d07e
+80659,000000080659.jpg,COCO,person,11037,0.0404,replacement,replace person with firefighter,,SDXL,7.5,30,070582966bea669c66b980dd091a063579ecd8eefe5da7a90987cc8846160327
+80666,000000080666.jpg,COCO,cat,59504,0.1453,replacement,replace cat with fox,,SDXL,7.5,30,e71c8262288c494b4287a0432388f95a7e2281dd961b52e1507d216ee6a82a79
+80671,000000080671.jpg,COCO,person,28134,0.1029,replacement,replace person with firefighter,,SDXL,7.5,30,1e4d7ba5dcf09c0efeeecd63eedfe23d161dc1eedc081d204e308db6536dcadb
+80932,000000080932.jpg,COCO,person,21436,0.0698,replacement,replace person with firefighter,,SDXL,7.5,30,e03429e55762d9dee55c30701d64232668d6cf389b07d339a35d1cdee2240cda
+81394,000000081394.jpg,COCO,truck,137372,0.4472,replacement,replace truck with bus,,SDXL,7.5,30,8b4364989f96f4473c59f0aed5ea9ed17f207b669bb11d37741a79e87215722e
+81766,000000081766.jpg,COCO,dog,4728,0.0154,replacement,replace dog with wolf,,SDXL,7.5,30,9e181de4a8eaa5769b7ad6245cca6ced906c2992d46282ea62244ce67e69568f
+81988,000000081988.jpg,COCO,person,5319,0.0195,replacement,replace person with firefighter,,SDXL,7.5,30,59094db45fa47213d51c9ffa782d6ccf249137871fd59a95fc8ca7e54ba1a298
+82812,000000082812.jpg,COCO,person,3938,0.0171,replacement,replace person with firefighter,,SDXL,7.5,30,7e1062fa5367e82770eb12c42069b93c8838daa9d1cba147850559f98f31664c
+83113,000000083113.jpg,COCO,elephant,24222,0.0788,removal,remove the elephant,,SDXL,7.5,30,e2bb8b0a217c3e7d1646ebb49c6cdb91bfea03559f1efb7dc458bba73cfc7666
+84674,000000084674.jpg,COCO,person,64280,0.2092,replacement,replace person with firefighter,,SDXL,7.5,30,7847cab4acdb31fe2f6e4ab3b086fbf0ce101de0a619d5c6df4d527acc6c338a
+85089,000000085089.jpg,COCO,person,77763,0.2839,replacement,replace person with firefighter,,SDXL,7.5,30,298cbbb1f4ba77897da7f9c4db8d0bf41df0583e17baa6c7cb8206bed8e91d25
+87470,000000087470.jpg,COCO,cow,9026,0.03,replacement,replace cow with horse,,SDXL,7.5,30,a9acbd608c6ce4a69e7e45c7b4128f2d421a2e804ed1354219764f134240d096
+88462,000000088462.jpg,COCO,bus,52899,0.2158,removal,remove the bus,,SDXL,7.5,30,20052cecb3e354649e5e60ee85745ed6d2e73f86834a584e5ee01e0fb7df0035
+88485,000000088485.jpg,COCO,person,64022,0.2343,replacement,replace person with firefighter,,SDXL,7.5,30,3abd4f3b5d9367d3cdae464b9a0b042e63ca8dab995ee87e4bec3c6ca90a1ec5
+88848,000000088848.jpg,COCO,person,6427,0.0157,replacement,replace person with firefighter,,SDXL,7.5,30,c4e5e72b2598eba682cd8440e45541c7b35726c8d8791e62bb00ab7cb8e74d64
+89078,000000089078.jpg,COCO,person,74529,0.2431,replacement,replace person with firefighter,,SDXL,7.5,30,0b76c8dbe4b25018c0f3d5eda5027ce40364c0d0463ba18ec033344f9c80f5b4
+89648,000000089648.jpg,COCO,person,8472,0.031,replacement,replace person with firefighter,,SDXL,7.5,30,2e8a1280e60bd5d091276fce673f5f0e2038e612893ab66e3f0f961ccd85e33a
+89697,000000089697.jpg,COCO,person,4896,0.0178,replacement,replace person with firefighter,,SDXL,7.5,30,e32d2edb8efcc8d9228398af5007d6dd7d103f7fe50a118fec555b072d4d2be4
+90003,000000090003.jpg,COCO,dog,6810,0.0222,replacement,replace dog with wolf,,SDXL,7.5,30,36cf584ae7b1b1c16c7f9b44135f61a29c759d22464f92ca6a36e4158a366976
+90208,000000090208.jpg,COCO,bus,94555,0.3444,removal,remove the bus,,SDXL,7.5,30,d95dbb52ffef99a6fbed83257a7f58f5fc0aeefe9f59df9340dd2ecaab526628
+90631,000000090631.jpg,COCO,airplane,12309,0.0494,replacement,replace airplane with fighter jet,,SDXL,7.5,30,521ee2cdae27a82e910fb35aae3c00b44eab7365f05b5a975e4d01b339278f9e
+90891,000000090891.jpg,COCO,person,18212,0.066,replacement,replace person with firefighter,,SDXL,7.5,30,f88c4d81e793e4f51fa378dc2f16bea28af1e402a6c3fc2881610afc063ad5bd
+91500,000000091500.jpg,COCO,person,59731,0.1944,replacement,replace person with firefighter,,SDXL,7.5,30,c621739ef3c49c31359cb117b4db304baf1cddfe7336c5301b9d9b02f1779d44
+92416,000000092416.jpg,COCO,boat,6710,0.0218,replacement,replace boat with ship,,SDXL,7.5,30,87657fe7fbbebdd0560c0eaa4d3a33a269d26cfb909156ae13bf09b1a729190c
+93717,000000093717.jpg,COCO,person,17926,0.0656,replacement,replace person with firefighter,,SDXL,7.5,30,2cc537bf2f02ffd08ff64a6e3f21f08a84a15510b8a2de8703e950aa4260af28
+93965,000000093965.jpg,COCO,zebra,60926,0.2083,removal,remove the zebra,,SDXL,7.5,30,807af9cc2b54cbca22ade2ed49d2c22b0dd2ae5d70557ccac7af225d9896c214
+94871,000000094871.jpg,COCO,person,23948,0.078,replacement,replace person with firefighter,,SDXL,7.5,30,0172bc910cbc0f009a915e174beaf762624e084b63ddda21d1d6475e18ec9583
+97278,000000097278.jpg,COCO,person,69696,0.2383,replacement,replace person with firefighter,,SDXL,7.5,30,d24eca38ae996d4f7c480aa199c35ed233751d4acb3e208304c36e281c425fe8
+97679,000000097679.jpg,COCO,car,21863,0.0712,replacement,replace car with truck,,SDXL,7.5,30,1af8f8197fb90ecedf66c5a49d0565080643e3ee21dd524445ce0caae25ae3c6
+98392,000000098392.jpg,COCO,bus,36809,0.1198,removal,remove the bus,,SDXL,7.5,30,0c417d944097cf50a863bbd6e3a46c3680ccb2757f6d92ef7a1d013955879297
+98839,000000098839.jpg,COCO,cat,53018,0.1726,replacement,replace cat with fox,,SDXL,7.5,30,b48783aae65d372e619759197c1f837501e2bf77285e09edc8e01c898fda4bee
+98853,000000098853.jpg,COCO,person,5516,0.0202,replacement,replace person with firefighter,,SDXL,7.5,30,08c0e7357259ca680c0c11f73cca786873a042e71571328413849f79c75caa24
+100238,000000100238.jpg,COCO,person,25702,0.0837,replacement,replace person with firefighter,,SDXL,7.5,30,0ec2655edcd5a5d40afad816efb04c38bd37c378a4a10fcf68f369e1b4222b00
+100274,000000100274.jpg,COCO,train,22228,0.0813,removal,remove the train,,SDXL,7.5,30,78e8e5840c68b1648b460d810b5011c8b0f3575a5dd3fd95bd52a766973970e4
+100624,000000100624.jpg,COCO,person,5100,0.0187,replacement,replace person with firefighter,,SDXL,7.5,30,4d9c6f48cec5fe587fcc8a519a3ff408cb080e618d36c00ec1604eac2b288419
+102356,000000102356.jpg,COCO,person,31401,0.1149,replacement,replace person with firefighter,,SDXL,7.5,30,d967517e92759990e600552afeadf205a57d5eb43d1ff4094815a94848e0441a
+104119,000000104119.jpg,COCO,bird,74283,0.2418,replacement,replace bird with eagle,,SDXL,7.5,30,58c865b4ee0cbec54c9c9f0f421cb3b590318cdfe2092cf55c93593623d38d63
+104455,000000104455.jpg,COCO,zebra,10889,0.0354,removal,remove the zebra,,SDXL,7.5,30,31d67489127e5e83f2007df2daa1d998c530a18575fc3c0caf43a70a3eaf2963
+105264,000000105264.jpg,COCO,cow,37769,0.1382,replacement,replace cow with horse,,SDXL,7.5,30,d644f75216516658f956f8dbc93f993b3fbb328e566aa163b8a5a69fa90738f9
+105923,000000105923.jpg,COCO,elephant,20545,0.0686,removal,remove the elephant,,SDXL,7.5,30,4a3450813e0d17a70d87d4848ad7f7c9d2a7b800ccb8c25ab2789a0d7ccaabeb
+106048,000000106048.jpg,COCO,bus,80505,0.2939,removal,remove the bus,,SDXL,7.5,30,62db0faad0d7cbef56adc91bc18793bfc584e191d38bcb8edcedef4bfb4ee400
+106757,000000106757.jpg,COCO,person,70611,0.259,replacement,replace person with firefighter,,SDXL,7.5,30,d625f7e5cf318ef8dd5dd5873b33de53b12cc7a76ce4a707fec000bc969cafb3
+108026,000000108026.jpg,COCO,person,114502,0.418,replacement,replace person with firefighter,,SDXL,7.5,30,3c9fc97626ac6d85cf842305178bac4a75997030fd3178bd91d6cec4c8a08157
+108244,000000108244.jpg,COCO,cat,45346,0.1476,replacement,replace cat with fox,,SDXL,7.5,30,428101018abf5ecd08b81203cdb62fff1e8673a522f49053ac891aa979f74e4c
+108440,000000108440.jpg,COCO,train,25089,0.0903,removal,remove the train,,SDXL,7.5,30,20686afc7521119da56d4987b64f66d6012a1c9d7d37145bc6449b0834eaa26a
+109900,000000109900.jpg,COCO,airplane,9413,0.0308,replacement,replace airplane with fighter jet,,SDXL,7.5,30,e3088a65c9463f8e002475cc8cc455620aa28d445b1db3c95e3d31648a5fdd7e
+110449,000000110449.jpg,COCO,person,72912,0.3889,replacement,replace person with firefighter,,SDXL,7.5,30,429aa3c0ca84d9a395b063bbaacd5a3ad2f6c0b8f2779649e8ca7bcd7f0b4693
+110638,000000110638.jpg,COCO,elephant,89735,0.3284,removal,remove the elephant,,SDXL,7.5,30,bfeef897e23f493e2474200b03003e384c42f27c9766a163195d1d493bc8bf3a
+110999,000000110999.jpg,COCO,person,19590,0.0853,replacement,replace person with firefighter,,SDXL,7.5,30,ba49f7f6533d162759537ca823f67ff7b34aef0e585b4cd15a1133e2a2258ab1
+111086,000000111086.jpg,COCO,car,3897,0.0232,replacement,replace car with truck,,SDXL,7.5,30,48d4f2e2dd1905ba15f5794558414ddd4d4683b5722761b0c7c4e7f19c39d33b
+111207,000000111207.jpg,COCO,person,14130,0.0462,replacement,replace person with firefighter,,SDXL,7.5,30,3dab321cf8af79d739c87f0bff650f161893c94915cfdaa591694ae708965cc3
+112110,000000112110.jpg,COCO,person,32425,0.1056,replacement,replace person with firefighter,,SDXL,7.5,30,40af2a72557d25b3b0f0592b2b2036a18ab7153cd32a02a2c988c59629177c0c
+113051,000000113051.jpg,COCO,boat,50212,0.1635,replacement,replace boat with ship,,SDXL,7.5,30,9894a12dee8eb32ccdf47c1bbad6eb734fe8af5dc1e484dba239cf3c04a33f37
+114049,000000114049.jpg,COCO,person,4661,0.0171,replacement,replace person with firefighter,,SDXL,7.5,30,384f8fb8346a68ea36ae7aeb8f2905af98ba85bdd3661edfb27807d6c31d3bd7
+114770,000000114770.jpg,COCO,car,35474,0.1375,replacement,replace car with truck,,SDXL,7.5,30,7d69512e787513256d1185ef75eaa7853463d02af43aca1799d7f79cf3464693
+114884,000000114884.jpg,COCO,bus,5286,0.0321,removal,remove the bus,,SDXL,7.5,30,b1ee1358a2a8fad55ae6ec64709e98ce040ad050ac246cb3361445a0187d3f43
+114907,000000114907.jpg,COCO,person,10610,0.039,replacement,replace person with firefighter,,SDXL,7.5,30,882d8bf44df268ff7ca0a5d7ede9586908d542168e874353d457ca9adbc9290b
+115870,000000115870.jpg,COCO,person,13418,0.0492,replacement,replace person with firefighter,,SDXL,7.5,30,94d93a8c73174b93a9acc515b4798756310d08f09765550b52a241c3eaae3a0d
+117492,000000117492.jpg,COCO,person,14966,0.0546,replacement,replace person with firefighter,,SDXL,7.5,30,337c717a306843418fffa282e2c240cce56b28805b471552572418b47db02d60
+118921,000000118921.jpg,COCO,person,12293,0.045,replacement,replace person with firefighter,,SDXL,7.5,30,b558e7c57607888d1d30b6f1bb9b98a18ca6edb208c27a52e05839faeab55462
+121497,000000121497.jpg,COCO,person,13803,0.0449,replacement,replace person with firefighter,,SDXL,7.5,30,36f1a23f385b038760033150ca558d1a3497b6c421bc02029b3f515c23f37fcd
+121744,000000121744.jpg,COCO,person,6265,0.023,replacement,replace person with firefighter,,SDXL,7.5,30,3d0fa2b1ce936d6852eefeadf2fb83a32979d35ae599534ac2d8f208e43052f5
+122046,000000122046.jpg,COCO,person,40002,0.1464,replacement,replace person with firefighter,,SDXL,7.5,30,a3210b88ff3b5fce06f5345966d4bdf0a45c242c66d545741d15468df061e8be
+122927,000000122927.jpg,COCO,bird,4987,0.0216,replacement,replace bird with eagle,,SDXL,7.5,30,c9bac421d42fad57be1fdc5aae988dfcb9c566743b6a5a418f952dd1e180735a
+122962,000000122962.jpg,COCO,person,10012,0.0369,replacement,replace person with firefighter,,SDXL,7.5,30,5c9c38ff3c27a886c52a2d9e2cf5cb2ab0cb18bd7236b72037ce37d928bed0ca
+124277,000000124277.jpg,COCO,train,16721,0.0543,removal,remove the train,,SDXL,7.5,30,6bd1112d44c7a134cf6cc8552d0511b6981cc93185a9bc4e21bd5e27fef8176a
+124975,000000124975.jpg,COCO,zebra,40952,0.1506,removal,remove the zebra,,SDXL,7.5,30,bb81c4647cdfc71db1149bd334a700faf409f563f49f5ac464f3a26514c767de
+125211,000000125211.jpg,COCO,zebra,118709,0.3864,removal,remove the zebra,,SDXL,7.5,30,63cab69c873385730f8c8390d25c2e9a7ce0297936d1e1a388f0fc65db3125e8
+125936,000000125936.jpg,COCO,person,21738,0.133,replacement,replace person with firefighter,,SDXL,7.5,30,bd4bb322e8cbfa3006a14891e712de933678129446c563576595212e51d6e22f
+126107,000000126107.jpg,COCO,bird,15998,0.0521,replacement,replace bird with eagle,,SDXL,7.5,30,7561f3f7fe9407dfe327abf70ea887208926c9e7d68ada86edfff585f611d354
+127263,000000127263.jpg,COCO,person,17436,0.0638,replacement,replace person with firefighter,,SDXL,7.5,30,97717414bdc49e604a440c9604f46a1358dfed2a4a1958ca90b9d94db3fbe40a
+127270,000000127270.jpg,COCO,person,33321,0.2032,replacement,replace person with firefighter,,SDXL,7.5,30,d6904ef56fe20ede7b6cc3a6609cc41bc1135016b24dec2369f1c46670b559aa
+128372,000000128372.jpg,COCO,person,7287,0.0267,replacement,replace person with firefighter,,SDXL,7.5,30,bea419390bf34c64cca27815f575758408ba986efc0345b24d7c427c6fd6a244
+128476,000000128476.jpg,COCO,person,17762,0.065,replacement,replace person with firefighter,,SDXL,7.5,30,be57e343a3547eb67fbcbe1d49bb6dd55b5c22d83390a51eb59c964f08969954
+128654,000000128654.jpg,COCO,person,33629,0.1752,replacement,replace person with firefighter,,SDXL,7.5,30,703f64e5f50ea0c63a801b60d16af3754966832295f633dc28f8e6622ad6ef59
+128699,000000128699.jpg,COCO,person,12380,0.0705,replacement,replace person with firefighter,,SDXL,7.5,30,4bbdec46f5b37c570d923e657d73adcfd805b7d484cf6d19d5b10a4c34b2e249
+129945,000000129945.jpg,COCO,person,6466,0.0316,replacement,replace person with firefighter,,SDXL,7.5,30,f8662f8af25d732a88dbbd8f5b9f6dee53095fd43e1ef1be32233c9e1161dc50
+132587,000000132587.jpg,COCO,person,40039,0.1472,replacement,replace person with firefighter,,SDXL,7.5,30,7dca8714927dc584c37c733d03a44e50987b571b67220219439707ef604ada00
+132703,000000132703.jpg,COCO,person,14703,0.0539,replacement,replace person with firefighter,,SDXL,7.5,30,02da7dc829592d4341b2479f47cf8d95b2483fd15b60796ce9c47163a7a4f20c
+133244,000000133244.jpg,COCO,person,9514,0.0414,replacement,replace person with firefighter,,SDXL,7.5,30,eb3e14f46f6150ce1b20e7d519b197dc5d0bed217309a90dc4cd7570c0cdac02
+133969,000000133969.jpg,COCO,person,7142,0.0261,replacement,replace person with firefighter,,SDXL,7.5,30,fcdde7da66e0b25e0244e69411f28ed983767c5fee661512ff0825ea5c53dd6f
+134722,000000134722.jpg,COCO,train,54999,0.179,removal,remove the train,,SDXL,7.5,30,9f3a3b99ee3f0a33254e63aab49d18f40d56d17da14e99179d87ef4e7a44cdf3
+135410,000000135410.jpg,COCO,bicycle,5599,0.0182,removal,remove the bicycle,,SDXL,7.5,30,c590cc625b8c5324fb099c0575772f07b7b29c0c78b05ce0447f3e24ffd33a16
+135670,000000135670.jpg,COCO,bicycle,10539,0.0562,removal,remove the bicycle,,SDXL,7.5,30,186fc987bc995fe8072fddb4607a69d1924e4b2d5769a2c27881a6f21eb29f11
+136715,000000136715.jpg,COCO,person,4468,0.0164,replacement,replace person with firefighter,,SDXL,7.5,30,53bf43d9553e96c0618a182d4bff8ca32b281698e545016d9749acf90083a0fd
+136915,000000136915.jpg,COCO,person,5282,0.0193,replacement,replace person with firefighter,,SDXL,7.5,30,58d44105899725fedc32b7fa073b03a6fc896b19e912fe5e47ea0c35ec02b307
+137294,000000137294.jpg,COCO,person,52131,0.1908,replacement,replace person with firefighter,,SDXL,7.5,30,f3a895cf984f47d60bf179b89a1869a8160e83b452223d1c936fa41940585a7e
+139871,000000139871.jpg,COCO,airplane,54154,0.1982,replacement,replace airplane with fighter jet,,SDXL,7.5,30,e20bb52c4aacac0890f8c3d7cd80f02d97d8e05cca6f8d0ede45f6ddb46dd6a0
+139872,000000139872.jpg,COCO,dog,46015,0.1498,replacement,replace dog with wolf,,SDXL,7.5,30,24d616322a8f958e5acb3514052136567cf80f243448c0998d7c2ec63634e97c
+140556,000000140556.jpg,COCO,person,27829,0.0951,replacement,replace person with firefighter,,SDXL,7.5,30,ce1b69e28b797266f2f3db595411b5d3612c64f0108bed3d0e65770d8af59416
+140987,000000140987.jpg,COCO,person,6331,0.0233,replacement,replace person with firefighter,,SDXL,7.5,30,fb3b8a4779a383fa33f4d51b67e8ffe9b10bcf9537799ef01fed7de7c8e39767
+143556,000000143556.jpg,COCO,person,21944,0.0714,replacement,replace person with firefighter,,SDXL,7.5,30,11426714ec8896951a33df5a1f4bfe99ea95957e11a6371443125869db0cff7a
+143961,000000143961.jpg,COCO,person,8321,0.0365,replacement,replace person with firefighter,,SDXL,7.5,30,a37dd97edef40618cff333bebee4b8487e48a72abfdd9f962f60d82aa958b330
+144003,000000144003.jpg,COCO,person,26425,0.1409,replacement,replace person with firefighter,,SDXL,7.5,30,4972c3351f636ba08d306219a3f16917f15a13291173d510f9c812bc9783b5ed
+145597,000000145597.jpg,COCO,person,13518,0.044,replacement,replace person with firefighter,,SDXL,7.5,30,ea644c46158ff6d00e6c29b8ea08016bb8e52ec79fc7740a9fbec30a6f31b567
+145620,000000145620.jpg,COCO,person,7314,0.0262,replacement,replace person with firefighter,,SDXL,7.5,30,2c3a43dc4bc7a47d1c3d3409fc69a392b3ba3c1d67da01cf24b6385b2b02f525
+145781,000000145781.jpg,COCO,dog,124643,0.4057,replacement,replace dog with wolf,,SDXL,7.5,30,c319260777c3906d906610c0c254b1d240aa0460f96bd2cd1183bba31ecfaaed
+146358,000000146358.jpg,COCO,person,46692,0.188,replacement,replace person with firefighter,,SDXL,7.5,30,377d2dc09a3ef5adb1891b1a0f6543f92ae64906699e3cc86db8bda66ecd1d4d
+146667,000000146667.jpg,COCO,person,31768,0.0921,replacement,replace person with firefighter,,SDXL,7.5,30,57e3b68a52eb6f0273aba046297120b883789012af359cac9b8f43a226a2fab5
+146831,000000146831.jpg,COCO,person,6374,0.0233,replacement,replace person with firefighter,,SDXL,7.5,30,969c3cb955e12645d58cc2d68ac7ec2733e00666a3b484f1b9c40e5c3dfad123
+147223,000000147223.jpg,COCO,car,15146,0.0657,replacement,replace car with truck,,SDXL,7.5,30,ef76659c64b838b5f8a8a6f917eea39dd099f9a8ece644bf7fbce95c3b0e8ee6
+147338,000000147338.jpg,COCO,truck,14015,0.0456,replacement,replace truck with bus,,SDXL,7.5,30,1d0380eda68feae616dcb55d8fa31c6fd26d2a95628c0f81deca1dbf007d4172
+147415,000000147415.jpg,COCO,person,94371,0.3072,replacement,replace person with firefighter,,SDXL,7.5,30,6a064beb6af62481274c8ee2c1d099e1ff9fc3218747a7e17a726c7a363b12c7
+147729,000000147729.jpg,COCO,person,56245,0.3,replacement,replace person with firefighter,,SDXL,7.5,30,6295b4f9d3ad3b5a6c9dbab55ca2ff589bb353e08acc4e3223ba4c4e4ab64100
+148508,000000148508.jpg,COCO,person,5045,0.0185,replacement,replace person with firefighter,,SDXL,7.5,30,bd2f7a98741ef675ba2ce4e6b8e7966b3fea3243c87c8e808c3cf34869f7d9e7
+148662,000000148662.jpg,COCO,person,18491,0.0602,replacement,replace person with firefighter,,SDXL,7.5,30,a086acb1a7d3119db09cfa585bd23a86918cb7bf71538490d23a7a9641601077
+148719,000000148719.jpg,COCO,truck,86994,0.2832,replacement,replace truck with bus,,SDXL,7.5,30,8d76097243cabdea271416a256ab812e4557bfd4ae8b60d5391ed97e5474f09a
+149770,000000149770.jpg,COCO,person,2570,0.0886,replacement,replace person with firefighter,,SDXL,7.5,30,c8a96ffb404e3a704f4c66256dfecceac2f58230c4d02accb3a7c5e66b6a2788
+150638,000000150638.jpg,COCO,person,9682,0.0323,replacement,replace person with firefighter,,SDXL,7.5,30,c69abca34c939711e9ec66f493bb9ddc714fec00b05d9afa0d92e12071873a72
+150649,000000150649.jpg,COCO,person,4083,0.0263,replacement,replace person with firefighter,,SDXL,7.5,30,727810fe6261253c05f7798e21e3cc98f64ba2e2cb28ee09ca9eac8ff440a91b
+151820,000000151820.jpg,COCO,person,17000,0.0622,replacement,replace person with firefighter,,SDXL,7.5,30,bdefb34431171668bd1287f86f7c8922a83fee361ffdcb598f3143784decb84e
+152686,000000152686.jpg,COCO,person,7462,0.0291,replacement,replace person with firefighter,,SDXL,7.5,30,039d481d1bd98aab02cee499576830bdd8ec895f96032942df8d27c44d9468cb
+153011,000000153011.jpg,COCO,truck,33255,0.1083,replacement,replace truck with bus,,SDXL,7.5,30,6245900926097de9b78442f6a7657adc83ef17fb44329a05640fa75bd49a4962
+153529,000000153529.jpg,COCO,person,52399,0.1706,replacement,replace person with firefighter,,SDXL,7.5,30,6ffedcd910b4daf316aa53af2982d7bc8951d8ac64e085956fdb5b257f6d8c8e
+154425,000000154425.jpg,COCO,person,46821,0.1721,replacement,replace person with firefighter,,SDXL,7.5,30,8a76e1bb4754f26ccc0ef969e2c090d8dff1146115a2145e662317722bcf979e
+154718,000000154718.jpg,COCO,person,34508,0.184,replacement,replace person with firefighter,,SDXL,7.5,30,54fd10e6f3c5a243bb743a937a8f12f47e50a46d91e0c829692944ada3615f68
+156071,000000156071.jpg,COCO,person,11441,0.0372,replacement,replace person with firefighter,,SDXL,7.5,30,e3dd0d35b0270975a2cdf6df98c45687c72b3353c92d220170a885f4ec30cf61
+156076,000000156076.jpg,COCO,person,18512,0.0605,replacement,replace person with firefighter,,SDXL,7.5,30,2cfea71c6223745c22531c604adeee15e7fe886ac58bc2ac01476a19d0236b70
+156292,000000156292.jpg,COCO,person,7310,0.0267,replacement,replace person with firefighter,,SDXL,7.5,30,acd8d2751162548b0873fc0b6c2f004093017b4b08d4ca11e569f0a4f9665f73
+156924,000000156924.jpg,COCO,person,26166,0.1572,replacement,replace person with firefighter,,SDXL,7.5,30,19fc5946f3c3a81a6b37d2f1d09a85ebde979e11c59d5407a81ba291509a8434
+157046,000000157046.jpg,COCO,person,18444,0.0984,replacement,replace person with firefighter,,SDXL,7.5,30,fe7b60e56629010eb2c014a572539a91d15cd4ece9a5e674c2b6e68119fad376
+157767,000000157767.jpg,COCO,person,7575,0.0277,replacement,replace person with firefighter,,SDXL,7.5,30,924d63ff20bf68343a0c12031424808432922c132fe46edc224a93800cd8dc30
+157807,000000157807.jpg,COCO,cat,39531,0.1447,replacement,replace cat with fox,,SDXL,7.5,30,c231d9a41a0ee3e34d00e343814dd4aacfa2b23356e6f485b234b654e623416c
+160012,000000160012.jpg,COCO,person,48706,0.1651,replacement,replace person with firefighter,,SDXL,7.5,30,214a711b36d055133a951ec86745dc56475388089f2090cb16ea3b6f4a1208ec
+160556,000000160556.jpg,COCO,person,44620,0.1629,replacement,replace person with firefighter,,SDXL,7.5,30,0a9158b326c801618acd1994741e2985fc9a916ca2daef1e18e8ab36fc72108e
+161397,000000161397.jpg,COCO,person,9745,0.0317,replacement,replace person with firefighter,,SDXL,7.5,30,c79ccdabbd872a9a214d1fcd1ea1711f9ad20a88b6ffd82cdf93b877c0e5c1d7
+161609,000000161609.jpg,COCO,dog,6969,0.0227,replacement,replace dog with wolf,,SDXL,7.5,30,049304d614a654f079f2248ccb235c2c1f9fc22cf244aadd86d7a2547bd06b33
+161861,000000161861.jpg,COCO,person,10268,0.0548,replacement,replace person with firefighter,,SDXL,7.5,30,615833570175297d76a76831ac26e78b64fbbcc353c44217fea740b4bb31326c
+162092,000000162092.jpg,COCO,person,138718,0.3387,replacement,replace person with firefighter,,SDXL,7.5,30,55264fa5f38a928769605bf784d18ed64c1eeea04ebdd541abff6ff4f85cc588
+162415,000000162415.jpg,COCO,person,163367,0.4762,replacement,replace person with firefighter,,SDXL,7.5,30,806e99f10426146e9892b32c20dccd39a655fbad5bea114e5fae8cab496ea76a
+163117,000000163117.jpg,COCO,person,34651,0.1843,replacement,replace person with firefighter,,SDXL,7.5,30,a6240ae575b7cd2122215177db224c74338870520b77423bf9452a0ea545dedc
+163640,000000163640.jpg,COCO,person,42875,0.1466,replacement,replace person with firefighter,,SDXL,7.5,30,c41526c03ba28d3cc527da247ccb699d724ebb52f25c96362cfdb70b506e2353
+163746,000000163746.jpg,COCO,person,18050,0.0578,replacement,replace person with firefighter,,SDXL,7.5,30,b71db3b04ca9589f514856f495c13a6652177c463f98800ec58c42bbda773dae
+165681,000000165681.jpg,COCO,motorcycle,11378,0.04,removal,remove the motorcycle,,SDXL,7.5,30,a416c32df0f5bc34afca6371c5955113b0af8b08db3ba9cece162174b4ea8f84
+167572,000000167572.jpg,COCO,person,15102,0.0555,replacement,replace person with firefighter,,SDXL,7.5,30,76e1023cc592190758bfb43f4044e32f043fdb8d8e7f49f3bd130f2172ca768c
+168883,000000168883.jpg,COCO,person,8232,0.0269,replacement,replace person with firefighter,,SDXL,7.5,30,e7250a9faad4dcec6d74037ff852a76bdb8fc9c513bd30fdad929b54bac33c55
+171298,000000171298.jpg,COCO,bus,111606,0.3633,removal,remove the bus,,SDXL,7.5,30,95a32290a8d612711f0cfbab492db1ba5ad0ac389e11c03aef5724957c4b2d41
+171382,000000171382.jpg,COCO,car,6439,0.0236,replacement,replace car with truck,,SDXL,7.5,30,f7331eb8823cf0887d5039e2a7994fb2aa7ea781b9209d6ab7eb935907a3c7ee
+172649,000000172649.jpg,COCO,person,7352,0.0269,replacement,replace person with firefighter,,SDXL,7.5,30,7b472f11a799de3eb2d647f3f7d84d9fd266d3ffc3b5499a9057c1ffa7a853dd
+172946,000000172946.jpg,COCO,person,4542,0.0166,replacement,replace person with firefighter,,SDXL,7.5,30,10c7f215c27c91c29b5ca5dabf4834734ae40f0ab4a257f7eff58fdc7080d4d8
+173008,000000173008.jpg,COCO,person,69320,0.2257,replacement,replace person with firefighter,,SDXL,7.5,30,0bb3be775fc3440f153fd89c7c77c8c805f56e9be049cd516611b4a004781fb0
+173830,000000173830.jpg,COCO,person,52708,0.1389,replacement,replace person with firefighter,,SDXL,7.5,30,d8ff354b8218a422a2c23d149ad46af6b5cf3fe28311ff8832132723e5b61f1a
+174123,000000174123.jpg,COCO,person,4822,0.0242,replacement,replace person with firefighter,,SDXL,7.5,30,11c5dca33d980117b83d7041a0c903a1e8e8fc31fe0a263e15e4ff4f4b1c6f6f
+174371,000000174371.jpg,COCO,person,36516,0.1117,replacement,replace person with firefighter,,SDXL,7.5,30,265bd08c6943950242dc8eca0524c536c10c1068fb18db65f7c2e0fe7370113f
+176778,000000176778.jpg,COCO,cat,9672,0.0354,replacement,replace cat with fox,,SDXL,7.5,30,dc86f0e5943326ed969dffd96003fcd3bff10098bb5450e490c38d5c7e6661bb
+176901,000000176901.jpg,COCO,person,5840,0.0254,replacement,replace person with firefighter,,SDXL,7.5,30,859e5a023cd73f44d3ce7a890acf475bd3beee422dc151d52e79fd4edae3fece
+177213,000000177213.jpg,COCO,person,49086,0.2136,replacement,replace person with firefighter,,SDXL,7.5,30,0760202a621a367680022a3a7ea35c0b566c3d5143b2bdb6ed118db3f28d4b93
+177539,000000177539.jpg,COCO,person,27480,0.1006,replacement,replace person with firefighter,,SDXL,7.5,30,149690e1c183fdd12554e1c6fe88b34614d999befe50392d60e69c27f8542fe8
+177861,000000177861.jpg,COCO,person,9860,0.0321,replacement,replace person with firefighter,,SDXL,7.5,30,22dbc9e69a6fc387f88784338541df4ad9cd6dd9b3a37f7454b814462ce950ce
+179392,000000179392.jpg,COCO,dog,105063,0.342,replacement,replace dog with wolf,,SDXL,7.5,30,b65a0a8c28965ef46c9050b985f9d0cbfdecacfd3088b282e92af5d2534bae1c
+179765,000000179765.jpg,COCO,motorcycle,84805,0.2761,removal,remove the motorcycle,,SDXL,7.5,30,adc98c3fe96aaa17cf18029687c37080dbb8e252c7316047f57c7f600a78e241
+179898,000000179898.jpg,COCO,person,4980,0.0162,replacement,replace person with firefighter,,SDXL,7.5,30,b17b309f711021829fde938c28af1240f241f5fa36efc2f3eb5914cb5d71169c
+180751,000000180751.jpg,COCO,person,50671,0.1649,replacement,replace person with firefighter,,SDXL,7.5,30,fb079553182849d89cbd49dd7d52da5fb497ab525b6e955fc7a86d9ccd02f753
+181421,000000181421.jpg,COCO,person,4676,0.0164,replacement,replace person with firefighter,,SDXL,7.5,30,f008d732043e328e997506284ba9d4b45f8c020a65e21ce871fd866b32cdba30
+182923,000000182923.jpg,COCO,person,3145,0.0168,replacement,replace person with firefighter,,SDXL,7.5,30,89b9f68cdad2541f251ec7c18564334accb71c169f5ef03b2b37566afd01d66f
+183437,000000183437.jpg,COCO,person,4522,0.0165,replacement,replace person with firefighter,,SDXL,7.5,30,b6a55029f35caf96cdb74d6ba8b3fd33b0e91119e1272db3a118a3f050b6580f
+183500,000000183500.jpg,COCO,airplane,40483,0.1471,replacement,replace airplane with fighter jet,,SDXL,7.5,30,9e03d20662ee793f3e8779aaaafaf2ce8f42454e3e4a6ee513a4ea9aac7aa04e
+184324,000000184324.jpg,COCO,person,4309,0.0158,replacement,replace person with firefighter,,SDXL,7.5,30,7a58104707e7c5f47a094f014fcd061f50e12c1a88dde1da49167263966de8d3
+184611,000000184611.jpg,COCO,person,23027,0.075,replacement,replace person with firefighter,,SDXL,7.5,30,7749c8a581730f2866540c50ee3ade349985aeaeb13e0f198e1be3ff0c624a94
+184978,000000184978.jpg,COCO,person,10577,0.0344,replacement,replace person with firefighter,,SDXL,7.5,30,0ab00fa34e51470f18882b64d637e2f4edb26dfda3797bf490efa04281ea1169
+185472,000000185472.jpg,COCO,person,11018,0.0359,replacement,replace person with firefighter,,SDXL,7.5,30,a58dea6b3e024068bb5217ca12738129fd868f3d531b236205ce65e347e03291
+185473,000000185473.jpg,COCO,horse,3156,0.0254,replacement,replace horse with zebra,,SDXL,7.5,30,b326a401e82413acf926f2db15a229a6c030d92a20290ba603882592c8ba5775
+185890,000000185890.jpg,COCO,person,54835,0.1683,replacement,replace person with firefighter,,SDXL,7.5,30,90bdc661531fd82915dbcaa29d0f4446fc308a6f48f4ab03899b13f819b78071
+186449,000000186449.jpg,COCO,person,7177,0.0257,replacement,replace person with firefighter,,SDXL,7.5,30,6da9ffbe28256e0dddd5ed7e11441ccab85291e456fb6d81547d9f3ec04279e2
+187236,000000187236.jpg,COCO,cat,28067,0.0914,replacement,replace cat with fox,,SDXL,7.5,30,4aab476556c40e5737a874f86e71a68a9972af01e1f22013c1a188072af88bc3
+187362,000000187362.jpg,COCO,person,9459,0.0348,replacement,replace person with firefighter,,SDXL,7.5,30,b25e0a01029421fd392c0150dcad06d88cbe3c26dfb9f3e3073f88784c2e9dc7
+187585,000000187585.jpg,COCO,person,78489,0.2813,replacement,replace person with firefighter,,SDXL,7.5,30,1c230152fd7580d2f690a33d56c8b1eecf370bdaffcb8c7368226656a5921e7e
+187734,000000187734.jpg,COCO,person,18870,0.0614,replacement,replace person with firefighter,,SDXL,7.5,30,3497e1d78469ac5969ba9d0f94345045e98bf651b030c0ad7d13a9db4f098d69
+188296,000000188296.jpg,COCO,car,10311,0.0265,replacement,replace car with truck,,SDXL,7.5,30,9458355cf17559206c159760a24c2d1419fac1f0afa8616f3a225aaf3d1b5551
+189475,000000189475.jpg,COCO,person,4845,0.0258,replacement,replace person with firefighter,,SDXL,7.5,30,55724fd63eb272d685bd6bd6f895af72439ff42ea7b2f410a10a6f09feb7fc44
+189806,000000189806.jpg,COCO,cat,5312,0.0266,replacement,replace cat with fox,,SDXL,7.5,30,01d75bfefe15f7b1384ba50ff2a039ff1a5dd55adf83a51e53352903294eb182
+190140,000000190140.jpg,COCO,dog,6597,0.0241,replacement,replace dog with wolf,,SDXL,7.5,30,176a1293a2d0accc6dc6a71252df075e054de34dde7634360464f9150af46de0
+190307,000000190307.jpg,COCO,person,34642,0.1002,replacement,replace person with firefighter,,SDXL,7.5,30,d460ae7033c8f80b9a9a451128967caf98e6a38b7a2e3162309718cab03a315f
+190676,000000190676.jpg,COCO,person,13452,0.0796,replacement,replace person with firefighter,,SDXL,7.5,30,773f0120b4260bff596627a0bfcb5077aac1cfca6152f15ac82a42b0d2c3b5fc
+191288,000000191288.jpg,COCO,person,8679,0.0362,replacement,replace person with firefighter,,SDXL,7.5,30,0ad05f26f605bf47cce3933a7c2ac6a148bf5b15ee3dc26640257c501462a647
+192699,000000192699.jpg,COCO,person,60442,0.2067,replacement,replace person with firefighter,,SDXL,7.5,30,2d8f496778e991e2a7c82688eddca60f276e04be4008db8b8faeddc569456525
+193245,000000193245.jpg,COCO,person,8439,0.045,replacement,replace person with firefighter,,SDXL,7.5,30,e12857b96cf27684545dc1afb43d82c923ecfebe6218669d1ee1077b59401220
+194471,000000194471.jpg,COCO,person,12693,0.076,replacement,replace person with firefighter,,SDXL,7.5,30,9ed601f487c4eb9aea2ed5384c3b702f21cc5b1d84bc6b3b2811343ce1acc7db
+194506,000000194506.jpg,COCO,bear,8194,0.0257,removal,remove the bear,,SDXL,7.5,30,6acd08c950bfe577e01e531bb0f3a1499a3e431e724de3381b2cceae1616e179
+194716,000000194716.jpg,COCO,person,75901,0.2777,replacement,replace person with firefighter,,SDXL,7.5,30,5d48087df5a06992058d49b3cb9fb116fdd6b42bf7a02598048133711ba3add9
+196141,000000196141.jpg,COCO,person,17618,0.0642,replacement,replace person with firefighter,,SDXL,7.5,30,72a548f5d82e403f741d421f1a113892f068d7400727cb9d73052929ded1edff
+196185,000000196185.jpg,COCO,airplane,12780,0.0468,replacement,replace airplane with fighter jet,,SDXL,7.5,30,a82dd24a48bdae887404ec26171cf6219dfcce20ed6982e9bb2f3be6247d7cf5
+196442,000000196442.jpg,COCO,person,4923,0.018,replacement,replace person with firefighter,,SDXL,7.5,30,149db87f6bde11e75f2ad171ab94b5f63c4ea74d86032cf4b2ac960f28664c5b
+196843,000000196843.jpg,COCO,bus,168610,0.5489,removal,remove the bus,,SDXL,7.5,30,d0a8bcc9295ec1b9d3928b7626ed8da61caee8d64d12ef16285c8b313abd06ee
+199771,000000199771.jpg,COCO,person,16428,0.0604,replacement,replace person with firefighter,,SDXL,7.5,30,a463d0b5046ab1ab7f9d2acd7b9dbdbdc83300fe25ca1ed7df6a6a6d95a2520a
+201676,000000201676.jpg,COCO,zebra,6667,0.0217,removal,remove the zebra,,SDXL,7.5,30,858da66daed43376058d4f54c45348e6857eeab792f508564393218c6c311224
+202339,000000202339.jpg,COCO,bus,19800,0.0645,removal,remove the bus,,SDXL,7.5,30,e2cdec383b30716fae2c1c10ff9cba665d5fa770045b115883d75ee386bfcc33
+203294,000000203294.jpg,COCO,bus,74372,0.2421,removal,remove the bus,,SDXL,7.5,30,7d0cdd040d3ab834fba2e36de75a9e31aea79fbd79b6ff24caab0c58a9347f9d
+204186,000000204186.jpg,COCO,motorcycle,89363,0.2722,removal,remove the motorcycle,,SDXL,7.5,30,e8bd79f594faed8a74158948fd1d5eda91df2f5a0d76f11f910b7d7416f9f49d
+206487,000000206487.jpg,COCO,truck,21401,0.0697,replacement,replace truck with bus,,SDXL,7.5,30,f7f2ffd435326eb8aeddbe4b4fe3215b944a056c279f49c0816257b2f57d2b82
+208363,000000208363.jpg,COCO,person,5286,0.0172,replacement,replace person with firefighter,,SDXL,7.5,30,c3b1bb0ef24d79bfdadbdb473c1a24df15db398acd0097fd7f7144d7f7845c9b
+209829,000000209829.jpg,COCO,person,4893,0.0159,replacement,replace person with firefighter,,SDXL,7.5,30,034f2eff2b3a92f4b551d732f05bb859d3fb60cba816e0ba3a28b138b614d44b
+210388,000000210388.jpg,COCO,person,14694,0.0539,replacement,replace person with firefighter,,SDXL,7.5,30,cf8edd4203663db536e62779d9a2168855dcbabc435c1d38f2f882ecd87dbc10
+210789,000000210789.jpg,COCO,person,12466,0.065,replacement,replace person with firefighter,,SDXL,7.5,30,8dc1263e45a125b4b85b4debc5292f806bf5db6d75d919d808435beebd0489dc
+211042,000000211042.jpg,COCO,cat,19955,0.0681,replacement,replace cat with fox,,SDXL,7.5,30,9ca2e05bdc4be7351072df16590aef8100256fdcaaaebaf2076481871976c6d4
+211674,000000211674.jpg,COCO,bus,94680,0.3644,removal,remove the bus,,SDXL,7.5,30,840c2893bc2325dc89036dfc10e7a3da0e209a0f94f7887f8dcf6431b88658a6
+212166,000000212166.jpg,COCO,person,132649,0.3542,replacement,replace person with firefighter,,SDXL,7.5,30,751608170b7a9c65653fea97d5af48c2a1430591733e3f941b5a4f811a009f78
+212226,000000212226.jpg,COCO,person,13042,0.0779,replacement,replace person with firefighter,,SDXL,7.5,30,cf4a955c122525d67c2358e21ebb7103bd919f755861282d129a8d491e122818
+212453,000000212453.jpg,COCO,person,4722,0.0154,replacement,replace person with firefighter,,SDXL,7.5,30,682baa1976ad541ebe6febcadc38752d7aa7966892e05dd2edc0c088fbd71ced
+212573,000000212573.jpg,COCO,person,19804,0.0554,replacement,replace person with firefighter,,SDXL,7.5,30,1b95cc4618d7347810299eb5b379f0a6bb291d5c075c6710e42a6bd9858812c4
+213035,000000213035.jpg,COCO,person,44696,0.1636,replacement,replace person with firefighter,,SDXL,7.5,30,df30ec756b1d71cb4d26e22158502ef9a8dfed9c3ad100d3982a0eca247d157d
+213445,000000213445.jpg,COCO,cat,44966,0.2204,replacement,replace cat with fox,,SDXL,7.5,30,a20e44555c777c4461879f5a867be511e9a709d981cbdd598a4ddff7cdd963f5
+214539,000000214539.jpg,COCO,person,14141,0.0517,replacement,replace person with firefighter,,SDXL,7.5,30,bdfa2e768707f9dd2f1d4d157b758463cc615745ae266dd14a7353a4c8828f10
+216296,000000216296.jpg,COCO,person,17244,0.0631,replacement,replace person with firefighter,,SDXL,7.5,30,c022d121b6d1ccf1fdffb5f3a44ae51f6ff789100aa14e83cadd74bcd9808ae1
+216516,000000216516.jpg,COCO,person,35846,0.1167,replacement,replace person with firefighter,,SDXL,7.5,30,bb046cd8738bf0988844a6cf10e785bd7f6867d6d98c13b9ea01e40128fd4a91
+217285,000000217285.jpg,COCO,person,12477,0.0457,replacement,replace person with firefighter,,SDXL,7.5,30,a821c1ed6341c613b15e8eedeeafd57c91b6f6c50b02b88b31b4f4badf8a5ac0
+220584,000000220584.jpg,COCO,person,7670,0.0281,replacement,replace person with firefighter,,SDXL,7.5,30,adadba4c55e6c4974cf8ca349d01337199243ab448bb5396c31f87dc0cef8bf5
+220732,000000220732.jpg,COCO,bus,110981,0.3613,removal,remove the bus,,SDXL,7.5,30,e5308415383bd2ed3c4eb4bad47f2efd9eaaa27880a9fb302ddfc133a87cf9f4
+221291,000000221291.jpg,COCO,person,12943,0.0773,replacement,replace person with firefighter,,SDXL,7.5,30,22bccb5fe16bf4fbbc5fb0c1bac043f898b8d916ba3d1c1621bc45072b0dd0a7
+221693,000000221693.jpg,COCO,dog,65713,0.241,replacement,replace dog with wolf,,SDXL,7.5,30,ce6f3ffcaf006ae88826880ae5580b3cf6954bc619f9a38ed7d91ad5ba37f13a
+223188,000000223188.jpg,COCO,cow,102821,0.3762,replacement,replace cow with horse,,SDXL,7.5,30,220ea9e955534bb26afc1b753b55707efa6924cf310acac269b69f644aa1c6d5
+224337,000000224337.jpg,COCO,person,4821,0.0176,replacement,replace person with firefighter,,SDXL,7.5,30,92501077cf60eb4ebf33bd9c304a62d3430d78c95610c53be91d188dc27c4615
+224675,000000224675.jpg,COCO,person,19909,0.1659,replacement,replace person with firefighter,,SDXL,7.5,30,349f0e8187f236972a25d0b5b48eac280b05e76f106366b733f85cdf958d22fb
+227482,000000227482.jpg,COCO,person,52670,0.1715,replacement,replace person with firefighter,,SDXL,7.5,30,36fb41f3578c058f9bd8cea3181d4ab89aebd4c8e5ea4c1c9ef9975816adcee6
+227898,000000227898.jpg,COCO,horse,14954,0.0551,replacement,replace horse with zebra,,SDXL,7.5,30,dca6d2d25cc93634d70a99926f3815d904cf18c14f9ce23978ab76219996be37
+228436,000000228436.jpg,COCO,boat,5446,0.0175,replacement,replace boat with ship,,SDXL,7.5,30,8d08ada640fabe172ba8f3721794b1b7626ef4e8bf3e049aa381e1dfba3c7372
+229601,000000229601.jpg,COCO,person,13969,0.0511,replacement,replace person with firefighter,,SDXL,7.5,30,7975cfdb632e1a3453ee61825d6fa8e84c7c48836457aaa5ab1e769f778ab0c4
+229659,000000229659.jpg,COCO,person,5433,0.0177,replacement,replace person with firefighter,,SDXL,7.5,30,3f22ff6e54b520d83d872cd2c3543c27cd02a64fc0e952e362186da4618c581b
+229948,000000229948.jpg,COCO,truck,31428,0.1147,replacement,replace truck with bus,,SDXL,7.5,30,a40ba7ef91b28cf74ac665f8f5db73787e4bc8f63d5d637dd35b5856942dcbd2
+229997,000000229997.jpg,COCO,bear,27591,0.101,removal,remove the bear,,SDXL,7.5,30,012384aa5b493146ef246a41a039161bd3140df66836bcbee6541917b8e16f20
+231747,000000231747.jpg,COCO,person,4755,0.0186,replacement,replace person with firefighter,,SDXL,7.5,30,f27b0853c24f1d4b1180824a3847525726cd69d6357b4a4f698bdac96b68860d
+231879,000000231879.jpg,COCO,person,20215,0.0741,replacement,replace person with firefighter,,SDXL,7.5,30,b0cb52b40f7bfc759cb74212e73053ab6ac5ab3e4b4252cb3e320d353718f434
+232692,000000232692.jpg,COCO,person,7788,0.0286,replacement,replace person with firefighter,,SDXL,7.5,30,18aa0b0532cc4ab4fa954300eccd3a356de1042e842641710a2d5e8ae63dc14c
+233238,000000233238.jpg,COCO,person,9064,0.0295,replacement,replace person with firefighter,,SDXL,7.5,30,788aea90a375af20248fb925e462447864d8052fba3623c12991806840520bf5
+233771,000000233771.jpg,COCO,person,11199,0.0273,replacement,replace person with firefighter,,SDXL,7.5,30,adf933541fa59747c3ea5a61e219f2c5e6f6ac6734545804b7bae93134000db8
+235241,000000235241.jpg,COCO,person,46820,0.1713,replacement,replace person with firefighter,,SDXL,7.5,30,c3bdafafb6748b2e7e232532f9c8ec91a85f05411b4586f422f950656b61eedd
+235399,000000235399.jpg,COCO,dog,4139,0.0221,replacement,replace dog with wolf,,SDXL,7.5,30,a841f6b3ca5f4637a5850606e3604a3a11a885fc538b31eedcd5a09cba8ad13f
+235784,000000235784.jpg,COCO,person,14031,0.0478,replacement,replace person with firefighter,,SDXL,7.5,30,8d05b03b255ea97b3823110194d6a090fda079fb00666690494a49beace39241
+235836,000000235836.jpg,COCO,person,26107,0.0955,replacement,replace person with firefighter,,SDXL,7.5,30,35368cc2fee0029e8fbe949f821d471e55ffcbbcf313dc37add79b1518fa18c4
+235857,000000235857.jpg,COCO,cow,25958,0.0952,replacement,replace cow with horse,,SDXL,7.5,30,0301de48f2ac006d9459a548359d18b8e0db0dcb3d227438b8fd7ff0bc87922c
+236592,000000236592.jpg,COCO,dog,46960,0.1529,replacement,replace dog with wolf,,SDXL,7.5,30,92c8e5e38cc6d13c379e32be1b556d7bc647ef021144f9fe5032642109ee30c6
+236784,000000236784.jpg,COCO,dog,20576,0.1029,replacement,replace dog with wolf,,SDXL,7.5,30,418b7a38f7a58e4944e8e761d2a7c2412dd88824f61edcbe6304e7e1eb2a42fd
+239857,000000239857.jpg,COCO,person,5142,0.0309,replacement,replace person with firefighter,,SDXL,7.5,30,4b715f1780c8c59ab701d3d9ced578af67ed7d7c3c5dc603560fa6cf4fb5aedd
+242724,000000242724.jpg,COCO,horse,20685,0.0673,replacement,replace horse with zebra,,SDXL,7.5,30,92be394655fd1cef3f188647194e3e33d016cdadaaf73f8541a0bc40061857dc
+243204,000000243204.jpg,COCO,person,112394,0.3659,replacement,replace person with firefighter,,SDXL,7.5,30,46291462e1e8eb0fadf1725d1c77608c0b01acca495d510871f53a06d9704fc3
+244750,000000244750.jpg,COCO,person,14343,0.073,replacement,replace person with firefighter,,SDXL,7.5,30,2cb24ef9bb3800888216070094d167a87644f273f7f1b362430841dc0158a7d9
+245311,000000245311.jpg,COCO,person,9978,0.0266,replacement,replace person with firefighter,,SDXL,7.5,30,61ffb07028c551dc27b5dd5fb409841d4548ed1e61ac48b727b61a3df0519b01
+245448,000000245448.jpg,COCO,person,6098,0.0199,replacement,replace person with firefighter,,SDXL,7.5,30,689979176992e20cf5f99424b8f2431a6c85073eccdef19dc1474e610657be93
+245915,000000245915.jpg,COCO,elephant,3999,0.024,removal,remove the elephant,,SDXL,7.5,30,045b3b1844e5c4884d23bc0068edf0073bba1f78728a821840869da1af1c7c31
+246963,000000246963.jpg,COCO,motorcycle,4436,0.0165,removal,remove the motorcycle,,SDXL,7.5,30,8c241d8dae2eea20742b478b78525ad18148bf45132690fbee03357d126479fb
+246968,000000246968.jpg,COCO,person,13416,0.049,replacement,replace person with firefighter,,SDXL,7.5,30,d646d79d177eec70dafc985caff1e18a35341e269fe484903480b32aacd70627
+247917,000000247917.jpg,COCO,person,28561,0.0763,replacement,replace person with firefighter,,SDXL,7.5,30,09f8cd976603945b951ca215352aa4962bd564a0863a9504efc29d94a8c29bd0
+248616,000000248616.jpg,COCO,person,19967,0.0731,replacement,replace person with firefighter,,SDXL,7.5,30,917f4409e329992eb3b177f7efcb6a813b9043400a0ab683178b691427010984
+249180,000000249180.jpg,COCO,person,8467,0.031,replacement,replace person with firefighter,,SDXL,7.5,30,42e8d87fb9c0feb9792e487071b6051a6c9f0c389faef67716240e7a9f010405
+250127,000000250127.jpg,COCO,person,37803,0.0923,replacement,replace person with firefighter,,SDXL,7.5,30,ae84efd58f7ce5b6b0bae4ff6957d495f4752e5239a3072a9a9c2c414693d6d1
+250205,000000250205.jpg,COCO,bird,8670,0.0296,replacement,replace bird with eagle,,SDXL,7.5,30,b05e10024ffd20445ab2f38beb823c044af8c08c4d037b3ba5898ec73327f886
+250282,000000250282.jpg,COCO,person,4854,0.0178,replacement,replace person with firefighter,,SDXL,7.5,30,e99083c280428bfc423f837bc9a2373d07d06ec90ecad43eb7e1fe6047c5556b
+250619,000000250619.jpg,COCO,person,6077,0.0197,replacement,replace person with firefighter,,SDXL,7.5,30,dd2853474d26e3d583311927b9694a9ab6e1c9310dedd39cc002981d9fa19a0f
+254516,000000254516.jpg,COCO,person,5386,0.0197,replacement,replace person with firefighter,,SDXL,7.5,30,75230ee425eaaac437d228bb8c0f3d095fb352ff577a8b431cd6fc7567035e13
+254814,000000254814.jpg,COCO,truck,5022,0.0163,replacement,replace truck with bus,,SDXL,7.5,30,40076aa704d09cff62c9e0492eea456e4504e067dcc8c2dac43f94967f5c6be1
+257370,000000257370.jpg,COCO,person,52333,0.1704,replacement,replace person with firefighter,,SDXL,7.5,30,3b2b72ac72807bf8964179cbd120095ce4c6c8b9d36a403f7735e26a284773b2
+257478,000000257478.jpg,COCO,person,24171,0.1215,replacement,replace person with firefighter,,SDXL,7.5,30,9c397ad42299db5101853c3fcc7a663b7331c503c47f22b1460f89d12c74123e
+257624,000000257624.jpg,COCO,person,109152,0.4022,replacement,replace person with firefighter,,SDXL,7.5,30,dcd98771627055b28d316fdf6364501b9436ea7699a4c908c466c883f919c06d
+258911,000000258911.jpg,COCO,cow,9281,0.034,replacement,replace cow with horse,,SDXL,7.5,30,d893bacf4ef475683804dbace120093a0de91f5060f535d2b0893bb7fc451891
+259597,000000259597.jpg,COCO,person,6354,0.0318,replacement,replace person with firefighter,,SDXL,7.5,30,1f7bbda1f7f8138e73a41df5b3f8af3688b6b12747aca42f21d051dee64f97ad
+259690,000000259690.jpg,COCO,person,15791,0.0514,replacement,replace person with firefighter,,SDXL,7.5,30,d385a1841301fd7f97aac6415e61ea4d7ede178ea9d0b65c50add0081757e755
+260261,000000260261.jpg,COCO,truck,62414,0.2289,replacement,replace truck with bus,,SDXL,7.5,30,1ce670906df60e25c6b2fc7234892d84da28a8603843de29e10612f14bfc5e63
+260470,000000260470.jpg,COCO,car,4291,0.0157,replacement,replace car with truck,,SDXL,7.5,30,10c4d555445a734b9be03208c0360b31b6ffa888a406db6608eca9c47bc195fc
+261097,000000261097.jpg,COCO,person,10552,0.0634,replacement,replace person with firefighter,,SDXL,7.5,30,f0abe8231449aa4de0c79d254ec741d1e1425d37fe269bac636371ee8956230d
+261116,000000261116.jpg,COCO,person,11230,0.0599,replacement,replace person with firefighter,,SDXL,7.5,30,bb1aa0b14469e81e4beb62e55db59b2d3cf22ac325fb525d87a76f1bd11966c6
+263425,000000263425.jpg,COCO,person,7528,0.0275,replacement,replace person with firefighter,,SDXL,7.5,30,d2740634f4c21f93dd0f0b67bc886464bff8097f74da2c28733584011851af55
+263463,000000263463.jpg,COCO,car,150524,0.5508,replacement,replace car with truck,,SDXL,7.5,30,fcba84004cafd931bea62e5bdaf0eba393658ab94444dc6a30b503afc1b53614
+263969,000000263969.jpg,COCO,person,58094,0.1488,replacement,replace person with firefighter,,SDXL,7.5,30,8508fde4a93452da4963056d0af376d6d439037d1b95fd60c8afe650a14ce9e5
+264441,000000264441.jpg,COCO,cat,47200,0.2517,replacement,replace cat with fox,,SDXL,7.5,30,5ddd838343b2740800673f25ac9758c5fd7230272b6dccfa5596f4bb1ba16670
+264968,000000264968.jpg,COCO,person,7698,0.0461,replacement,replace person with firefighter,,SDXL,7.5,30,280b6dfeb23672d17068f558e56c8ad8c6de6fb126bfd05b321eaa2c5cdca0bc
+266400,000000266400.jpg,COCO,motorcycle,4361,0.0172,removal,remove the motorcycle,,SDXL,7.5,30,56160d2d64bbe290589f8b313dd5fd343e877883664006b8078b86dd7fd16e0b
+267169,000000267169.jpg,COCO,elephant,30637,0.1118,removal,remove the elephant,,SDXL,7.5,30,4ea7f20c3b3ed3fe889070b0b91924b6dc04926fd784471606fab0903489ccb1
+267537,000000267537.jpg,COCO,person,8516,0.0283,replacement,replace person with firefighter,,SDXL,7.5,30,05602701b46b65898d9c28749eb26d773a163e10409ab97baabf3eeef98b7438
+269316,000000269316.jpg,COCO,person,17327,0.0633,replacement,replace person with firefighter,,SDXL,7.5,30,7c3e46608e3be1b7f79a811d8540e1f4040687b1c92fb758a476d80229baf8c0
+269632,000000269632.jpg,COCO,car,7684,0.0281,replacement,replace car with truck,,SDXL,7.5,30,072f9bba2c1fa53862e9c563566ca0c41bc1e725974970bde17438a1ab8d1643
+269932,000000269932.jpg,COCO,horse,10240,0.0546,replacement,replace horse with zebra,,SDXL,7.5,30,6d8979acb35f6840ee990b7f556739880fe8c0f518f3f638c44142f187e23a9d
+270908,000000270908.jpg,COCO,person,14907,0.0997,replacement,replace person with firefighter,,SDXL,7.5,30,cce4c149d987b9d8e04b6d847a1cb95b146075f1a04476f63652c40fdd9d5a29
+271402,000000271402.jpg,COCO,person,46191,0.1702,replacement,replace person with firefighter,,SDXL,7.5,30,ad7f473e64b4d71370d5daa26eef606f67acfe83a2333eea9fc26ddccc6f634d
+272049,000000272049.jpg,COCO,airplane,9766,0.0357,replacement,replace airplane with fighter jet,,SDXL,7.5,30,bd405db440284dbc09fc4a27fe67882c8fe9674b5da8dbe2ba22f8dbc3a5b429
+273198,000000273198.jpg,COCO,person,10998,0.0587,replacement,replace person with firefighter,,SDXL,7.5,30,296a82ede62ff86bdb974fef3662bc856b7000085934c6b97872a50b1ef6b3ad
+273760,000000273760.jpg,COCO,person,41284,0.1381,replacement,replace person with firefighter,,SDXL,7.5,30,96991b0f8cbeb71650589044aff24cf9f4f5a1b575573fc6cd60301251269fa5
+274460,000000274460.jpg,COCO,person,5354,0.0184,replacement,replace person with firefighter,,SDXL,7.5,30,f220836e6c07054d69808dca1b0513133c05eb68e850ad9ad4272edbfd935a7b
+275749,000000275749.jpg,COCO,person,9229,0.0492,replacement,replace person with firefighter,,SDXL,7.5,30,39e6979e882212051e173f36a1c51cd85ee7ddb199dc46bda61d486e9b5e1863
+275791,000000275791.jpg,COCO,train,15679,0.0574,removal,remove the train,,SDXL,7.5,30,1efcd45bc278ea3c38a0116d03597b3481ab87596d3df8797e73317e7bc7df70
+277005,000000277005.jpg,COCO,car,4732,0.0174,replacement,replace car with truck,,SDXL,7.5,30,e4f28b4f5f15c3b9856ad181fbcd28831684c7d87a0f5425a93d1ee71d856d08
+277051,000000277051.jpg,COCO,bird,10794,0.0395,replacement,replace bird with eagle,,SDXL,7.5,30,faa29a5a387c90d57248b3cafbfef466a44c76bcd897329436c8451a2dd38847
+278463,000000278463.jpg,COCO,cat,8358,0.0272,replacement,replace cat with fox,,SDXL,7.5,30,480abf76dc7ed2e172f3388aba038c0a4451300afe426fbb84385d908f674a8f
+278848,000000278848.jpg,COCO,person,17509,0.057,replacement,replace person with firefighter,,SDXL,7.5,30,1f623fee70d1c595075856acf22831253e3ec16d027df6e0d13028830273128e
+278973,000000278973.jpg,COCO,person,21230,0.0779,replacement,replace person with firefighter,,SDXL,7.5,30,5fd2dc1a31ce66e54d6a9ac3f789b556731fd975391f64f1b557096a56699347
+279278,000000279278.jpg,COCO,person,24572,0.0895,replacement,replace person with firefighter,,SDXL,7.5,30,fab554c1e221ca4b60ddcb4e2bec8e1d980240dceb5150265492d6caf49378b2
+279714,000000279714.jpg,COCO,car,5380,0.0198,replacement,replace car with truck,,SDXL,7.5,30,f922a9edb58ccd0633b2bf21ef836b6b60db7575a95df1a57dd930d756011e56
+279730,000000279730.jpg,COCO,person,8245,0.0495,replacement,replace person with firefighter,,SDXL,7.5,30,e3b857c619eef5c0df5cb7de257cba0d966f9dbe0586b175f73a648da61d7fd5
+280891,000000280891.jpg,COCO,person,69936,0.2559,replacement,replace person with firefighter,,SDXL,7.5,30,a1cb068ca9a4ea9bc76d46251b6eb99aed4b958e6c07e5d03c26117eeff61f59
+281687,000000281687.jpg,COCO,person,16878,0.09,replacement,replace person with firefighter,,SDXL,7.5,30,2c1f244cfd47862b81c59d4af17005007945c8e407da7c6c129cf1a4134de0a9
+281759,000000281759.jpg,COCO,person,13438,0.0492,replacement,replace person with firefighter,,SDXL,7.5,30,d246639cb34c6e2511701adfd30197d37a4d4f25d79e1fda8420a4daf4962f73
+282298,000000282298.jpg,COCO,person,6150,0.02,replacement,replace person with firefighter,,SDXL,7.5,30,e2030652ec1dce3a747df3f62a09b0c7a4fb74f6715d040dac36176d2cb47dc5
+283037,000000283037.jpg,COCO,car,6439,0.0236,replacement,replace car with truck,,SDXL,7.5,30,d290ac880fa4aaefc30272033cf7627fee2427ded171764071dfac003853e399
+283520,000000283520.jpg,COCO,person,11433,0.0419,replacement,replace person with firefighter,,SDXL,7.5,30,3bd4c972e85d2bed7af901c58c0c398b18df34d527436083511fb04c176e44b6
+284445,000000284445.jpg,COCO,person,6933,0.0182,replacement,replace person with firefighter,,SDXL,7.5,30,6ba96b635e7df4d3ebcc1cc4ed64c679444dd230525c21f95ec664d8c43ec49b
+284698,000000284698.jpg,COCO,person,19347,0.1032,replacement,replace person with firefighter,,SDXL,7.5,30,2deecf326e0d91a0b12a80faff757253a5a5391e1da30ff7f94f9e00ddf3a0f2
+284743,000000284743.jpg,COCO,person,38804,0.1427,replacement,replace person with firefighter,,SDXL,7.5,30,d54bb3b606d5a9251fec11ad207cb99238ee0ba4527da04cb01f39523c47a6b9
+287291,000000287291.jpg,COCO,car,13127,0.07,replacement,replace car with truck,,SDXL,7.5,30,cf1fd4dc75572f5e3a4ac91d37a1c9d7cd385b1f699b87f3312e8f2b74bf0b2e
+287527,000000287527.jpg,COCO,person,219695,0.5364,replacement,replace person with firefighter,,SDXL,7.5,30,36b2f0b3a30100c6d5011fc24f92adc2a1912aca33320771dc85031d1e6e219a
+289343,000000289343.jpg,COCO,person,5689,0.0168,replacement,replace person with firefighter,,SDXL,7.5,30,62d03eed46aef54040baf337690f729066923987eb6aafe339584fccfd8d13d3
+289594,000000289594.jpg,COCO,person,11193,0.0337,replacement,replace person with firefighter,,SDXL,7.5,30,d0c762e75d559069b60bfdf6623e7b8610be78a5ef29df0a858ab60c2c89d34c
+289741,000000289741.jpg,COCO,boat,13325,0.0434,replacement,replace boat with ship,,SDXL,7.5,30,ba86cad71b474400ac49edc091993f5f4a975f639bd2b4b9bd21402572599937
+290248,000000290248.jpg,COCO,truck,9516,0.031,replacement,replace truck with bus,,SDXL,7.5,30,84edd5427613bf1a795552e0e281f6ac743637575625ec67048e854ecf6ea9dc
+290833,000000290833.jpg,COCO,zebra,62210,0.2276,removal,remove the zebra,,SDXL,7.5,30,27554895acd7008935e5f8d3baf538c13fe536d17162a163296f1c22dee186a5
+291551,000000291551.jpg,COCO,person,32391,0.1182,replacement,replace person with firefighter,,SDXL,7.5,30,b7c5a87b10216f52cc1fb2da834742417882faa3ee7bdd564a878f5cbd5602ed
+291619,000000291619.jpg,COCO,person,8793,0.0322,replacement,replace person with firefighter,,SDXL,7.5,30,0d96f752ea5d7a45662e4f7fb65feaabf046a7a63c1f3054ed6b41c6e5606bc3
+291791,000000291791.jpg,COCO,person,8200,0.0257,replacement,replace person with firefighter,,SDXL,7.5,30,0fced26af5aafcc0e240b3736e973d71e20fafc3bd1eda1f47c79c9bbc6ef6cc
+292082,000000292082.jpg,COCO,person,52014,0.127,replacement,replace person with firefighter,,SDXL,7.5,30,38c84c430889728512c9f85e8163b469227d80a1acf24233b6204a964ff83ed2
+292488,000000292488.jpg,COCO,person,88561,0.3248,replacement,replace person with firefighter,,SDXL,7.5,30,c469ddb46883eb5910d802364329a1c56a9abbcadfc05378b9f4c708d7dd9403
+292997,000000292997.jpg,COCO,car,9877,0.0322,replacement,replace car with truck,,SDXL,7.5,30,34930e960da51b3ebd8077fa8b84df66b0f11d334f229084b58ff639d2bc7b08
+293200,000000293200.jpg,COCO,person,10741,0.0393,replacement,replace person with firefighter,,SDXL,7.5,30,d3fe77569bcaa474488aae61e39524ae56a4d621a18b78ac9f423e4e8ecaa58c
+293625,000000293625.jpg,COCO,person,40751,0.1327,replacement,replace person with firefighter,,SDXL,7.5,30,d9369e743997b9c9a649378d1794e37d1f92b747fa7a39de0bf0e97cbe4f34cd
+293794,000000293794.jpg,COCO,person,15100,0.0551,replacement,replace person with firefighter,,SDXL,7.5,30,916e685f9595167c9d1886963475d00377b1cd3e3414b059e0da87d7575085ee
+294350,000000294350.jpg,COCO,person,6484,0.0238,replacement,replace person with firefighter,,SDXL,7.5,30,534c5bf52dec4d8154930d931eadbeccd1f4c5f6ef652deae9d38ec36e69cc9c
+296649,000000296649.jpg,COCO,person,5094,0.0186,replacement,replace person with firefighter,,SDXL,7.5,30,ccc71f9938f43b0b6bce957c819c4ca84637bc6faea6b3081cb85419ea0b4fc7
+297022,000000297022.jpg,COCO,truck,57279,0.1776,replacement,replace truck with bus,,SDXL,7.5,30,576426f01e0c5e29fbeae66e1de0337f9427de161530ab8e756eec143cc5e1f7
+297681,000000297681.jpg,COCO,car,4626,0.0167,replacement,replace car with truck,,SDXL,7.5,30,f5c0284193ec5aa73d169f4f295d88d2ade93725981f03d42eb84ed746f0ed10
+297698,000000297698.jpg,COCO,person,6088,0.0216,replacement,replace person with firefighter,,SDXL,7.5,30,11b807dcb5bbe3bf6a48937915d3aadc62cc882408b21244ab11824d8a1c8390
+297830,000000297830.jpg,COCO,dog,98553,0.3008,replacement,replace dog with wolf,,SDXL,7.5,30,74e896e0be03126cd896bc141106476f520da475ee0c78e36b94513617bad512
+298738,000000298738.jpg,COCO,bear,115038,0.421,removal,remove the bear,,SDXL,7.5,30,1d7eefc58e0c54945c55d9710aef309d6c688f54800852d9ec8f2f5f1d397fd3
+299887,000000299887.jpg,COCO,person,34285,0.1116,replacement,replace person with firefighter,,SDXL,7.5,30,5374b675b1f60d14239f7e073251349a70aaaff447bfe107105cd69a37d9d54d
+300155,000000300155.jpg,COCO,bird,20109,0.0736,replacement,replace bird with eagle,,SDXL,7.5,30,a505d8f274a7dccc58099632ddadf0fda9c3169e9974a4118fe31a9cbc12dc8c
+301061,000000301061.jpg,COCO,person,11242,0.0366,replacement,replace person with firefighter,,SDXL,7.5,30,3486499331453b3c4e50317181cf85b02666c6afe771d642e726299cbb9f4785
+301135,000000301135.jpg,COCO,person,4383,0.016,replacement,replace person with firefighter,,SDXL,7.5,30,0f07174c182983340a1330a5d3a8028d971b9564aabbe83a7b1dce4a8515d646
+301867,000000301867.jpg,COCO,person,31338,0.102,replacement,replace person with firefighter,,SDXL,7.5,30,7a308d9b3f6a62a7a9f19baa08974eab129df18a56f00ead4d85964d70ba4821
+303305,000000303305.jpg,COCO,bus,127016,0.4135,removal,remove the bus,,SDXL,7.5,30,157bcc4ad5d367e8746ac30fdf0080fc18a7bf2f4d1de74474f91c7c329e7cef
+303499,000000303499.jpg,COCO,horse,31755,0.1907,replacement,replace horse with zebra,,SDXL,7.5,30,bbdfb86e37f0a18c3b9af039e2c247a7dc6d4f1a6a5e96d6961b8c736a4204b1
+303566,000000303566.jpg,COCO,person,6671,0.0245,replacement,replace person with firefighter,,SDXL,7.5,30,e56487b7121399baf40c99f71a3d34b5ff2e6cd2cf55061a9514dd5ad5b08fa4
+303653,000000303653.jpg,COCO,person,6537,0.024,replacement,replace person with firefighter,,SDXL,7.5,30,75da71e78fd163ef0e867a2b95d8dca6916999d5b6b7c52a29f862a5fb2d513e
+303713,000000303713.jpg,COCO,person,22899,0.0838,replacement,replace person with firefighter,,SDXL,7.5,30,de7286059233a158ab8cb67066c85bfdac30a8274b72025d21b1d36d4ce0baa9
+303818,000000303818.jpg,COCO,bus,30882,0.1005,removal,remove the bus,,SDXL,7.5,30,88e8c8f48643b74862db3ddbf3de46f0a636cb2f4dad217d534ef0a0a3c8b02d
+304291,000000304291.jpg,COCO,horse,21363,0.0782,replacement,replace horse with zebra,,SDXL,7.5,30,05dfbb4cbf7d7caef5aeae7a407ce132be71bc380ddfb9c8c25c670c2522a9e9
+306893,000000306893.jpg,COCO,train,41102,0.2234,removal,remove the train,,SDXL,7.5,30,a27b8473f590b1f070582f579a7fdb20c444b17eab2ee36bb112f116db08aa51
+308476,000000308476.jpg,COCO,bear,94239,0.3068,removal,remove the bear,,SDXL,7.5,30,33a41d82b78def6db56ad85262f27c619e4b36eda0401e04a0e537bfcd09a29a
+308545,000000308545.jpg,COCO,horse,11417,0.0418,replacement,replace horse with zebra,,SDXL,7.5,30,70b166fb3983c5273924539d63d0160c94eec9a2ffa9389d2c59cdd41d82ba33
+308631,000000308631.jpg,COCO,person,8401,0.0308,replacement,replace person with firefighter,,SDXL,7.5,30,3bbb92b7a5d5e8b68643ed450b87e0c735b4299e6548c702c85a84943c014d7e
+309484,000000309484.jpg,COCO,dog,164017,0.4808,replacement,replace dog with wolf,,SDXL,7.5,30,42a790a27c5db1ae9e8197fb65f1e76a6f330c408210803c04c49a139576899a
+311180,000000311180.jpg,COCO,person,126802,0.4128,replacement,replace person with firefighter,,SDXL,7.5,30,f8f8347272e751f49263ddf4f1c72c98f1b6d3be86dabf32faa08018f9e1c50b
+311190,000000311190.jpg,COCO,dog,71863,0.3833,replacement,replace dog with wolf,,SDXL,7.5,30,e29f98a3b4f5c23c8d2bfdbe0c9176b8a5a4d416f3607da9b0d035d78854e1c3
+311392,000000311392.jpg,COCO,person,6724,0.0246,replacement,replace person with firefighter,,SDXL,7.5,30,e8d958f43114ed28b608cf25c7d0f2876284af493bc61ee2c52e52378c7199dc
+312213,000000312213.jpg,COCO,cat,101399,0.3301,replacement,replace cat with fox,,SDXL,7.5,30,cd3066eff6a474e3c175f01514a7f1dddc4e3bed4201ec2df7eeff56759f6bf5
+312340,000000312340.jpg,COCO,cat,39013,0.1434,replacement,replace cat with fox,,SDXL,7.5,30,b83d583ce0695482e7f9c70a4f6715ed7301a97f259324421defa2d9a3c23404
+313034,000000313034.jpg,COCO,person,72288,0.2353,replacement,replace person with firefighter,,SDXL,7.5,30,394ebdcecd3f3eee95cfd3eee10c90850a11c90796a3fd6862e23ff4e7c769a3
+313182,000000313182.jpg,COCO,bus,76575,0.2822,removal,remove the bus,,SDXL,7.5,30,069ee69d4e973b5dc04ee879da2eca28af7410f1298fa92a13856bd0e76991aa
+313562,000000313562.jpg,COCO,person,97616,0.3178,replacement,replace person with firefighter,,SDXL,7.5,30,ebfdd2e3273e7a7a5c377694d06937f6a443f407e4723743ff6125e6fddfb195
+313588,000000313588.jpg,COCO,person,28512,0.0928,replacement,replace person with firefighter,,SDXL,7.5,30,83dbe551c3a3e4899ad3f2fd8a889f9d1dc87bac4473da3f4d2b96a9eb2bc726
+320554,000000320554.jpg,COCO,cat,6840,0.0365,replacement,replace cat with fox,,SDXL,7.5,30,bee7561357ab80c6d1ecc56621944b2a5956549edfe07f9e5cba04211d6bd111
+320632,000000320632.jpg,COCO,zebra,5267,0.0171,removal,remove the zebra,,SDXL,7.5,30,f038c4eae35ba3e391e2bc6622ca7a3b736663e5207248227c0ea2fd4cb7bdbf
+321790,000000321790.jpg,COCO,person,53964,0.1975,replacement,replace person with firefighter,,SDXL,7.5,30,1406f3a96fb2a0b7d0a4d01cbcc1ac5c0ab70ad3138b78c48c29bd6b63d69d07
+322163,000000322163.jpg,COCO,person,22774,0.0741,replacement,replace person with firefighter,,SDXL,7.5,30,a4f0b59257090ea2611a49cbdd0a6f21d7de8352b916daca860427600d3cdb4b
+322610,000000322610.jpg,COCO,person,17946,0.0584,replacement,replace person with firefighter,,SDXL,7.5,30,21fa7dd36e8029d59ef63bd1bfe365c152f16361e58c25967878865649972ae5
+322724,000000322724.jpg,COCO,person,12148,0.0447,replacement,replace person with firefighter,,SDXL,7.5,30,5f7940d6d7e243123f594c35ef50e60e443cd76b23d750d546c9df9f69e8ee53
+323496,000000323496.jpg,COCO,person,14978,0.0753,replacement,replace person with firefighter,,SDXL,7.5,30,b4ce355c37aa08eb00df32c2709ac8b53d82a0fa875461bd5e81e0d8dd750d1a
+323709,000000323709.jpg,COCO,airplane,17554,0.0857,replacement,replace airplane with fighter jet,,SDXL,7.5,30,aa0a0504b3ea54344119906555dad2013e9612d950514e5a626c46168121c6bf
+324258,000000324258.jpg,COCO,person,54922,0.1788,replacement,replace person with firefighter,,SDXL,7.5,30,e81e843d9857ea1094277bce35d9e6eed33199744d9a86d120b997b66d226520
+325347,000000325347.jpg,COCO,person,17589,0.0766,replacement,replace person with firefighter,,SDXL,7.5,30,888c0a1f2d7e3047bf5e66014f1ac96cca26a9c2c06b16147b6acfb111e044fe
+325483,000000325483.jpg,COCO,person,44132,0.1437,replacement,replace person with firefighter,,SDXL,7.5,30,00587ac00a2d6e8dddb15e5d94fbc9f0e50e1b0e5d0907b0eb3919884e0b4ce2
+325838,000000325838.jpg,COCO,person,28190,0.0918,replacement,replace person with firefighter,,SDXL,7.5,30,c0d4ddb88c7ae211908b993348f35f72240c26e5f566f7a1c33cadb12299bf39
+326541,000000326541.jpg,COCO,car,5389,0.0234,replacement,replace car with truck,,SDXL,7.5,30,2fdd367c3f19cdf9668f3a037bfbe9723281c28aeb1cff54b469b1aedf766188
+328286,000000328286.jpg,COCO,boat,6817,0.0251,replacement,replace boat with ship,,SDXL,7.5,30,b6dfd0d44b6b04949482ac4f79522a39127f2d9efa3f9974fd3ae3130a529df3
+328337,000000328337.jpg,COCO,person,59475,0.2176,replacement,replace person with firefighter,,SDXL,7.5,30,abaf06c5a45493234d136203905bc59ec3ec79471437e617cbaacd42d2d67935
+329041,000000329041.jpg,COCO,person,10360,0.0337,replacement,replace person with firefighter,,SDXL,7.5,30,11c08ff77e20f1b55958efb6728a5ee13ff8b33910bfff6d7ab5e7a2f6732ca7
+329323,000000329323.jpg,COCO,person,6302,0.0232,replacement,replace person with firefighter,,SDXL,7.5,30,3c30364d0326994686e2e0e1d76f077679f44732472703dddc4064939a58119e
+329614,000000329614.jpg,COCO,car,1941,0.0187,replacement,replace car with truck,,SDXL,7.5,30,c3714ace403a301c3a023e9d2bc5779041794d247ec13bedc565c102b5c70e60
+331604,000000331604.jpg,COCO,person,4848,0.0177,replacement,replace person with firefighter,,SDXL,7.5,30,5b9265e676280656281bca5ddee15b284c7acd50909e6f75d7edd50d75429afa
+334371,000000334371.jpg,COCO,bus,17109,0.0638,removal,remove the bus,,SDXL,7.5,30,6a86ee869e0d5af75d46e3e3cf01f825196ba1435f62391172cd2229fb645871
+334555,000000334555.jpg,COCO,cow,46590,0.1709,replacement,replace cow with horse,,SDXL,7.5,30,4f9567595924651cd35a17e2d73fc5318920df4fc26eddf1423dd0f34b0358a0
+334719,000000334719.jpg,COCO,person,6377,0.0241,replacement,replace person with firefighter,,SDXL,7.5,30,da4390934f845132d069ad62968b2a295d386fc06266e84020502559dcd38fd9
+335081,000000335081.jpg,COCO,bird,16925,0.0619,replacement,replace bird with eagle,,SDXL,7.5,30,846436362222e3a3f898e9eb0e50f7b5e8e82241cc846b0622fab91b763ed973
+336232,000000336232.jpg,COCO,motorcycle,13930,0.051,removal,remove the motorcycle,,SDXL,7.5,30,c2cfc56d80f8cd73c73ded583ccde8e72eb2fd58841c730f064e037e8945eb30
+336628,000000336628.jpg,COCO,person,12872,0.047,replacement,replace person with firefighter,,SDXL,7.5,30,317649e8eabbf7c66bc48f933268e156258006ecc46fa6db6aafc1d4b05d38c6
+338304,000000338304.jpg,COCO,person,11322,0.0416,replacement,replace person with firefighter,,SDXL,7.5,30,28a7855d52692265f1f586ac6a921598fb949168ad7492e55111d207e12a6730
+338428,000000338428.jpg,COCO,bus,16656,0.0711,removal,remove the bus,,SDXL,7.5,30,a8f44ecfd015bf319a87a393811184606197bd4927aad0e9f2c63cffe4fa381e
+338905,000000338905.jpg,COCO,person,10154,0.0588,replacement,replace person with firefighter,,SDXL,7.5,30,501f6793e7ad839938ea4f05d45bde11584a8d3baf88959224c327a905cbf1f0
+341469,000000341469.jpg,COCO,person,65114,0.2226,replacement,replace person with firefighter,,SDXL,7.5,30,9248a8d13b55902e551fc199c4d7205fba11a454f9cfb35fb23e65045e7571a6
+343561,000000343561.jpg,COCO,person,8259,0.0302,replacement,replace person with firefighter,,SDXL,7.5,30,1b99e1811c1a6c3aad0fa12e8e70bec0b757aa33981411989538ed107488737c
+344029,000000344029.jpg,COCO,bus,119851,0.3901,removal,remove the bus,,SDXL,7.5,30,142aa4168a4972d4c9578c50b19ea96260576e473900a1200025a75671403a25
+345252,000000345252.jpg,COCO,person,85792,0.2799,replacement,replace person with firefighter,,SDXL,7.5,30,8cdd13929d34dc963976b2dbdb46f93a8271ebfcb143dcf5856a90471f00e4bd
+345356,000000345356.jpg,COCO,person,67502,0.2197,replacement,replace person with firefighter,,SDXL,7.5,30,95fb27c8fa73ebc893c44a2f626d54d158e5e6a8480fb1e58926a0ad0d00b80f
+346905,000000346905.jpg,COCO,elephant,10276,0.0377,removal,remove the elephant,,SDXL,7.5,30,a8a274f6e0604ac5376f07123cf60d3487d17110f47bf6bc6000217dd4902ba4
+348488,000000348488.jpg,COCO,horse,12302,0.04,replacement,replace horse with zebra,,SDXL,7.5,30,bf331159e8bfbbc1e1b908ca88c236e49dee5de2b5172ca183120d15e2f86c87
+350003,000000350003.jpg,COCO,truck,8564,0.0279,replacement,replace truck with bus,,SDXL,7.5,30,4e4c791575aa9a91619fffad0c748692f8fce5942ca4f2524d994556ed3893df
+350019,000000350019.jpg,COCO,person,24719,0.0907,replacement,replace person with firefighter,,SDXL,7.5,30,0fa49e5605d3b80bfac5fc7113c76eb27d4cc4f94f940647e78bb263e7e29cd7
+350679,000000350679.jpg,COCO,person,9365,0.0342,replacement,replace person with firefighter,,SDXL,7.5,30,2fca664f1ae553c0be9c1701b30e2be01f07cdad749cc1e08b2516568d8cdb2f
+351096,000000351096.jpg,COCO,person,8416,0.0449,replacement,replace person with firefighter,,SDXL,7.5,30,fdc112a3422c4585b5e549b48f60751ee87e3fd8a83c07f57525bb69b3d2ad67
+351530,000000351530.jpg,COCO,bicycle,9649,0.0399,removal,remove the bicycle,,SDXL,7.5,30,a749290b56da8034c28a2a71b0040011cad0f4fec0dd9d6ea7dbd6302bdfb382
+352582,000000352582.jpg,COCO,person,22947,0.0844,replacement,replace person with firefighter,,SDXL,7.5,30,6657c3e8459581d3742107ae2570d4f6f2715242636fbb705e08722101408742
+352684,000000352684.jpg,COCO,person,10058,0.0371,replacement,replace person with firefighter,,SDXL,7.5,30,edb3d8cdde3914ede50e89c135953b8912dfd252c04497f2da804ddff4de7758
+353027,000000353027.jpg,COCO,person,31480,0.116,replacement,replace person with firefighter,,SDXL,7.5,30,b1d9865b899673e08a366c8ca7e8afa4df17ac692eb4b39d8f81cc8063eebdb2
+354829,000000354829.jpg,COCO,car,29159,0.1555,replacement,replace car with truck,,SDXL,7.5,30,23b58d6ed38ca3c3c46453b64a96eb54a27ac510a12bab29913a2eb04f1707cb
+355325,000000355325.jpg,COCO,person,12660,0.0414,replacement,replace person with firefighter,,SDXL,7.5,30,5bd2b9ac92027564989ec73af3a83f956e54c3e844bf9469a61737d519259c41
+355817,000000355817.jpg,COCO,bus,74311,0.2419,removal,remove the bus,,SDXL,7.5,30,f5dbf704993f4746f6e77507e5d94128a4c760931dcb0299f8add2b389ceb9d7
+356424,000000356424.jpg,COCO,person,25349,0.0825,replacement,replace person with firefighter,,SDXL,7.5,30,a452c67ccf8ccdd30f06241923c5db0c9b0a4845c0d48198a31344be81318cf2
+356428,000000356428.jpg,COCO,person,9097,0.0647,replacement,replace person with firefighter,,SDXL,7.5,30,5107cd5b1278d74cf4c30ab1a8fab762642ed6f1381387e1c1c9dfca8d684270
+356531,000000356531.jpg,COCO,person,116428,0.379,replacement,replace person with firefighter,,SDXL,7.5,30,4ae5096476cf1e91918a3eb497812b114fa0f097afb66f0daa4bcf03586e22ee
+357737,000000357737.jpg,COCO,motorcycle,20870,0.0679,removal,remove the motorcycle,,SDXL,7.5,30,05edcce7b847b0c47cf686b4f041b7d32f79bb6e09a9f53aab90abad1d3ecbaa
+357816,000000357816.jpg,COCO,person,10449,0.0459,replacement,replace person with firefighter,,SDXL,7.5,30,c4f7f7a48c003602714f3ef28a1ab3338f5d8e20658a4569d525936c2acdae99
+358525,000000358525.jpg,COCO,person,60261,0.1962,replacement,replace person with firefighter,,SDXL,7.5,30,40747584949477ac75771aba227389bbac32bca1a85e24fb445b9533f0d8448d
+358923,000000358923.jpg,COCO,person,18739,0.0684,replacement,replace person with firefighter,,SDXL,7.5,30,5b7cca89ecd44143f52f1c259b5cf89eeb798e3de85b80d0aa290b24670ea853
+359135,000000359135.jpg,COCO,elephant,81165,0.297,removal,remove the elephant,,SDXL,7.5,30,655d5b9c2157f13b09b5c350244336117147353fb1d745ecf80210103b57b6d9
+359540,000000359540.jpg,COCO,person,6615,0.0242,replacement,replace person with firefighter,,SDXL,7.5,30,92c89633d96fe75026b9093a445637dd2991b68f872ed9e5086d9533d84ffc3f
+359833,000000359833.jpg,COCO,person,55946,0.1821,replacement,replace person with firefighter,,SDXL,7.5,30,51947edd0883711b11a9c0d95d32eef1974c0150c7fa0385f581031a07c35091
+359937,000000359937.jpg,COCO,bus,9594,0.0312,removal,remove the bus,,SDXL,7.5,30,6319a20f95aeb263dc6c906fcb21779f905c7fb142f566fa7eb861b14ecfffb3
+360661,000000360661.jpg,COCO,horse,13364,0.0435,replacement,replace horse with zebra,,SDXL,7.5,30,631ea1df63c9c511637c6088456f384ed94d62a290c44a38c5c39c7f0e9b0e35
+360960,000000360960.jpg,COCO,person,10227,0.0375,replacement,replace person with firefighter,,SDXL,7.5,30,c2e380d6a4b88f0c7102755fb574a3fca07783afadb23debd937b5b8f5818433
+361142,000000361142.jpg,COCO,car,15326,0.0517,replacement,replace car with truck,,SDXL,7.5,30,2c938c13e4e31928c1d70868ed2141244c8ebe8c6c4aa69637c2d159ad36cf23
+361268,000000361268.jpg,COCO,cow,15666,0.051,replacement,replace cow with horse,,SDXL,7.5,30,55981009891cffe2a59f07cd84530389d82d5021dfbee306e4c9b48ff219fa61
+363666,000000363666.jpg,COCO,person,10725,0.04,replacement,replace person with firefighter,,SDXL,7.5,30,c29fec7012e829e796c4c1e8a65856a4f15041964ba645f259247e646cf0befd
+365655,000000365655.jpg,COCO,bus,43839,0.1604,removal,remove the bus,,SDXL,7.5,30,0cec6c70b2fe1bff34714fa285b93dd03b4e8bb0eebbb15268b8d64e8c623f37
+365745,000000365745.jpg,COCO,person,6173,0.0201,replacement,replace person with firefighter,,SDXL,7.5,30,b190cf543ba64e04c7ae16bc0bd8c72b85bc4daee5d96839303675828c0610f1
+367095,000000367095.jpg,COCO,person,33551,0.1228,replacement,replace person with firefighter,,SDXL,7.5,30,9691e561287e1032486fa0e5812ef652d5956e0b27ebd0337cc16651cc656817
+368335,000000368335.jpg,COCO,car,33226,0.1263,replacement,replace car with truck,,SDXL,7.5,30,68ab00e3d8210decae46c292ef273e5f0668d2877a982f3dae059295c0639351
+369310,000000369310.jpg,COCO,person,62131,0.2458,replacement,replace person with firefighter,,SDXL,7.5,30,389b63dbb578ba096affccec679c3f4652665aec8c1b12486c382fa380de4ef9
+370270,000000370270.jpg,COCO,person,25234,0.0821,replacement,replace person with firefighter,,SDXL,7.5,30,0a3d2a7484f7e4eac2c7d7a6945678bda994796322d158f0c4dbef4478493b6a
+371749,000000371749.jpg,COCO,person,61783,0.3295,replacement,replace person with firefighter,,SDXL,7.5,30,ef52811afd5e2182561856d387579daff99ea53f7bc4ae7b052cc8f76d8eb1d9
+372577,000000372577.jpg,COCO,person,7781,0.0253,replacement,replace person with firefighter,,SDXL,7.5,30,fb207a91b2c576d26d052954f2c631bb00848043dca9ffc102b6b867c5243a63
+373315,000000373315.jpg,COCO,person,11546,0.0378,replacement,replace person with firefighter,,SDXL,7.5,30,c5195cf34f538ab43a7fd7bbe8661fbad123c5c36152126177ecb663b21d39ef
+373382,000000373382.jpg,COCO,person,5361,0.0175,replacement,replace person with firefighter,,SDXL,7.5,30,0d416cc71c78b9db6b71537ec152df9486f6e446251920b8076399c86ab24fb5
+373705,000000373705.jpg,COCO,person,6706,0.0245,replacement,replace person with firefighter,,SDXL,7.5,30,74c81ab6308eb7deb702697afb7cb57230595c53d20c5248ce0f34391b120dfa
+374083,000000374083.jpg,COCO,person,41604,0.1526,replacement,replace person with firefighter,,SDXL,7.5,30,f491017e4db87ad804ebf278969a6c2a2f1ea1adb30b172d094dfd62b7a0cd99
+374369,000000374369.jpg,COCO,person,30009,0.0977,replacement,replace person with firefighter,,SDXL,7.5,30,502efaa5721d85100f68047ef606beef89ce074d1f90468d6bb69901eb6d98ab
+375278,000000375278.jpg,COCO,person,16166,0.0971,replacement,replace person with firefighter,,SDXL,7.5,30,a6c9cd101e064c40bb21b3b8aecd1d294a13bb5ec7b415e624b8365be951f032
+376284,000000376284.jpg,COCO,car,9096,0.0546,replacement,replace car with truck,,SDXL,7.5,30,a4ec6906b9abb6c6a5aff2c86d722cb428f2f81aef0ed4a08fdfd36d2a4c6573
+376322,000000376322.jpg,COCO,person,6708,0.0219,replacement,replace person with firefighter,,SDXL,7.5,30,59003d6e6b9da7cfe6f43d83b01b83e3406f9ddad2c44063480b67f12dbe4165
+377946,000000377946.jpg,COCO,car,6111,0.0224,replacement,replace car with truck,,SDXL,7.5,30,4ab24d6c42522bf5121e346365ea1590e0152b3906e2c7eb1c65885de7f852a2
+378244,000000378244.jpg,COCO,person,7832,0.0287,replacement,replace person with firefighter,,SDXL,7.5,30,50b795dd1f7e24bee3b2354c39a579a5b6533079652ae52207fec604de1458be
+378284,000000378284.jpg,COCO,person,9622,0.0352,replacement,replace person with firefighter,,SDXL,7.5,30,a9a4ba25c38035393d78e6c3103bb6d7b886f0dd6cfcfa6b281cbb3838a99ab3
+382088,000000382088.jpg,COCO,horse,59995,0.2201,replacement,replace horse with zebra,,SDXL,7.5,30,247bcb5dfad0a130cd8b3b38598fbf90b805b6c0ce1a2a6beb824ff8890f74e0
+382111,000000382111.jpg,COCO,truck,6235,0.0228,replacement,replace truck with bus,,SDXL,7.5,30,9df7cce5587c4a02707f84c32f9964395d05d9646604468b066bcc99b5e6b7b7
+382125,000000382125.jpg,COCO,person,60576,0.1972,replacement,replace person with firefighter,,SDXL,7.5,30,e9c64dce689fdcedf20ec2ab7a8360dc3289a580598a20c0db80570d5c57aae8
+383921,000000383921.jpg,COCO,elephant,9463,0.0308,removal,remove the elephant,,SDXL,7.5,30,dee841bdd86e13bc4f4d4036da85ecc8f38a85d23a82ca875753c5115975691b
+384468,000000384468.jpg,COCO,person,6587,0.0214,replacement,replace person with firefighter,,SDXL,7.5,30,ef1eb9eba275e70e292a15e6b3d543fc8cde0e1d000e4a85f0a5cdf53e93dd5d
+384513,000000384513.jpg,COCO,horse,7665,0.025,replacement,replace horse with zebra,,SDXL,7.5,30,4749da4574515ac24ed6ad1c6d6013653cff87dbccb374e447047197d50b87f6
+384666,000000384666.jpg,COCO,person,3072,0.0185,replacement,replace person with firefighter,,SDXL,7.5,30,72daab4a856d9398b7365e4017aff2a60fb538ef0326030fa08aa18d164ec0bf
+384670,000000384670.jpg,COCO,person,7016,0.0228,replacement,replace person with firefighter,,SDXL,7.5,30,ef362e20a84e67d61c188437f51fba137f211d95643812b28f2f0ed400a38cc0
+386352,000000386352.jpg,COCO,person,15816,0.0579,replacement,replace person with firefighter,,SDXL,7.5,30,a308d377720ef379e63cbf16f51c5945274524f7a8c248918f946598718a5aa1
+388056,000000388056.jpg,COCO,person,8761,0.0528,replacement,replace person with firefighter,,SDXL,7.5,30,a052ec9983c749e0ce2d53db58eaa18c7327a0653aa3b3e0f109c5eb027152a6
+389109,000000389109.jpg,COCO,person,12625,0.0462,replacement,replace person with firefighter,,SDXL,7.5,30,f3575ca90265cb16d3edb62448ddea14cb75fce80a908226e1d6bcd6ff7315ac
+389812,000000389812.jpg,COCO,person,74111,0.2412,replacement,replace person with firefighter,,SDXL,7.5,30,9b5899e288b8aeae69a70f112f40d619bf089d371e4af358ef83cafeb76738df
+390555,000000390555.jpg,COCO,person,7668,0.0275,replacement,replace person with firefighter,,SDXL,7.5,30,cd367f65c457cf1919208359ba852f590aaf9ccac8008582531f0b98491810ac
+391144,000000391144.jpg,COCO,elephant,4473,0.0164,removal,remove the elephant,,SDXL,7.5,30,b6103bbfe745c5f50be926d6437d61d357b97a2a37c2f787d447cc9bce84c621
+391290,000000391290.jpg,COCO,person,11607,0.0426,replacement,replace person with firefighter,,SDXL,7.5,30,2399632f1dd764a2b4fb6fd2229ad30e1e1b6db2270bcb1b657369b208a1fafd
+391722,000000391722.jpg,COCO,person,7801,0.0192,replacement,replace person with firefighter,,SDXL,7.5,30,a961ce77fbc4248d0e0a1b435f257bbb085613f3431203c69135b6fc072b9337
+395801,000000395801.jpg,COCO,person,6929,0.0226,replacement,replace person with firefighter,,SDXL,7.5,30,e181a81cc875a6239756d155618edb15cd10b8fdce2b8f22c7e967c4f8378e24
+396200,000000396200.jpg,COCO,person,9909,0.0363,replacement,replace person with firefighter,,SDXL,7.5,30,93bb4d7c54b59c4a88452a5abb8f77fbe00cadc71d695f148f8c301ec7313237
+396338,000000396338.jpg,COCO,truck,28372,0.1038,replacement,replace truck with bus,,SDXL,7.5,30,7086b9b257f6d4bb227f7fd54b9a88e3fde40287853fc709c8e6b4cdd1f70b24
+396568,000000396568.jpg,COCO,train,38512,0.1419,removal,remove the train,,SDXL,7.5,30,a7b820504e2c7fb5102c06cac0a94c191eb223a0d0e44a968954f97f0f0ba8ea
+397354,000000397354.jpg,COCO,person,9356,0.0305,replacement,replace person with firefighter,,SDXL,7.5,30,1a728f7376acaa48bdcad5fbc09cdd0c3d71d10b3d4a00aaa2e4d86fb73be91f
+398203,000000398203.jpg,COCO,person,23827,0.0872,replacement,replace person with firefighter,,SDXL,7.5,30,c582f23ac8e7d0d95a1b0a06770eba27c803ed1867683a66e3805a61713409bf
+398237,000000398237.jpg,COCO,person,16671,0.0543,replacement,replace person with firefighter,,SDXL,7.5,30,05d5448fd1d5242272cdd187a9b8afed515134dff3ce9dafb014173a389b4f2b
+398810,000000398810.jpg,COCO,cat,45489,0.182,replacement,replace cat with fox,,SDXL,7.5,30,c0c6affeccc87b2993162198eda160eb18f5f4f4633df99922b0d91e0b27f71a
+399205,000000399205.jpg,COCO,person,14619,0.0476,replacement,replace person with firefighter,,SDXL,7.5,30,34fd7f6447f0adcaf8dd9b741c9c04ee79ae05a5983453ca08d2ec32a5bf1595
+399764,000000399764.jpg,COCO,person,79901,0.2924,replacement,replace person with firefighter,,SDXL,7.5,30,1e1816743fab6b758c2f48fc98e698968e7f5f0185844d01a84db790d13361bc
+400803,000000400803.jpg,COCO,boat,60290,0.2206,replacement,replace boat with ship,,SDXL,7.5,30,050409bb3773493228ea9edd9fc9587e56c7afcb58b2e91f89b8d8cdd185f4c5
+400815,000000400815.jpg,COCO,person,52353,0.1916,replacement,replace person with firefighter,,SDXL,7.5,30,0553fee8f1a08d85fba1f9358ded47ae9366ba7347489f262c215e4f5515102a
+402473,000000402473.jpg,COCO,cat,59691,0.1943,replacement,replace cat with fox,,SDXL,7.5,30,6faa771f6c14518ef8497a48980711d9a404015d910b5a4b4c4cb6ccd1270578
+402720,000000402720.jpg,COCO,person,32278,0.0862,replacement,replace person with firefighter,,SDXL,7.5,30,957b2d5de5ca6e59c54ba139a6dc9206c6c10bb8f479bd1e46b6edd0ea3f611e
+402774,000000402774.jpg,COCO,person,43731,0.1608,replacement,replace person with firefighter,,SDXL,7.5,30,6776d1e16973b91fc98533bd60acfb24578e5c40da0d9a90ce50f36324e65163
+402992,000000402992.jpg,COCO,cow,6650,0.0216,replacement,replace cow with horse,,SDXL,7.5,30,e924ec1c2a1d8afe408ee401fb6a539e2371c5b3a60e6255249a8895927996b9
+404678,000000404678.jpg,COCO,person,10544,0.0388,replacement,replace person with firefighter,,SDXL,7.5,30,22c08154a36ecd4af31b6a28977829cc89b8d2b10734bef98c7c7718ef44e60f
+404922,000000404922.jpg,COCO,person,31188,0.1695,replacement,replace person with firefighter,,SDXL,7.5,30,92541ff4e0bf22546157871fb1fb2c7f30ecb841fa54a2e04d9d6cda306b4046
+405205,000000405205.jpg,COCO,truck,5905,0.0262,replacement,replace truck with bus,,SDXL,7.5,30,d784c47f451974a55f4e861f8272699404725a62c4d89059dfcdb413dd4ccc5c
+405306,000000405306.jpg,COCO,cat,144256,0.5405,replacement,replace cat with fox,,SDXL,7.5,30,6dc0a0f43fbe6257a322f0bd5373802fccff7bed759d74901ea6548ef293bbcc
+406129,000000406129.jpg,COCO,person,30708,0.1121,replacement,replace person with firefighter,,SDXL,7.5,30,dd1f840e7752bd502ba49b20af0f2114967001b78d0284a10cd0621fa2db1185
+406611,000000406611.jpg,COCO,person,5098,0.0166,replacement,replace person with firefighter,,SDXL,7.5,30,9995cd37b51403823d3319a06bbc398976875aee39a561d38023f544606115ab
+406997,000000406997.jpg,COCO,person,7753,0.0252,replacement,replace person with firefighter,,SDXL,7.5,30,fc3477b010152a18bae7d8132166693a1149a941941179d9aaafc463fd770a65
+407960,000000407960.jpg,COCO,cat,27666,0.1015,replacement,replace cat with fox,,SDXL,7.5,30,8b90d3c67e94b78be02499415724e6333c227138ab121b2eb948304eb52021d9
+408112,000000408112.jpg,COCO,airplane,31141,0.1014,replacement,replace airplane with fighter jet,,SDXL,7.5,30,286c10abbd8f22919144fd566b246ac3b2d32c8fb47a8d6295fb50867266792f
+410496,000000410496.jpg,COCO,person,4302,0.0157,replacement,replace person with firefighter,,SDXL,7.5,30,dcf52de0456d681674a58ad10aee677dcfccd3097bace5c05f4717cf2c0044fc
+411530,000000411530.jpg,COCO,person,6655,0.0217,replacement,replace person with firefighter,,SDXL,7.5,30,22349ed66e7144ef325491a0ac5c39f72b76c9c6b6e3a202fb7933c22f6cf54b
+411754,000000411754.jpg,COCO,person,28346,0.3691,replacement,replace person with firefighter,,SDXL,7.5,30,77eee095e575eaef6f20d1e79a1caba1d6a7ad80d090b5059bc66b080df8a440
+411817,000000411817.jpg,COCO,person,29290,0.0953,replacement,replace person with firefighter,,SDXL,7.5,30,43b9a17fd0a3dea18bd2a508eb9f4743eb559a44fd977e71f239663f4d70ad8d
+411938,000000411938.jpg,COCO,person,17731,0.0649,replacement,replace person with firefighter,,SDXL,7.5,30,1d105313f5bc81e4816fb6ae8d5ec7182c591528d250bcde5fff282f85743a0d
+414133,000000414133.jpg,COCO,car,16008,0.0521,replacement,replace car with truck,,SDXL,7.5,30,daa3204e1ddd43ad1d57b72143114a5f16c1b71a7c0ed70123f7fc016f421885
+414510,000000414510.jpg,COCO,truck,37468,0.122,replacement,replace truck with bus,,SDXL,7.5,30,13e9682265fac217823dfa1e0fa2c9ee6af05a82383793fb0c55809729ca9449
+414673,000000414673.jpg,COCO,person,4487,0.027,replacement,replace person with firefighter,,SDXL,7.5,30,81e8296448105fb06d460aa613eeee81ddd9b81a92f1bd63a06bbc1d154396fb
+414795,000000414795.jpg,COCO,elephant,4904,0.016,removal,remove the elephant,,SDXL,7.5,30,73212d2d44a7efadb5691c1ebe619bef5078fd275404d03b62daa3b9f234d8c9
+416330,000000416330.jpg,COCO,cat,166742,0.5428,replacement,replace cat with fox,,SDXL,7.5,30,1e13310c1ef16ca9a7de8b8e2806fa2ae3229e7d1a0cfbaed07c0227247d369b
+416451,000000416451.jpg,COCO,person,11275,0.0367,replacement,replace person with firefighter,,SDXL,7.5,30,2581a491b1ec4f12353d4bea32b0517f5a14a3d5e1e88c6ecfdeb6fc997227ee
+416758,000000416758.jpg,COCO,cow,66107,0.2152,replacement,replace cow with horse,,SDXL,7.5,30,12247fa67314ffec4dcf409f488b81e5a6b151a4dfbdd05bc35dbdaf1a6a4619
+416885,000000416885.jpg,COCO,car,36764,0.1961,replacement,replace car with truck,,SDXL,7.5,30,4f10dc4dd8dec734b54f6f887229cdb4fb3c7cf55bb16d7e9c93c80b221991c8
+417249,000000417249.jpg,COCO,person,30990,0.1009,replacement,replace person with firefighter,,SDXL,7.5,30,4f3d4f1040827721fe64dfdc38ea19ffe28fda9e45d77ca3247a797246f4de38
+417911,000000417911.jpg,COCO,person,12973,0.0473,replacement,replace person with firefighter,,SDXL,7.5,30,6d6baf65fae2e02a31f0782b87595733d6ea88d5a2cf0ca3c88263035c92f7fd
+418062,000000418062.jpg,COCO,person,79845,0.2922,replacement,replace person with firefighter,,SDXL,7.5,30,b3e75a608345b0eb439e91d2e35c34ba9c8b27d5d5271a0e70830a512821a4d9
+420230,000000420230.jpg,COCO,elephant,160762,0.5883,removal,remove the elephant,,SDXL,7.5,30,8ee116ee114cda0b8d7d6089dc3601401c672f989ddb121fbd1aa616662b606e
+420281,000000420281.jpg,COCO,person,8650,0.0282,replacement,replace person with firefighter,,SDXL,7.5,30,24da7f4e7cc0876ff592f51606385e77814b172b798423db0b7f9553db87e3e1
+421060,000000421060.jpg,COCO,person,11596,0.0433,replacement,replace person with firefighter,,SDXL,7.5,30,ed9af0e84a7aaa99adb73bf40bd1690da4685a2a254781a271cff158a48f1f13
+421455,000000421455.jpg,COCO,dog,15178,0.0809,replacement,replace dog with wolf,,SDXL,7.5,30,23a80732e12e3d2fd9495a56307bd6e91b9ced121a8331ec5182e4806b2c33fd
+421834,000000421834.jpg,COCO,bird,5116,0.0175,replacement,replace bird with eagle,,SDXL,7.5,30,e455c55bd525763684c6b4b981648f7c22350d00cf8e332a3e2ef28ccee1bf27
+423617,000000423617.jpg,COCO,bus,15222,0.0496,removal,remove the bus,,SDXL,7.5,30,516b51eb075df306d48c738b7c18fe51a336621bb96c7356e4f9741d813d538e
+424162,000000424162.jpg,COCO,person,18470,0.0564,replacement,replace person with firefighter,,SDXL,7.5,30,dc7ea389a7001db8a33f7dd47a56cebef78e00eadcb57b98daf879d14ea04cea
+424349,000000424349.jpg,COCO,person,36802,0.135,replacement,replace person with firefighter,,SDXL,7.5,30,718fc47a2b111f04eff26a697dbb5b515050a0defe1af19895877975f135d278
+424642,000000424642.jpg,COCO,person,6388,0.0341,replacement,replace person with firefighter,,SDXL,7.5,30,2a4efc238c9101f24d1109d326a25c83a4ee2d9da407650da907a290c2524912
+424776,000000424776.jpg,COCO,airplane,50943,0.1869,replacement,replace airplane with fighter jet,,SDXL,7.5,30,4fef5bde7fbc7c64792038cd0a5937fdb26cabb299927bbf088cf139362dcb20
+425226,000000425226.jpg,COCO,person,48235,0.157,replacement,replace person with firefighter,,SDXL,7.5,30,a06479819605985c1ea8cdfaa50f20cc0d62445c6ecb4dcb2891e37b7cd01feb
+426203,000000426203.jpg,COCO,person,11971,0.0439,replacement,replace person with firefighter,,SDXL,7.5,30,00ec064552db6626e71e8d8191be1091750293d4d3055324c065e41961a9adf4
+427034,000000427034.jpg,COCO,dog,40374,0.1314,replacement,replace dog with wolf,,SDXL,7.5,30,1428ac0b08768c0b04b468e7b0169d4ccbd953e5a2cbdf9273bea202c45e8198
+427256,000000427256.jpg,COCO,person,5640,0.0172,replacement,replace person with firefighter,,SDXL,7.5,30,c6e745bfcdd546e2b2714f54b66f9b67452faf9573f88a24367fb6f880c71098
+427500,000000427500.jpg,COCO,car,4558,0.0166,replacement,replace car with truck,,SDXL,7.5,30,e46e5e3f58882e0343c1eca99def6300ef1e14532228c60638cf6bf8237753f4
+429109,000000429109.jpg,COCO,train,8156,0.0298,removal,remove the train,,SDXL,7.5,30,13f2bef5747bda58ed586cffd47033cd7edeec450f1ba18de41d5fe1eecba40c
+429690,000000429690.jpg,COCO,person,4590,0.0168,replacement,replace person with firefighter,,SDXL,7.5,30,f8744f6686f6a393dbd2891d7c56febd2b77fac3b50bd3fd19a5a83873c08cfe
+430073,000000430073.jpg,COCO,cow,9920,0.0323,replacement,replace cow with horse,,SDXL,7.5,30,56fe5280120cfa3f21812c0d5db15d9ff641c50e994c9e743b4c932652e8b23f
+430377,000000430377.jpg,COCO,person,54454,0.1938,replacement,replace person with firefighter,,SDXL,7.5,30,0a68fa9aea3fae86c81ed0618868f7868bc46cd2bf8532188cb85907e48a0529
+430961,000000430961.jpg,COCO,person,2732,0.019,replacement,replace person with firefighter,,SDXL,7.5,30,bed864b1a61ef84840e4d457f4198a1cc201074ab3cd5b545914ff41dbe08246
+431876,000000431876.jpg,COCO,horse,17252,0.0634,replacement,replace horse with zebra,,SDXL,7.5,30,ee9c033d65be0889dc42d53cd0e1675a13e2e5f83f67cd83a0d41263d7449ae8
+431896,000000431896.jpg,COCO,train,103298,0.3771,removal,remove the train,,SDXL,7.5,30,90232a65a04ac87ba3280d5db9d1661b43f8b9f56ef52db46060e3e349d04369
+432553,000000432553.jpg,COCO,bicycle,4295,0.0157,removal,remove the bicycle,,SDXL,7.5,30,32a9bbf9d45b197b0c06a394812f05d8565ba1f95f82ae06f2347d14bb15fcb0
+433103,000000433103.jpg,COCO,person,40754,0.1498,replacement,replace person with firefighter,,SDXL,7.5,30,9fcdc4361477590cbc11f046b16636151142ee2bd042cd09c49d531935b4ce4a
+433374,000000433374.jpg,COCO,elephant,7074,0.0258,removal,remove the elephant,,SDXL,7.5,30,bd8bcd9c825ad1825ecdad372b0dacbd40b61d92ea80d92f04d0b3d4717ea758
+433915,000000433915.jpg,COCO,person,75266,0.245,replacement,replace person with firefighter,,SDXL,7.5,30,e5f7297723b8bec6f34d317f73b5db07756b2fb7911a170bf19a6218b1ad08d2
+435208,000000435208.jpg,COCO,person,16845,0.0548,replacement,replace person with firefighter,,SDXL,7.5,30,eb5db42ba88f8457f61e22cfa4271f6207eb8d847d951e6639778c989cd94246
+436738,000000436738.jpg,COCO,car,5058,0.0208,replacement,replace car with truck,,SDXL,7.5,30,752ae951ef8d9fa993267885a1b6251b306a38390aa11be7d62e69f0020da33f
+436883,000000436883.jpg,COCO,truck,10973,0.0407,replacement,replace truck with bus,,SDXL,7.5,30,11a8ec7d08f6761a34c0bf4921a23a9138949c8054e4e14d9beb788e32c26d97
+437239,000000437239.jpg,COCO,person,11005,0.0405,replacement,replace person with firefighter,,SDXL,7.5,30,ad4f86b5a1137186e2dcc40b8be331ebc8b8e4cb204e38dd8cd8ef84ab040d68
+438774,000000438774.jpg,COCO,person,6863,0.0252,replacement,replace person with firefighter,,SDXL,7.5,30,c21e96fbb947c48677f2a1eabe2736879c70222686449c6320bf6feba83957e6
+438862,000000438862.jpg,COCO,person,12424,0.0455,replacement,replace person with firefighter,,SDXL,7.5,30,e7f48bd25c6f0f3008afb1ad5edc9e6d09437830fe909765d6b86d847b1e1af9
+439180,000000439180.jpg,COCO,horse,4697,0.0204,replacement,replace horse with zebra,,SDXL,7.5,30,ab02f6798d0a43d915c561709e3f80bb0916dcb8dbace68bb304c56979460315
+439426,000000439426.jpg,COCO,person,5498,0.0179,replacement,replace person with firefighter,,SDXL,7.5,30,7d148ea009a1c86cd4ef6fbc8f2fc857f338155c419be232196abb430400900c
+439773,000000439773.jpg,COCO,person,65173,0.2122,replacement,replace person with firefighter,,SDXL,7.5,30,3a7f74a6c385953eb17b621c0db2f7e7e014e88736bd3e0e8edadfa97e5e1624
+440508,000000440508.jpg,COCO,train,30069,0.1108,removal,remove the train,,SDXL,7.5,30,15ae8c3a02eacde3ba5b481532bd9f8a66d62726c0d2b9736ba3bc83155560ae
+441543,000000441543.jpg,COCO,person,4805,0.0186,replacement,replace person with firefighter,,SDXL,7.5,30,94712626cc80d92282f057db97e27f0c0f445df7cdd93b748b7e56a658c38498
+441553,000000441553.jpg,COCO,person,9525,0.031,replacement,replace person with firefighter,,SDXL,7.5,30,0d0432d0589944aea6d760cd080ff3aaa3835c7d2d19b5c3f95b74f7b1bccfab
+441586,000000441586.jpg,COCO,person,13972,0.0514,replacement,replace person with firefighter,,SDXL,7.5,30,8b0d27eb72f7f7b6c1908a8e6b2b7cdae317fe10f7352302b64a61897feb7243
+442161,000000442161.jpg,COCO,person,42004,0.224,replacement,replace person with firefighter,,SDXL,7.5,30,74233d7545079af0854415cf2ea189ddd4458896d3355fa78cecd923781b89b1
+442822,000000442822.jpg,COCO,boat,6561,0.024,replacement,replace boat with ship,,SDXL,7.5,30,b92936d0cf33cda44aa2aefebcbfa1bd4a81b249dab5482a6ac47259f05ed732
+443969,000000443969.jpg,COCO,person,8838,0.0236,replacement,replace person with firefighter,,SDXL,7.5,30,13424ba3f167a23e727b1d1be24198351f7e12c1facb0751cfe8cda31ccf9920
+445248,000000445248.jpg,COCO,elephant,39196,0.1434,removal,remove the elephant,,SDXL,7.5,30,c9b752f2c7311c8d109009f73d3f8b36dd5b68c9c019d52378ba5898d52640a0
+447088,000000447088.jpg,COCO,person,17547,0.1054,replacement,replace person with firefighter,,SDXL,7.5,30,67fd62f7c99546f4c76b889d62cba0bbe3119f252485541ffd60ab9b8a0c9693
+447200,000000447200.jpg,COCO,dog,81751,0.2661,replacement,replace dog with wolf,,SDXL,7.5,30,493e615e5e68020cadfd7a98fd4e843108a7861560204bfe498a14f1ec54b9dd
+447342,000000447342.jpg,COCO,bus,18612,0.0699,removal,remove the bus,,SDXL,7.5,30,eab424555215b0734c38e243599630a201ad35d532c265b83f21bd9ef88e5887
+447465,000000447465.jpg,COCO,person,32892,0.1206,replacement,replace person with firefighter,,SDXL,7.5,30,6486687964f2568f39672c2da04444c79db4be3f638197840166a8e951034b2b
+447917,000000447917.jpg,COCO,person,4706,0.0203,replacement,replace person with firefighter,,SDXL,7.5,30,a766cf07158a62612407838bd45bafa7c991296d075a77eef545065f9ed3fbf1
+448076,000000448076.jpg,COCO,person,5370,0.0175,replacement,replace person with firefighter,,SDXL,7.5,30,dd6d7f4465d74482914ae60e11b53b3431daf836c385fb7750407c5add73fee6
+448263,000000448263.jpg,COCO,person,22097,0.2877,replacement,replace person with firefighter,,SDXL,7.5,30,b8d0780de267f631f9a0c158eb816d26186ce62a72da4be2bb369dd20f9210e3
+448365,000000448365.jpg,COCO,person,22546,0.0823,replacement,replace person with firefighter,,SDXL,7.5,30,92f0b82ca4f332d5e76bb557efabbc9492041263daa3ac12d76da019ed44749a
+449579,000000449579.jpg,COCO,person,11711,0.0429,replacement,replace person with firefighter,,SDXL,7.5,30,4d3c42694cf35bb433f682e2ea260d472eb8061b8465f7e5538ac573a3a119a8
+451879,000000451879.jpg,COCO,person,38587,0.1762,replacement,replace person with firefighter,,SDXL,7.5,30,6bb16f702659a2b12d82718c3f8e2c9fc94fba677e991f87f168dada03ff0217
+452784,000000452784.jpg,COCO,person,64504,0.21,replacement,replace person with firefighter,,SDXL,7.5,30,971004355bf461265730c59937ede37c3b3e144f29fea09d36d61cbec1f7a4d7
+453166,000000453166.jpg,COCO,person,41833,0.1538,replacement,replace person with firefighter,,SDXL,7.5,30,308a741100be6b74bd8268cde04c42a9a3fb1a60e76329654d830a5a0a5fb775
+453981,000000453981.jpg,COCO,bear,65490,0.2396,removal,remove the bear,,SDXL,7.5,30,7924c9a859e4ab2ec1b867ab80c11ffcb4cb9ba80ad2b0d547285bd377b2691c
+454067,000000454067.jpg,COCO,person,61399,0.3025,replacement,replace person with firefighter,,SDXL,7.5,30,8b43dab840f80a7c93f2b44da8c27fdc3feddd5b231632b2b801b35490e6b671
+454661,000000454661.jpg,COCO,car,10898,0.0399,replacement,replace car with truck,,SDXL,7.5,30,7546f38f15830c9600f6a1867a09fcfa65d54a41877fb50f77f610f2e9e3330a
+455157,000000455157.jpg,COCO,person,28415,0.0694,replacement,replace person with firefighter,,SDXL,7.5,30,7a3cee09db10a3d1177f5d085ef360e50c877c002917c06efa8c5b181eca1819
+455219,000000455219.jpg,COCO,cow,7077,0.026,replacement,replace cow with horse,,SDXL,7.5,30,bd016e321771f2a5dacef54841218a02297de2a22043d9aec80ae774e68e177c
+455624,000000455624.jpg,COCO,person,17373,0.0636,replacement,replace person with firefighter,,SDXL,7.5,30,3cce4dfff2f5a835e64d36e62c975212b0fa0ad019b8669331b167a5ac852c1e
+456394,000000456394.jpg,COCO,motorcycle,12184,0.3147,removal,remove the motorcycle,,SDXL,7.5,30,2684e65911cf8549818707d9f65c59308d03eb334c629b337b026c95b69574f0
+457559,000000457559.jpg,COCO,person,16163,0.0591,replacement,replace person with firefighter,,SDXL,7.5,30,148da445a456353d5d68991570e86bcf2ce6d5cffa6ccc8b6d461d1a0c075f03
+458045,000000458045.jpg,COCO,person,3906,0.0208,replacement,replace person with firefighter,,SDXL,7.5,30,ff38c1184205245f8b39b495f865ae16d967bdbac39c0bce7c7e38eb945ec80e
+458325,000000458325.jpg,COCO,person,7387,0.027,replacement,replace person with firefighter,,SDXL,7.5,30,39a5ca03b16fdf3f1f5cd3b9aa6669d1fe14a1c2ffd616b5357c0f5ffc988d9c
+458992,000000458992.jpg,COCO,person,120171,0.3912,replacement,replace person with firefighter,,SDXL,7.5,30,b6affd2eced16d23f23ce98ace67fd3b1d0782551cf28789c34e0fb556851707
+459634,000000459634.jpg,COCO,motorcycle,55511,0.1627,removal,remove the motorcycle,,SDXL,7.5,30,99465366ff825d1817ef5c52cf7c6cf48677a06d12a58179b2a7c7727ad9bebc
+459662,000000459662.jpg,COCO,person,77573,0.2525,replacement,replace person with firefighter,,SDXL,7.5,30,134fbda7aa45366b37b68e7b397c8a0c68fc8f31e45d405e5e6922cae512308e
+459954,000000459954.jpg,COCO,person,3278,0.0175,replacement,replace person with firefighter,,SDXL,7.5,30,8fda6029f12ed8e2494cd187edc7b106c97565048503020c0d4811f80d4a6969
+461009,000000461009.jpg,COCO,person,11802,0.0315,replacement,replace person with firefighter,,SDXL,7.5,30,3e15574358da6d7a93d761183d09a56659efbfd62a79d192269ad2ade6167292
+461751,000000461751.jpg,COCO,person,12990,0.0357,replacement,replace person with firefighter,,SDXL,7.5,30,8de6fe765b794bef5767eda7ea8cb4cc9d884ac227e402fff245347b4bc1ec67
+463174,000000463174.jpg,COCO,person,49349,0.1806,replacement,replace person with firefighter,,SDXL,7.5,30,8dcf40508af9a39aa3becd4fc196ca4e5da7af36406f3dfc3988f831f6dd193a
+463199,000000463199.jpg,COCO,person,44458,0.1447,replacement,replace person with firefighter,,SDXL,7.5,30,0168815367ac7f623496ef384d0e9739b1e24582d227fc306e06ea30750ae2ca
+463522,000000463522.jpg,COCO,horse,62275,0.2027,replacement,replace horse with zebra,,SDXL,7.5,30,4ec2cb7ae9d6f4f8ad03cb5372193b2b9fa32138e6d87ca16ad1c74b4efa4239
+464089,000000464089.jpg,COCO,person,24877,0.081,replacement,replace person with firefighter,,SDXL,7.5,30,b95cbc26ad38b25ff5f94ddc3723eae03d6b1d11ed93c127614fb7ce76f56871
+465180,000000465180.jpg,COCO,elephant,10518,0.0386,removal,remove the elephant,,SDXL,7.5,30,cd067fa966966fa277010d8efaddd51aee4ae5a4de14e0d830bd4262dada28cb
+465549,000000465549.jpg,COCO,person,36182,0.1321,replacement,replace person with firefighter,,SDXL,7.5,30,4f3973abac30bd3a4f83146c6b1fafa7b2f4f1186594802ce091a28784dc7602
+467848,000000467848.jpg,COCO,truck,14058,0.0458,replacement,replace truck with bus,,SDXL,7.5,30,be6504afdf069b6105a5043709e1a79b760a2c4de584c1ebfdb0557d6176bfe2
+468505,000000468505.jpg,COCO,bicycle,4799,0.0156,removal,remove the bicycle,,SDXL,7.5,30,fc8e1c5662e8947e12dc585f1f1a88e4c1b9cccc273758300ea3e03d40d8f978
+470779,000000470779.jpg,COCO,person,22575,0.0736,replacement,replace person with firefighter,,SDXL,7.5,30,a511be74ce89b037d093ea6511147fb08e66ee1ee68ce74730f727065e604b99
+470924,000000470924.jpg,COCO,person,38618,0.1257,replacement,replace person with firefighter,,SDXL,7.5,30,e4a2594c0c288ed6ac39db40b937bda87dc30aba09516eb0bf869c5c13ba456f
+470952,000000470952.jpg,COCO,person,19430,0.0709,replacement,replace person with firefighter,,SDXL,7.5,30,39f49ee4eeca2028017fd27b7910da2fc019ba306b1fbf64e2194ac9a65cfa43
+472298,000000472298.jpg,COCO,boat,19482,0.0787,replacement,replace boat with ship,,SDXL,7.5,30,8e73dfd53a45ac87476a2e36043d6d589469ba986fc75a6a073b37b273743a34
+472623,000000472623.jpg,COCO,bicycle,19387,0.0713,removal,remove the bicycle,,SDXL,7.5,30,8503e8e90b51506bf4e0433facff624227e08ee394340d7b07c7207e1e3663ba
+473219,000000473219.jpg,COCO,person,26107,0.0953,replacement,replace person with firefighter,,SDXL,7.5,30,c36127a4d1457157b4356fef155b4ebadac27f73221c50ae43357d3fad099f40
+474021,000000474021.jpg,COCO,person,7131,0.038,replacement,replace person with firefighter,,SDXL,7.5,30,c03419f3baeda9d14db6806faf926d3c472e0fc3803e3a9efcb3629238ab657c
+474028,000000474028.jpg,COCO,person,21228,0.0777,replacement,replace person with firefighter,,SDXL,7.5,30,c3dfcb19869037f8ceda968d86f2cdaede4273a79aa0ab0e3164408c6ec60093
+474170,000000474170.jpg,COCO,elephant,5248,0.0171,removal,remove the elephant,,SDXL,7.5,30,642ac75be638af613c0eaf32d7f710bbe7d6e82198a079c724f70a3831393318
+475572,000000475572.jpg,COCO,person,5693,0.0206,replacement,replace person with firefighter,,SDXL,7.5,30,b2bc9cbc12806a5a16236923646fbaa421497f4b97a36cdd51e960f34436a009
+475904,000000475904.jpg,COCO,boat,32679,0.1199,replacement,replace boat with ship,,SDXL,7.5,30,c3dc42fbb5edf477f5927dbcc0e4f13e004c6ab428682db7d600a043a14868e3
+476119,000000476119.jpg,COCO,car,14568,0.0533,replacement,replace car with truck,,SDXL,7.5,30,af3f0a73ac3725cf84dfd2e192377da7be579b5f46f77ee05c13df3c68ba8ef2
+476514,000000476514.jpg,COCO,person,39653,0.1454,replacement,replace person with firefighter,,SDXL,7.5,30,10a00e19b7a53aa672cb186e318f0d3484b979b1ae38ed429c160f274102513f
+477623,000000477623.jpg,COCO,train,115177,0.3749,removal,remove the train,,SDXL,7.5,30,b3959fd385685f253f2ad8a5bc51fb93816af2e7f2ba77e58de32274f79ff174
+478393,000000478393.jpg,COCO,cat,26900,0.0876,replacement,replace cat with fox,,SDXL,7.5,30,fb7a303fc03b83d0531d88cfde536e02f76705873a6130ec91c8d4c09fca7810
+478474,000000478474.jpg,COCO,truck,5654,0.0184,replacement,replace truck with bus,,SDXL,7.5,30,d0e37644d926138a66317f0408b1147ee70f5d886cf924de276a7be6f80132ef
+479030,000000479030.jpg,COCO,train,32672,0.1204,removal,remove the train,,SDXL,7.5,30,b8dda25a7e44a482d664af5b972e1102bd3e72b55d1e8dcf4e026a6d0cd0923f
+479155,000000479155.jpg,COCO,person,22169,0.1335,replacement,replace person with firefighter,,SDXL,7.5,30,e1f757d82d1ceb104a4644751dca2a126f66746cee354aa7539351450a15dca0
+479248,000000479248.jpg,COCO,person,5081,0.0165,replacement,replace person with firefighter,,SDXL,7.5,30,2f4328414c8af87da5afb5db08b8f060b7c400a28034485399711c7450f7bf15
+480021,000000480021.jpg,COCO,person,33588,0.1114,replacement,replace person with firefighter,,SDXL,7.5,30,713571ebef4cf78046e9172c1cfd13ed10793332e805c0ee59580c87a5fb613a
+480985,000000480985.jpg,COCO,motorcycle,83086,0.4431,removal,remove the motorcycle,,SDXL,7.5,30,edb64757b806ac45058c3aaf2c9e711634941741914a55212547a0a076b8139d
+481390,000000481390.jpg,COCO,person,7453,0.0243,replacement,replace person with firefighter,,SDXL,7.5,30,2f2f61565cf194a678c86938f8987ce579ef2fb942b3a3e1a5b88bdeede821de
+481567,000000481567.jpg,COCO,person,11237,0.0366,replacement,replace person with firefighter,,SDXL,7.5,30,75a450486ef16e3224db1152bc841e45736fd0e96a8882dcef6c67cfae72935e
+481582,000000481582.jpg,COCO,person,23216,0.085,replacement,replace person with firefighter,,SDXL,7.5,30,94c911eb5418a918ab25834634bd80f7d5108aac064e318b1c07974b9868353c
+482319,000000482319.jpg,COCO,person,71763,0.2336,replacement,replace person with firefighter,,SDXL,7.5,30,5c7f2196b5db77413f7f815a44dca55f9a2269403a6f73473c40203e87c6656e
+482436,000000482436.jpg,COCO,person,35943,0.1401,replacement,replace person with firefighter,,SDXL,7.5,30,3796c1c9edeb9c230c2086f9e3034b44ab74a4324533f54e8645b8eb11dff16b
+482800,000000482800.jpg,COCO,person,6401,0.0219,replacement,replace person with firefighter,,SDXL,7.5,30,6220dcc7b443d1de0dd4ddcf84ac2f50cd9ac413408f6e1d43bd2b68e9ed4a48
+483999,000000483999.jpg,COCO,person,4352,0.0159,replacement,replace person with firefighter,,SDXL,7.5,30,a15deedf16c5d53b45affebcffe1079f22b76cc808d64f15faa02cd042b27114
+485237,000000485237.jpg,COCO,airplane,3723,0.0334,replacement,replace airplane with fighter jet,,SDXL,7.5,30,4acb36a8dc8652f24d451001ed22d270b74785f99fe79b2595d265b7a1158969
+489046,000000489046.jpg,COCO,bird,5915,0.0216,replacement,replace bird with eagle,,SDXL,7.5,30,08e09eb48d3378c0bfae780a348803adba933810f4c01440bbb7916b9745160d
+489764,000000489764.jpg,COCO,person,165503,0.4807,replacement,replace person with firefighter,,SDXL,7.5,30,59c36536045a32dfa4d08b894936a6e2302f01ecbefe9d44a13f9eb7ab4fef2d
+490470,000000490470.jpg,COCO,boat,12263,0.0399,replacement,replace boat with ship,,SDXL,7.5,30,fb27336447704e75027d27dbabfa42f52b8ac5d852618545262803c1ba45b8f0
+491008,000000491008.jpg,COCO,person,22547,0.0825,replacement,replace person with firefighter,,SDXL,7.5,30,166c348a2c06d1fd13fe3c0211e3fc9fd9adf226a5a0e1d078828d4a611a330c
+491366,000000491366.jpg,COCO,person,29409,0.1568,replacement,replace person with firefighter,,SDXL,7.5,30,a461ac1190c62213df9d16ce7fc001f1154735f3afbe299ed66cf71ecb7b1501
+491683,000000491683.jpg,COCO,train,4230,0.0231,removal,remove the train,,SDXL,7.5,30,627f8e7346f6090690ef8cab907f214c5700520efcaf03d57563ed92b2c11c5e
+492077,000000492077.jpg,COCO,bus,23294,0.0758,removal,remove the bus,,SDXL,7.5,30,1b059403e5c17adf373c488cb9deb10685281ad54babfa4821fec4b40898ead8
+492362,000000492362.jpg,COCO,person,14290,0.0523,replacement,replace person with firefighter,,SDXL,7.5,30,74df0342d7be118519494ac61735663d5abb35493c5b0b9d53071a5f378c8971
+492937,000000492937.jpg,COCO,bicycle,169747,0.4532,removal,remove the bicycle,,SDXL,7.5,30,95a0cd4bcf65de388dbe5fc9d66f48e07856fcd5674c39d7e47b6db4f109aeb3
+493019,000000493019.jpg,COCO,zebra,6099,0.0199,removal,remove the zebra,,SDXL,7.5,30,dfab0d995946b469e9ee6f762b5248bf12214158769ea9c4f17ec1d48be9b826
+493284,000000493284.jpg,COCO,elephant,36427,0.1333,removal,remove the elephant,,SDXL,7.5,30,fb7afce99f614a8ca220718159cd9b3332de2a53fb57ae00bc4781da8ed0e4c8
+493286,000000493286.jpg,COCO,car,65210,0.2838,replacement,replace car with truck,,SDXL,7.5,30,e5027f34b662782a05f3983e257ff7db3c01eb169dc103f8b39226ea64efe8a6
+493566,000000493566.jpg,COCO,train,10847,0.0642,removal,remove the train,,SDXL,7.5,30,9e4dd7d85dca0baedc9a065b671729ee7e3659713a1da33a768cca6410302a76
+494188,000000494188.jpg,COCO,bird,25588,0.0833,replacement,replace bird with eagle,,SDXL,7.5,30,c8c8af5e42b53f0456025e110c23ba08efad6c61ae6c47090dba116f9d4cc9c3
+495054,000000495054.jpg,COCO,airplane,28235,0.1019,replacement,replace airplane with fighter jet,,SDXL,7.5,30,fae163ca4e410d08c5512ebe8e4f0eb3b8102b0e2ca498503a43295bbace626c
+495146,000000495146.jpg,COCO,car,17420,0.0567,replacement,replace car with truck,,SDXL,7.5,30,9130a755124d0127b098db7ebc44b185e8861e5a6475a55881001759d3b08555
+496571,000000496571.jpg,COCO,person,13653,0.05,replacement,replace person with firefighter,,SDXL,7.5,30,1c9a24b02b9fcba49bbe3a734c8c73345a3c95af5feaa915c4884a8d3d3651ed
+497867,000000497867.jpg,COCO,bus,108332,0.4149,removal,remove the bus,,SDXL,7.5,30,3a0f3a5f1077f5fb97a16824ec759c5a731a6fa6c9729a9489643a28990fb36b
+498747,000000498747.jpg,COCO,person,25048,0.0815,replacement,replace person with firefighter,,SDXL,7.5,30,9b3fb05f694b16be053949e574d1510e1f3915a2426c323b74deba2ff8fe1df4
+499031,000000499031.jpg,COCO,person,36815,0.1347,replacement,replace person with firefighter,,SDXL,7.5,30,173789b36878a8183cf9cb27415e065df3458a374f04f1bda256bb655f7db4c5
+500423,000000500423.jpg,COCO,train,128437,0.47,removal,remove the train,,SDXL,7.5,30,a0c5f493ba562bc2548cb2f9186a3944bfe91736ec3922d4b1776a37e89d87ce
+501243,000000501243.jpg,COCO,zebra,35322,0.1293,removal,remove the zebra,,SDXL,7.5,30,05edba209533ec0c126aaee5014dab6a4e3fc2c22efd33969791f946dc5c67c3
+501523,000000501523.jpg,COCO,cat,54541,0.1775,replacement,replace cat with fox,,SDXL,7.5,30,a69eda2c85a2e0fc0335d065c9bf2a49f7d2bfc1e77459c485a3072ddfea4dfc
+502168,000000502168.jpg,COCO,boat,69060,0.2356,replacement,replace boat with ship,,SDXL,7.5,30,ae4617942b84c5022fd631591cf8af19668a1f958410f42fd5b7eaad54722e7f
+502737,000000502737.jpg,COCO,person,38845,0.1264,replacement,replace person with firefighter,,SDXL,7.5,30,51bdcf0f0ecbec0d61a3778da37f3dfc0c32a0f9b35c5cacd78da0eb2f81f1d0
+503755,000000503755.jpg,COCO,person,148374,0.483,replacement,replace person with firefighter,,SDXL,7.5,30,f060ae3d87d1860c95a6dbaab9172583ce70e6fd28876080b5c48a0f59555438
+504000,000000504000.jpg,COCO,airplane,4581,0.0295,replacement,replace airplane with fighter jet,,SDXL,7.5,30,5db20d02b1429ecb9233e1c3e55c81d140b24fafea1f3298453052aad3bbc2ac
+504635,000000504635.jpg,COCO,zebra,13319,0.0489,removal,remove the zebra,,SDXL,7.5,30,bceaab71993d97f955b46ffa504b2f733c0d0f342da541795421968d086ffc4b
+506656,000000506656.jpg,COCO,horse,46358,0.1509,replacement,replace horse with zebra,,SDXL,7.5,30,6ac0cca440c065ee8f8d95b7ce3f050037bc4e63f8e93aae1bee605a94bdd100
+506707,000000506707.jpg,COCO,person,8945,0.0327,replacement,replace person with firefighter,,SDXL,7.5,30,472b368dfb729e78b78a1f3af35e1f5633bf418b602df6b91dfd00c2bc7aa287
+507223,000000507223.jpg,COCO,person,43333,0.1411,replacement,replace person with firefighter,,SDXL,7.5,30,ebc6326364a75b9a80e2679f61639987195061d0e5a7c515812c4157020ec191
+507975,000000507975.jpg,COCO,horse,17963,0.0585,replacement,replace horse with zebra,,SDXL,7.5,30,3e63b0472970041457e2d0da14c332624f2da0ff278e0b6a55c906fe63cc115a
+508602,000000508602.jpg,COCO,car,82448,0.3844,replacement,replace car with truck,,SDXL,7.5,30,11d33e822929e07360d8d9ceec4b5877229d278cf0de52d691ef6ffdb0495d7d
+509008,000000509008.jpg,COCO,bus,130631,0.4703,removal,remove the bus,,SDXL,7.5,30,0e8ff546569dea2856780281e3ca82d16a4f34a16727c763084e1030b71e85a7
+509403,000000509403.jpg,COCO,person,21487,0.0786,replacement,replace person with firefighter,,SDXL,7.5,30,ce811ddf8bc449ad3f0d212d8fe5b915050e3d0923ce4868a95d9b108ba551af
+509451,000000509451.jpg,COCO,person,16944,0.0904,replacement,replace person with firefighter,,SDXL,7.5,30,6651ebc45348cf3d794257891f2d55f007336ed1f92e7f8d0b1d035749f0f91e
+511321,000000511321.jpg,COCO,boat,20396,0.0746,replacement,replace boat with ship,,SDXL,7.5,30,d7daa54c10df3d201fb7ca028d25732c0425d7b8448a078f7bb1fda753cfa52c
+511999,000000511999.jpg,COCO,train,72142,0.2527,removal,remove the train,,SDXL,7.5,30,6f20e01efc21e132421b95ff740eea2c794529d9c64bbc2cd55db2466e146395
+512564,000000512564.jpg,COCO,bus,4305,0.0159,removal,remove the bus,,SDXL,7.5,30,b55a10c14c98a8e1088e0352b1b0703653ebde447d3d1b1045d71f23e7f569f5
+512836,000000512836.jpg,COCO,person,4790,0.0156,replacement,replace person with firefighter,,SDXL,7.5,30,a231d0a4576bb63321fa9c9a7030754b3b3f43b41e8aa1aee4cbcc9e5667fd44
+513283,000000513283.jpg,COCO,person,16900,0.0508,replacement,replace person with firefighter,,SDXL,7.5,30,af33c011dbc8727e7019c54b3ba4f563c554fe323e052d62cfd21f7d6a39a0bc
+513580,000000513580.jpg,COCO,airplane,37560,0.1213,replacement,replace airplane with fighter jet,,SDXL,7.5,30,5c265d6e81f819b0b21630f23caaca18e465ba79cd18568089fd157232f13a8b
+514508,000000514508.jpg,COCO,person,7905,0.0257,replacement,replace person with firefighter,,SDXL,7.5,30,0cd86be2f2164770ff2269e11079bb4185d427898edf33d8748c42a8a034d275
+514797,000000514797.jpg,COCO,person,20662,0.0735,replacement,replace person with firefighter,,SDXL,7.5,30,eb878e0c6332fd46b5cbc47ab7cd8b24a910f7fa4aa76ec01c2493d27be2850a
+515025,000000515025.jpg,COCO,truck,10014,0.0366,replacement,replace truck with bus,,SDXL,7.5,30,80a400d9d80bf0128ebb479188c6b2979099c69c0071c7265786f244f7e3c161
+515579,000000515579.jpg,COCO,person,24428,0.1472,replacement,replace person with firefighter,,SDXL,7.5,30,ccabe95f2cb95b67d114f0c2b05ebd179dfa465de15f596202a47d9206707c8e
+515982,000000515982.jpg,COCO,person,42721,0.1567,replacement,replace person with firefighter,,SDXL,7.5,30,ed1db51eb942c280c82ad2d2cf51d27ef04cd410934de174bf85a36d0e3be061
+518770,000000518770.jpg,COCO,person,6487,0.0346,replacement,replace person with firefighter,,SDXL,7.5,30,2cd9a7815276f4038ae3676ff1bfcf250a7876a11e85a5adb319f2b7a566447d
+519688,000000519688.jpg,COCO,person,156364,0.4689,replacement,replace person with firefighter,,SDXL,7.5,30,8c69fc304f391e2aceb3d3234de6300e44f5d6934560a79143aa34eba5b700eb
+519764,000000519764.jpg,COCO,cat,17543,0.0936,replacement,replace cat with fox,,SDXL,7.5,30,0acb70c2db3b89eb424d7d00a82725369c369ec671c612036ae520ecf476651a
+520009,000000520009.jpg,COCO,bus,14394,0.0699,removal,remove the bus,,SDXL,7.5,30,b3c9430c436794a8083ca66e8cddf1d2a305dfeb7ad5ce83d3fe1574f93be6e7
+520707,000000520707.jpg,COCO,person,12463,0.0406,replacement,replace person with firefighter,,SDXL,7.5,30,46e3820f71fe8dffe2f913956770fbc7e7c3e574e599bbeb47a1248061da939d
+521717,000000521717.jpg,COCO,person,6166,0.0226,replacement,replace person with firefighter,,SDXL,7.5,30,8685552b68459c749baf6296006587111ea13a0a8d826aad5a7d3b32f83c0d79
+522393,000000522393.jpg,COCO,boat,8174,0.02,replacement,replace boat with ship,,SDXL,7.5,30,cefd6cb6f9a19e325f7636599df84d94345f8a8a983829cb2eea175fe3463c1b
+525322,000000525322.jpg,COCO,airplane,11331,0.0414,replacement,replace airplane with fighter jet,,SDXL,7.5,30,83de2dc67c9098daf415669835a36434786cbf3d891ecfd7961d9e8636cbe716
+526706,000000526706.jpg,COCO,cow,7796,0.0285,replacement,replace cow with horse,,SDXL,7.5,30,31468f21a2d6d22ffd2e76d8b7f14f817223467020f72b1c549b59218f112466
+527750,000000527750.jpg,COCO,person,20211,0.074,replacement,replace person with firefighter,,SDXL,7.5,30,2a5e929a804aa2ea3e529f70d514c53cc15cab8e395b27f253e8a2379e5738c6
+529939,000000529939.jpg,COCO,person,13811,0.045,replacement,replace person with firefighter,,SDXL,7.5,30,b077caec990d083fcb9a34ced26db9c578749bf26afc1fe43d26b10d47502fc3
+530162,000000530162.jpg,COCO,person,14203,0.052,replacement,replace person with firefighter,,SDXL,7.5,30,630fbc66d7d2a481a6670918bef0f95b16ebecfe25d625c9e0492cf14f36d555
+531036,000000531036.jpg,COCO,bus,83621,0.2722,removal,remove the bus,,SDXL,7.5,30,0f479dd089339c3ab6af47273a7662ad1e5e5c5b95b5b41a26eca330efb5b05b
+532071,000000532071.jpg,COCO,bear,16751,0.0727,removal,remove the bear,,SDXL,7.5,30,a4358b7720cfa33255cc68bd7ebcc41b7987adc0d4f841b028a3c1a1e6382640
+532493,000000532493.jpg,COCO,person,8089,0.031,replacement,replace person with firefighter,,SDXL,7.5,30,a19f193a38118bc0e44cda654457685f13c279263aa573f6007b12de0c6f91b7
+534605,000000534605.jpg,COCO,motorcycle,16935,0.0706,removal,remove the motorcycle,,SDXL,7.5,30,3e67506fde8136c96597e25b31db4d8f691cc9610c40f6fcf0d69e7e5c337354
+535094,000000535094.jpg,COCO,cow,81854,0.2995,replacement,replace cow with horse,,SDXL,7.5,30,1402bc4887f7d886f1783759978844653f01eb639679c85232f6724cfad61f25
+535523,000000535523.jpg,COCO,person,23188,0.0847,replacement,replace person with firefighter,,SDXL,7.5,30,f5a795b3ad60ef3a634c45b100058a25ae70c963bc8d67087bf8e75fbbe26125
+537506,000000537506.jpg,COCO,person,11895,0.0496,replacement,replace person with firefighter,,SDXL,7.5,30,cff9a18fa373076b355264d0c76f27f17e5f11cbcb8e798607df6dc12943b5d0
+537991,000000537991.jpg,COCO,person,89798,0.2923,replacement,replace person with firefighter,,SDXL,7.5,30,d4da3bed3404f8049b66299becf0529160b795f26c502b03ea6d740adaca850d
+538236,000000538236.jpg,COCO,person,4197,0.0153,replacement,replace person with firefighter,,SDXL,7.5,30,ebc5aad044a2b9fda585ad9bc5efc91ed8be1d456e3eb19c804766d81beb61d2
+538364,000000538364.jpg,COCO,person,10752,0.035,replacement,replace person with firefighter,,SDXL,7.5,30,48b54f744e1af7ab63f2c793ad43f9594e849f4fdce5153b311cbcc0a96252d8
+541055,000000541055.jpg,COCO,person,7777,0.0338,replacement,replace person with firefighter,,SDXL,7.5,30,bf1b3868fb07383c66f6f52338291e9d6fc991c991294d03844329905b96473f
+543581,000000543581.jpg,COCO,cat,6561,0.024,replacement,replace cat with fox,,SDXL,7.5,30,141f07465c0fbe4c96fb2dacb3af451d7a7111a27eb063b58ab17b87954fa767
+545407,000000545407.jpg,COCO,airplane,8942,0.033,replacement,replace airplane with fighter jet,,SDXL,7.5,30,db27cd1b55763675b527b6d620f8d18932557b05ac0a654f48f29c1ec83723e3
+546011,000000546011.jpg,COCO,zebra,10743,0.0643,removal,remove the zebra,,SDXL,7.5,30,4ead432a3eb8bb2176349b4b4b36b7ab1038ecde45179e44645e53e6c279738d
+546219,000000546219.jpg,COCO,person,11867,0.0434,replacement,replace person with firefighter,,SDXL,7.5,30,0f3ea15ee146ee1987f899809cb0ed6a885fa6933ab67c3af196559d1696f771
+546475,000000546475.jpg,COCO,person,114322,0.4664,replacement,replace person with firefighter,,SDXL,7.5,30,502a97607285d7a15253b8df51da316a81646f3a7c393fbdf2ea7a8330d78799
+546976,000000546976.jpg,COCO,person,45845,0.2445,replacement,replace person with firefighter,,SDXL,7.5,30,fe857e9e5da1a4be781c01ed96dc551d97b1a854bc64e78d4a2f515417e0810a
+547502,000000547502.jpg,COCO,dog,12185,0.0397,replacement,replace dog with wolf,,SDXL,7.5,30,60d4d3d2a4b16ee468f769296f1ff41348d60bfbffc0f634d8f93245f2996145
+547854,000000547854.jpg,COCO,person,143187,0.3496,replacement,replace person with firefighter,,SDXL,7.5,30,cfe42567d4ba46e8465cfea897f115bf343c84ea9a2993c22dd601236cd92ad7
+548246,000000548246.jpg,COCO,person,41839,0.1527,replacement,replace person with firefighter,,SDXL,7.5,30,3cecbdfb3ad046f44f22c08f6ed03cf8f7d3628ef7e022999238936daf3867ee
+548339,000000548339.jpg,COCO,person,20491,0.0556,replacement,replace person with firefighter,,SDXL,7.5,30,a9366ed8b7967a4b9e7fbad495d6347c483612812c204e7c9fee39f9d265fd8c
+548780,000000548780.jpg,COCO,person,12479,0.0457,replacement,replace person with firefighter,,SDXL,7.5,30,925dac92c64aa5c6bc383f8e777f2b36f50224d01dbc2436dae2aede2f8da4d6
+549220,000000549220.jpg,COCO,dog,105538,0.3435,replacement,replace dog with wolf,,SDXL,7.5,30,dc9ccaf3ddb6b8c28e7ac57567412086cd5af7c86df3fa67453e561f9d9039a2
+549930,000000549930.jpg,COCO,person,36555,0.1024,replacement,replace person with firefighter,,SDXL,7.5,30,a756b9a5708b2f7a42bbbbc9950d940cafc665a1aa3157db86318f07619eb622
+550084,000000550084.jpg,COCO,truck,15062,0.0803,replacement,replace truck with bus,,SDXL,7.5,30,9049948eaa6bb0190a2683faa6d751205c8bae535a6225d413034e762bb0571b
+550714,000000550714.jpg,COCO,person,173892,0.5661,replacement,replace person with firefighter,,SDXL,7.5,30,342113ec859cb2e699e194a2b0d08d25c2ea82cae3a86b3acfff8529ce4cc1e6
+551804,000000551804.jpg,COCO,person,18364,0.0672,replacement,replace person with firefighter,,SDXL,7.5,30,8db15638106b2f158c550882d99ecbe518154bcd93b15ea91f38d0ad4df23ce4
+551820,000000551820.jpg,COCO,person,31948,0.1175,replacement,replace person with firefighter,,SDXL,7.5,30,3703a4f04615c770f3b73f3309f995583dd83a9c27aa1452a07c7e3859e63ce0
+552842,000000552842.jpg,COCO,person,7224,0.0264,replacement,replace person with firefighter,,SDXL,7.5,30,41e35c2e3f2d437f5cbb88f9e49ccc46ff1172ef703b9013033ba2396ab4535b
+552902,000000552902.jpg,COCO,zebra,40326,0.1476,removal,remove the zebra,,SDXL,7.5,30,57916323becb5517bdcbf2dd7afc213c528dfbdafe2a796b174b588dcbb8ace6
+553731,000000553731.jpg,COCO,person,5694,0.0208,replacement,replace person with firefighter,,SDXL,7.5,30,ad8110f2b29cc26c7cca05d9565f1f9d436e234aae21a82e70653eaf8c7e66af
+553776,000000553776.jpg,COCO,motorcycle,57762,0.1846,removal,remove the motorcycle,,SDXL,7.5,30,01fe7727ef1a1c35f1e6ab73692197f545ce95f93ca3b7c247c7b05dfe64a11f
+554595,000000554595.jpg,COCO,person,7893,0.042,replacement,replace person with firefighter,,SDXL,7.5,30,5c171346d47d64a8f4ae8d9be099c1b3b49f7e2a439cd87c7ab528c83a79f68c
+554735,000000554735.jpg,COCO,person,87287,0.2841,replacement,replace person with firefighter,,SDXL,7.5,30,7a15b3c5d4e8f1f52495d831b04e666d778d9a1d8cbeaf30d6c3246a7492e0f0
+556000,000000556000.jpg,COCO,person,43972,0.1334,replacement,replace person with firefighter,,SDXL,7.5,30,2cd807997aabd207e97607169491501edf04529dec1bd7bbe66c918579ee6f74
+556193,000000556193.jpg,COCO,person,21377,0.1284,replacement,replace person with firefighter,,SDXL,7.5,30,63729f18759eeaef7609f7db0af83368310e99b96f20b245703a7ad766b89d15
+557672,000000557672.jpg,COCO,person,8375,0.0302,replacement,replace person with firefighter,,SDXL,7.5,30,0ea577a7b80ab307aedd9788acf24c7d2f7c91f6aea47958fb77980e91be8512
+558114,000000558114.jpg,COCO,person,15488,0.0504,replacement,replace person with firefighter,,SDXL,7.5,30,d3e8e572773e77482283dd6dee103840a4996bd0c99e1e59409dbfea5830f074
+558213,000000558213.jpg,COCO,train,23528,0.0851,removal,remove the train,,SDXL,7.5,30,7cf843b10540e89ab0b0077e8be0ce806be5aeb426ddaaeb8ff7050d0877c50a
+559842,000000559842.jpg,COCO,person,6718,0.0246,replacement,replace person with firefighter,,SDXL,7.5,30,5154817169d2011bb55b4905650653aa438ded940c1832f8e47100d2b5acab75
+561009,000000561009.jpg,COCO,bird,33142,0.1213,replacement,replace bird with eagle,,SDXL,7.5,30,3d25b1edacf9c590e4abde695ec5115ec343fc64dab7883b34590d5bd05b9383
+562207,000000562207.jpg,COCO,person,9938,0.0365,replacement,replace person with firefighter,,SDXL,7.5,30,0c92d1fab3b9f70121fe695003d704bc0f77ac19df217bf50a23a64a06f64f70
+562443,000000562443.jpg,COCO,zebra,123600,0.4023,removal,remove the zebra,,SDXL,7.5,30,be4c0c4482e3e65a96b59bb7a1488c524107538f78f4cef0a07f28124567a4f5
+562561,000000562561.jpg,COCO,dog,20560,0.0669,replacement,replace dog with wolf,,SDXL,7.5,30,611d590977a5a7da45348b5688e295c11ff12cec5499991656a83916320344d3
+563648,000000563648.jpg,COCO,person,6068,0.0203,replacement,replace person with firefighter,,SDXL,7.5,30,31eb1b18cbf9ff01a72ad854a2912423dd4fd501609b8d6f19acb1888183ae75
+564133,000000564133.jpg,COCO,elephant,4775,0.0176,removal,remove the elephant,,SDXL,7.5,30,258142445e9b5f1fc01e1a5d950a0b7a4d0e435b5c0bcb790acae0116d8a9866
+564336,000000564336.jpg,COCO,person,3937,0.0171,replacement,replace person with firefighter,,SDXL,7.5,30,c9fdceef5fa2407517377dbcfd571b92c54840d2ae64e3ab4d079fe0c769a760
+565045,000000565045.jpg,COCO,person,6780,0.0407,replacement,replace person with firefighter,,SDXL,7.5,30,85d1a4de21e58f7737fc664e76a68312ebf446aac5d6809d1c2248d1b236f821
+565624,000000565624.jpg,COCO,elephant,51574,0.2149,removal,remove the elephant,,SDXL,7.5,30,caf7240a87b4a4d445b079cf83dfed72f9e3ec43c9b41cc8cb586a089ce9ecbf
+567432,000000567432.jpg,COCO,airplane,9498,0.035,replacement,replace airplane with fighter jet,,SDXL,7.5,30,b2543d87836e15baa99bfdb68b7cd0f02215063c732a6b24708209fb83a2f3e2
+568690,000000568690.jpg,COCO,cat,17709,0.0576,replacement,replace cat with fox,,SDXL,7.5,30,5c0e67092c5824f7701ef46d102ec62480f1a12ac4b3141cd58da05f3d61998e
+568710,000000568710.jpg,COCO,person,14400,0.0527,replacement,replace person with firefighter,,SDXL,7.5,30,660380f8b533528a8b7d4a7d7ce0a202b4569f0829d13236c8e91de6bf1c4ee7
+570539,000000570539.jpg,COCO,person,6091,0.0327,replacement,replace person with firefighter,,SDXL,7.5,30,9285a5cfca8b07cac2ab197fd185a2d42ea851c549f43690e1c9e4aeb054c4ed
+570664,000000570664.jpg,COCO,cat,12552,0.0754,replacement,replace cat with fox,,SDXL,7.5,30,dfa25409c8552886b4caac188e7eca6d12d61de438be2088236329a1df674915
+571718,000000571718.jpg,COCO,person,46120,0.1688,replacement,replace person with firefighter,,SDXL,7.5,30,6b0d0aba8a7baa4b3ee9921efe8c2a0312cc3d6e1cd0801ed63bc75a5d885dd5
+572462,000000572462.jpg,COCO,person,12761,0.0341,replacement,replace person with firefighter,,SDXL,7.5,30,1c0fe10550f3f6e61c7faa94818a04cb918294afb8b4d64cd79db6d0157c9e3a
+572956,000000572956.jpg,COCO,motorcycle,12038,0.0723,removal,remove the motorcycle,,SDXL,7.5,30,23da121730f5ce3283beec0f241f6613075b8bf5d01871f972648235e79e2531
+573391,000000573391.jpg,COCO,bear,6340,0.0206,removal,remove the bear,,SDXL,7.5,30,9f627b485e3711aebaf96e4fe7a9d65594d877bef8076fb9acf67440f5a5c439
+574315,000000574315.jpg,COCO,cat,40481,0.1318,replacement,replace cat with fox,,SDXL,7.5,30,4cd56813d7d5f9acd4110a183e8f39e032704c0f8e0bfd2ad5df4c100dd0d5a0
+575243,000000575243.jpg,COCO,person,4369,0.016,replacement,replace person with firefighter,,SDXL,7.5,30,af5437ac25e776a5a59d5c2ade819b313ed217374ef83dc9a249f7cab9a7a1ca
+577149,000000577149.jpg,COCO,zebra,23701,0.0897,removal,remove the zebra,,SDXL,7.5,30,d80f02fad3c1e87bc27631fd7fb0697f5963fedba22bc38f4f1f8b8a2a2b8da2
+577864,000000577864.jpg,COCO,person,49986,0.1833,replacement,replace person with firefighter,,SDXL,7.5,30,c0ab51a4efa3c729a0d6590c096b2ffc4b3bd7fa73555971c78a9670176797b8
+577932,000000577932.jpg,COCO,person,8565,0.0246,replacement,replace person with firefighter,,SDXL,7.5,30,8d5000be2c536732c9e045f3842075cac184a1c0b99ba06d1b8011a693074596
+577976,000000577976.jpg,COCO,truck,8788,0.0321,replacement,replace truck with bus,,SDXL,7.5,30,f4b9df4e320fa1066063265029fe3b83a7cf889cb38bf16e85fa4359ebe25c83
+578489,000000578489.jpg,COCO,person,26134,0.0851,replacement,replace person with firefighter,,SDXL,7.5,30,b38fed1e2b9aae26f02f0c956e00fdf610a2441a3236e2541908e2283aebdb76
+578792,000000578792.jpg,COCO,person,18219,0.0667,replacement,replace person with firefighter,,SDXL,7.5,30,c8987c2f1b79f94db75378e027185b76be4d87a2bb49901b46ca0a41e5cc1f05
+579070,000000579070.jpg,COCO,person,11043,0.0404,replacement,replace person with firefighter,,SDXL,7.5,30,e4222e544a4b8564ebf20da28e8b6767fb792bd5e184e855320ca19830ccdad8
+579158,000000579158.jpg,COCO,truck,7916,0.0258,replacement,replace truck with bus,,SDXL,7.5,30,bbf3bbe78b90bcb8c04637341d70d8b5eac271904225ad831d4b1c3f27d90ee3
+579655,000000579655.jpg,COCO,person,129635,0.5077,replacement,replace person with firefighter,,SDXL,7.5,30,e89440410fda83c5e132b3f52f8a0fc33c0ab44c0b4d9fba2ae6a458bb21884f
+579818,000000579818.jpg,COCO,train,37479,0.1627,removal,remove the train,,SDXL,7.5,30,67a3436cbf450c6ddaabe7e12b3e2b4a89bdaa8c9c9fe6058dac5fa08df03bd0
+579902,000000579902.jpg,COCO,motorcycle,26579,0.0747,removal,remove the motorcycle,,SDXL,7.5,30,a46796acd5862d6fa0ebb9c33d555ab733540a7dbfd3fa1fe70f2e4a3b782b3e
+580197,000000580197.jpg,COCO,person,36110,0.1175,replacement,replace person with firefighter,,SDXL,7.5,30,7c4b83cfcc8d94145e044d6ffce50ee5e10a3cde1a61b35d60fbf97e86e82b6d
+581206,000000581206.jpg,COCO,person,53838,0.1756,replacement,replace person with firefighter,,SDXL,7.5,30,8fa9d1f7bb9c4ccef349c1c81ba7b11d27e9f0f21d1396408ea74d93ee99d350

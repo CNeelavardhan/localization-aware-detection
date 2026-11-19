@@ -1,0 +1,7202 @@
+{
+  "436617": {
+    "image_id": 436617,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "565624": {
+    "image_id": 565624,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "579307": {
+    "image_id": 579307,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "9590": {
+    "image_id": 9590,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "297022": {
+    "image_id": 297022,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "262938": {
+    "image_id": 262938,
+    "split": "val",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "410456": {
+    "image_id": 410456,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "511999": {
+    "image_id": 511999,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "338905": {
+    "image_id": 338905,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "284698": {
+    "image_id": 284698,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "59044": {
+    "image_id": 59044,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "329323": {
+    "image_id": 329323,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "322864": {
+    "image_id": 322864,
+    "split": "test",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "465549": {
+    "image_id": 465549,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "579902": {
+    "image_id": 579902,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "227482": {
+    "image_id": 227482,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "463174": {
+    "image_id": 463174,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "509008": {
+    "image_id": 509008,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "543581": {
+    "image_id": 543581,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "125936": {
+    "image_id": 125936,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "212453": {
+    "image_id": 212453,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "471756": {
+    "image_id": 471756,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "104119": {
+    "image_id": 104119,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "68093": {
+    "image_id": 68093,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "26204": {
+    "image_id": 26204,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "135410": {
+    "image_id": 135410,
+    "split": "train",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "292082": {
+    "image_id": 292082,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "224675": {
+    "image_id": 224675,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "151938": {
+    "image_id": 151938,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "132544": {
+    "image_id": 132544,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "364126": {
+    "image_id": 364126,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "490936": {
+    "image_id": 490936,
+    "split": "val",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "5193": {
+    "image_id": 5193,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "554002": {
+    "image_id": 554002,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "378244": {
+    "image_id": 378244,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "414133": {
+    "image_id": 414133,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "31817": {
+    "image_id": 31817,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "445834": {
+    "image_id": 445834,
+    "split": "val",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "229997": {
+    "image_id": 229997,
+    "split": "train",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "394206": {
+    "image_id": 394206,
+    "split": "val",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "410496": {
+    "image_id": 410496,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "61584": {
+    "image_id": 61584,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "377946": {
+    "image_id": 377946,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "187585": {
+    "image_id": 187585,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "210388": {
+    "image_id": 210388,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "90891": {
+    "image_id": 90891,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "513580": {
+    "image_id": 513580,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "132703": {
+    "image_id": 132703,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "303653": {
+    "image_id": 303653,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "287527": {
+    "image_id": 287527,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "365642": {
+    "image_id": 365642,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "474021": {
+    "image_id": 474021,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "357816": {
+    "image_id": 357816,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "163746": {
+    "image_id": 163746,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "174482": {
+    "image_id": 174482,
+    "split": "val",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "398237": {
+    "image_id": 398237,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "245448": {
+    "image_id": 245448,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "80274": {
+    "image_id": 80274,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "97924": {
+    "image_id": 97924,
+    "split": "test",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "380913": {
+    "image_id": 380913,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "229747": {
+    "image_id": 229747,
+    "split": "val",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "313562": {
+    "image_id": 313562,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "439715": {
+    "image_id": 439715,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "17178": {
+    "image_id": 17178,
+    "split": "test",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "2473": {
+    "image_id": 2473,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "258911": {
+    "image_id": 258911,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "567432": {
+    "image_id": 567432,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "278973": {
+    "image_id": 278973,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "50145": {
+    "image_id": 50145,
+    "split": "train",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "281447": {
+    "image_id": 281447,
+    "split": "test",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "161609": {
+    "image_id": 161609,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "365655": {
+    "image_id": 365655,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "535523": {
+    "image_id": 535523,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "289741": {
+    "image_id": 289741,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "81394": {
+    "image_id": 81394,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "328601": {
+    "image_id": 328601,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "108026": {
+    "image_id": 108026,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "414510": {
+    "image_id": 414510,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "559842": {
+    "image_id": 559842,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "423617": {
+    "image_id": 423617,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "97988": {
+    "image_id": 97988,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "406129": {
+    "image_id": 406129,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "345385": {
+    "image_id": 345385,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "208363": {
+    "image_id": 208363,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "548339": {
+    "image_id": 548339,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "566282": {
+    "image_id": 566282,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "430961": {
+    "image_id": 430961,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "404678": {
+    "image_id": 404678,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "92416": {
+    "image_id": 92416,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "541055": {
+    "image_id": 541055,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "223182": {
+    "image_id": 223182,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "317433": {
+    "image_id": 317433,
+    "split": "test",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "359540": {
+    "image_id": 359540,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "497599": {
+    "image_id": 497599,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "329041": {
+    "image_id": 329041,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "73702": {
+    "image_id": 73702,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "109900": {
+    "image_id": 109900,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "146831": {
+    "image_id": 146831,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "476514": {
+    "image_id": 476514,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "216296": {
+    "image_id": 216296,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "324258": {
+    "image_id": 324258,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "547854": {
+    "image_id": 547854,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "277051": {
+    "image_id": 277051,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "402992": {
+    "image_id": 402992,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "356424": {
+    "image_id": 356424,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "242946": {
+    "image_id": 242946,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "476704": {
+    "image_id": 476704,
+    "split": "val",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "22892": {
+    "image_id": 22892,
+    "split": "val",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "391144": {
+    "image_id": 391144,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "166747": {
+    "image_id": 166747,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "458045": {
+    "image_id": 458045,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "189475": {
+    "image_id": 189475,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "283037": {
+    "image_id": 283037,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "182805": {
+    "image_id": 182805,
+    "split": "test",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "163640": {
+    "image_id": 163640,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "480021": {
+    "image_id": 480021,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "345252": {
+    "image_id": 345252,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "350679": {
+    "image_id": 350679,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "520009": {
+    "image_id": 520009,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "312421": {
+    "image_id": 312421,
+    "split": "test",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "519338": {
+    "image_id": 519338,
+    "split": "test",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "572462": {
+    "image_id": 572462,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "461009": {
+    "image_id": 461009,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "579818": {
+    "image_id": 579818,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "491683": {
+    "image_id": 491683,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "134722": {
+    "image_id": 134722,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "172649": {
+    "image_id": 172649,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "495054": {
+    "image_id": 495054,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "521717": {
+    "image_id": 521717,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "273198": {
+    "image_id": 273198,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "183500": {
+    "image_id": 183500,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "194506": {
+    "image_id": 194506,
+    "split": "train",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "64359": {
+    "image_id": 64359,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "245915": {
+    "image_id": 245915,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "322724": {
+    "image_id": 322724,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "42178": {
+    "image_id": 42178,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "289594": {
+    "image_id": 289594,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "478474": {
+    "image_id": 478474,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "363666": {
+    "image_id": 363666,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "220584": {
+    "image_id": 220584,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "147415": {
+    "image_id": 147415,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "171382": {
+    "image_id": 171382,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "448256": {
+    "image_id": 448256,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "177934": {
+    "image_id": 177934,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "127263": {
+    "image_id": 127263,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "452784": {
+    "image_id": 452784,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "558114": {
+    "image_id": 558114,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "167128": {
+    "image_id": 167128,
+    "split": "test",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "263969": {
+    "image_id": 263969,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "367095": {
+    "image_id": 367095,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "13729": {
+    "image_id": 13729,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "144003": {
+    "image_id": 144003,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "231125": {
+    "image_id": 231125,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "180878": {
+    "image_id": 180878,
+    "split": "test",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "122046": {
+    "image_id": 122046,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "60823": {
+    "image_id": 60823,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "2431": {
+    "image_id": 2431,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "74256": {
+    "image_id": 74256,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "252219": {
+    "image_id": 252219,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "473237": {
+    "image_id": 473237,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "336232": {
+    "image_id": 336232,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "432898": {
+    "image_id": 432898,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "34139": {
+    "image_id": 34139,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "504074": {
+    "image_id": 504074,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "448365": {
+    "image_id": 448365,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "277020": {
+    "image_id": 277020,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "165681": {
+    "image_id": 165681,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "416330": {
+    "image_id": 416330,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "274460": {
+    "image_id": 274460,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "424349": {
+    "image_id": 424349,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "261888": {
+    "image_id": 261888,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "480985": {
+    "image_id": 480985,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "417911": {
+    "image_id": 417911,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "176857": {
+    "image_id": 176857,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "545594": {
+    "image_id": 545594,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "23126": {
+    "image_id": 23126,
+    "split": "val",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "405306": {
+    "image_id": 405306,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "281759": {
+    "image_id": 281759,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "301135": {
+    "image_id": 301135,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "518770": {
+    "image_id": 518770,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "196141": {
+    "image_id": 196141,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "490470": {
+    "image_id": 490470,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "224807": {
+    "image_id": 224807,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "365207": {
+    "image_id": 365207,
+    "split": "val",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "402720": {
+    "image_id": 402720,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "402774": {
+    "image_id": 402774,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "435208": {
+    "image_id": 435208,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "489842": {
+    "image_id": 489842,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "93261": {
+    "image_id": 93261,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "388056": {
+    "image_id": 388056,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "482800": {
+    "image_id": 482800,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "161397": {
+    "image_id": 161397,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "279714": {
+    "image_id": 279714,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "334530": {
+    "image_id": 334530,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "359135": {
+    "image_id": 359135,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "320554": {
+    "image_id": 320554,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "1000": {
+    "image_id": 1000,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "282298": {
+    "image_id": 282298,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "512985": {
+    "image_id": 512985,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "308476": {
+    "image_id": 308476,
+    "split": "train",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "534605": {
+    "image_id": 534605,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "481582": {
+    "image_id": 481582,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "76468": {
+    "image_id": 76468,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "581357": {
+    "image_id": 581357,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "297578": {
+    "image_id": 297578,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "427034": {
+    "image_id": 427034,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "248616": {
+    "image_id": 248616,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "360661": {
+    "image_id": 360661,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "504000": {
+    "image_id": 504000,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "221693": {
+    "image_id": 221693,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "405249": {
+    "image_id": 405249,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "2299": {
+    "image_id": 2299,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "61960": {
+    "image_id": 61960,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "549055": {
+    "image_id": 549055,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "34452": {
+    "image_id": 34452,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "76547": {
+    "image_id": 76547,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "105923": {
+    "image_id": 105923,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "124277": {
+    "image_id": 124277,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "8690": {
+    "image_id": 8690,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "228436": {
+    "image_id": 228436,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "461751": {
+    "image_id": 461751,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "515025": {
+    "image_id": 515025,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "209829": {
+    "image_id": 209829,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "463522": {
+    "image_id": 463522,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "275791": {
+    "image_id": 275791,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "260261": {
+    "image_id": 260261,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "291791": {
+    "image_id": 291791,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "326541": {
+    "image_id": 326541,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "194875": {
+    "image_id": 194875,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "489764": {
+    "image_id": 489764,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "277005": {
+    "image_id": 277005,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "146155": {
+    "image_id": 146155,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "268000": {
+    "image_id": 268000,
+    "split": "val",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "239717": {
+    "image_id": 239717,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "69356": {
+    "image_id": 69356,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "341469": {
+    "image_id": 341469,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "22935": {
+    "image_id": 22935,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "54967": {
+    "image_id": 54967,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "493284": {
+    "image_id": 493284,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "140987": {
+    "image_id": 140987,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "269632": {
+    "image_id": 269632,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "472298": {
+    "image_id": 472298,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "358923": {
+    "image_id": 358923,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "293300": {
+    "image_id": 293300,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "28449": {
+    "image_id": 28449,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "404923": {
+    "image_id": 404923,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "329614": {
+    "image_id": 329614,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "538236": {
+    "image_id": 538236,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "393115": {
+    "image_id": 393115,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "275749": {
+    "image_id": 275749,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "536038": {
+    "image_id": 536038,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "312213": {
+    "image_id": 312213,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "538364": {
+    "image_id": 538364,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "233238": {
+    "image_id": 233238,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "550349": {
+    "image_id": 550349,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "152120": {
+    "image_id": 152120,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "30494": {
+    "image_id": 30494,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "114770": {
+    "image_id": 114770,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "507975": {
+    "image_id": 507975,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "322163": {
+    "image_id": 322163,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "263860": {
+    "image_id": 263860,
+    "split": "val",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "531036": {
+    "image_id": 531036,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "575243": {
+    "image_id": 575243,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "181542": {
+    "image_id": 181542,
+    "split": "test",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "291551": {
+    "image_id": 291551,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "468505": {
+    "image_id": 468505,
+    "split": "train",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "459467": {
+    "image_id": 459467,
+    "split": "test",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "350019": {
+    "image_id": 350019,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "411938": {
+    "image_id": 411938,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "235241": {
+    "image_id": 235241,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "572956": {
+    "image_id": 572956,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "329447": {
+    "image_id": 329447,
+    "split": "val",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "78823": {
+    "image_id": 78823,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "376093": {
+    "image_id": 376093,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "568195": {
+    "image_id": 568195,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "100723": {
+    "image_id": 100723,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "477623": {
+    "image_id": 477623,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "119233": {
+    "image_id": 119233,
+    "split": "val",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "70774": {
+    "image_id": 70774,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "488710": {
+    "image_id": 488710,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "213086": {
+    "image_id": 213086,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "545407": {
+    "image_id": 545407,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "95862": {
+    "image_id": 95862,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "8021": {
+    "image_id": 8021,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "250137": {
+    "image_id": 250137,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "143556": {
+    "image_id": 143556,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "546976": {
+    "image_id": 546976,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "17207": {
+    "image_id": 17207,
+    "split": "val",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "109118": {
+    "image_id": 109118,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "161978": {
+    "image_id": 161978,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "416104": {
+    "image_id": 416104,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "33221": {
+    "image_id": 33221,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "442822": {
+    "image_id": 442822,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "352582": {
+    "image_id": 352582,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "485480": {
+    "image_id": 485480,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "156924": {
+    "image_id": 156924,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "367818": {
+    "image_id": 367818,
+    "split": "val",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "376284": {
+    "image_id": 376284,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "508602": {
+    "image_id": 508602,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "235399": {
+    "image_id": 235399,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "453166": {
+    "image_id": 453166,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "323799": {
+    "image_id": 323799,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "107094": {
+    "image_id": 107094,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "462371": {
+    "image_id": 462371,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "355817": {
+    "image_id": 355817,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "104455": {
+    "image_id": 104455,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "80932": {
+    "image_id": 80932,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "52462": {
+    "image_id": 52462,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "143961": {
+    "image_id": 143961,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "2153": {
+    "image_id": 2153,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "441586": {
+    "image_id": 441586,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "229601": {
+    "image_id": 229601,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "113051": {
+    "image_id": 113051,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "554735": {
+    "image_id": 554735,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "412362": {
+    "image_id": 412362,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "504635": {
+    "image_id": 504635,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "39484": {
+    "image_id": 39484,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "188296": {
+    "image_id": 188296,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "512836": {
+    "image_id": 512836,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "481390": {
+    "image_id": 481390,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "470779": {
+    "image_id": 470779,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "571718": {
+    "image_id": 571718,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "78843": {
+    "image_id": 78843,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "242724": {
+    "image_id": 242724,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "30675": {
+    "image_id": 30675,
+    "split": "val",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "368335": {
+    "image_id": 368335,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "478420": {
+    "image_id": 478420,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "233727": {
+    "image_id": 233727,
+    "split": "val",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "521141": {
+    "image_id": 521141,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "11149": {
+    "image_id": 11149,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "456559": {
+    "image_id": 456559,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "409211": {
+    "image_id": 409211,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "148719": {
+    "image_id": 148719,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "17627": {
+    "image_id": 17627,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "323709": {
+    "image_id": 323709,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "85823": {
+    "image_id": 85823,
+    "split": "test",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "71938": {
+    "image_id": 71938,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "80666": {
+    "image_id": 80666,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "212166": {
+    "image_id": 212166,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "550714": {
+    "image_id": 550714,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "151820": {
+    "image_id": 151820,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "150649": {
+    "image_id": 150649,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "476119": {
+    "image_id": 476119,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "204186": {
+    "image_id": 204186,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "14473": {
+    "image_id": 14473,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "139872": {
+    "image_id": 139872,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "311002": {
+    "image_id": 311002,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "148662": {
+    "image_id": 148662,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "257624": {
+    "image_id": 257624,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "93965": {
+    "image_id": 93965,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "492077": {
+    "image_id": 492077,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "433915": {
+    "image_id": 433915,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "184611": {
+    "image_id": 184611,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "174371": {
+    "image_id": 174371,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "39914": {
+    "image_id": 39914,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "88848": {
+    "image_id": 88848,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "127270": {
+    "image_id": 127270,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "422706": {
+    "image_id": 422706,
+    "split": "test",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "62355": {
+    "image_id": 62355,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "564133": {
+    "image_id": 564133,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "235064": {
+    "image_id": 235064,
+    "split": "test",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "157767": {
+    "image_id": 157767,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "408112": {
+    "image_id": 408112,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "527220": {
+    "image_id": 527220,
+    "split": "val",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "383921": {
+    "image_id": 383921,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "89078": {
+    "image_id": 89078,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "123585": {
+    "image_id": 123585,
+    "split": "val",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "301061": {
+    "image_id": 301061,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "284445": {
+    "image_id": 284445,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "89648": {
+    "image_id": 89648,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "98839": {
+    "image_id": 98839,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "231879": {
+    "image_id": 231879,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "76416": {
+    "image_id": 76416,
+    "split": "test",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "80671": {
+    "image_id": 80671,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "475904": {
+    "image_id": 475904,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "411817": {
+    "image_id": 411817,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "150417": {
+    "image_id": 150417,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "128476": {
+    "image_id": 128476,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "570664": {
+    "image_id": 570664,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "492362": {
+    "image_id": 492362,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "303713": {
+    "image_id": 303713,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "266400": {
+    "image_id": 266400,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "259690": {
+    "image_id": 259690,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "535094": {
+    "image_id": 535094,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "454661": {
+    "image_id": 454661,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "247917": {
+    "image_id": 247917,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "426203": {
+    "image_id": 426203,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "532071": {
+    "image_id": 532071,
+    "split": "train",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "177861": {
+    "image_id": 177861,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "289059": {
+    "image_id": 289059,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "171298": {
+    "image_id": 171298,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "494188": {
+    "image_id": 494188,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "509403": {
+    "image_id": 509403,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "166918": {
+    "image_id": 166918,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "292236": {
+    "image_id": 292236,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "201072": {
+    "image_id": 201072,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "288584": {
+    "image_id": 288584,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "414795": {
+    "image_id": 414795,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "243204": {
+    "image_id": 243204,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "352684": {
+    "image_id": 352684,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "454750": {
+    "image_id": 454750,
+    "split": "val",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "250205": {
+    "image_id": 250205,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "386352": {
+    "image_id": 386352,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "62808": {
+    "image_id": 62808,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "190307": {
+    "image_id": 190307,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "106048": {
+    "image_id": 106048,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "312586": {
+    "image_id": 312586,
+    "split": "val",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "64523": {
+    "image_id": 64523,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "100428": {
+    "image_id": 100428,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "185890": {
+    "image_id": 185890,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "297698": {
+    "image_id": 297698,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "236592": {
+    "image_id": 236592,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "254516": {
+    "image_id": 254516,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "467848": {
+    "image_id": 467848,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "157046": {
+    "image_id": 157046,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "442836": {
+    "image_id": 442836,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "522393": {
+    "image_id": 522393,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "400815": {
+    "image_id": 400815,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "132796": {
+    "image_id": 132796,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "31093": {
+    "image_id": 31093,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "398203": {
+    "image_id": 398203,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "122962": {
+    "image_id": 122962,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "329219": {
+    "image_id": 329219,
+    "split": "val",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "353180": {
+    "image_id": 353180,
+    "split": "test",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "338304": {
+    "image_id": 338304,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "126137": {
+    "image_id": 126137,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "296649": {
+    "image_id": 296649,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "335081": {
+    "image_id": 335081,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "579655": {
+    "image_id": 579655,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "173830": {
+    "image_id": 173830,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "54592": {
+    "image_id": 54592,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "478393": {
+    "image_id": 478393,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "187236": {
+    "image_id": 187236,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "100624": {
+    "image_id": 100624,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "416885": {
+    "image_id": 416885,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "573391": {
+    "image_id": 573391,
+    "split": "train",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "400803": {
+    "image_id": 400803,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "98853": {
+    "image_id": 98853,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "196843": {
+    "image_id": 196843,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "185409": {
+    "image_id": 185409,
+    "split": "test",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "102356": {
+    "image_id": 102356,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "491008": {
+    "image_id": 491008,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "448076": {
+    "image_id": 448076,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "136715": {
+    "image_id": 136715,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "472623": {
+    "image_id": 472623,
+    "split": "train",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "118921": {
+    "image_id": 118921,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "533816": {
+    "image_id": 533816,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "441553": {
+    "image_id": 441553,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "157928": {
+    "image_id": 157928,
+    "split": "val",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "482319": {
+    "image_id": 482319,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "496854": {
+    "image_id": 496854,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "63552": {
+    "image_id": 63552,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "328286": {
+    "image_id": 328286,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "311180": {
+    "image_id": 311180,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "394677": {
+    "image_id": 394677,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "40083": {
+    "image_id": 40083,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "7281": {
+    "image_id": 7281,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "395801": {
+    "image_id": 395801,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "552842": {
+    "image_id": 552842,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "24021": {
+    "image_id": 24021,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "26690": {
+    "image_id": 26690,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "579158": {
+    "image_id": 579158,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "112798": {
+    "image_id": 112798,
+    "split": "test",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "448263": {
+    "image_id": 448263,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "402118": {
+    "image_id": 402118,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "48504": {
+    "image_id": 48504,
+    "split": "test",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "525322": {
+    "image_id": 525322,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "6471": {
+    "image_id": 6471,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "11699": {
+    "image_id": 11699,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "356125": {
+    "image_id": 356125,
+    "split": "test",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "447200": {
+    "image_id": 447200,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "114049": {
+    "image_id": 114049,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "553669": {
+    "image_id": 553669,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "513567": {
+    "image_id": 513567,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "493905": {
+    "image_id": 493905,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "384670": {
+    "image_id": 384670,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "264441": {
+    "image_id": 264441,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "515579": {
+    "image_id": 515579,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "502168": {
+    "image_id": 502168,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "558854": {
+    "image_id": 558854,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "189698": {
+    "image_id": 189698,
+    "split": "test",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "10363": {
+    "image_id": 10363,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "129945": {
+    "image_id": 129945,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "537506": {
+    "image_id": 537506,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "90631": {
+    "image_id": 90631,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "168883": {
+    "image_id": 168883,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "481567": {
+    "image_id": 481567,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "574823": {
+    "image_id": 574823,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "458992": {
+    "image_id": 458992,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "176634": {
+    "image_id": 176634,
+    "split": "test",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "61171": {
+    "image_id": 61171,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "205105": {
+    "image_id": 205105,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "79229": {
+    "image_id": 79229,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "493019": {
+    "image_id": 493019,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "336628": {
+    "image_id": 336628,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "163117": {
+    "image_id": 163117,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "313588": {
+    "image_id": 313588,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "183437": {
+    "image_id": 183437,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "431896": {
+    "image_id": 431896,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "269932": {
+    "image_id": 269932,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "406997": {
+    "image_id": 406997,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "463199": {
+    "image_id": 463199,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "57149": {
+    "image_id": 57149,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "530162": {
+    "image_id": 530162,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "254814": {
+    "image_id": 254814,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "424776": {
+    "image_id": 424776,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "440171": {
+    "image_id": 440171,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "56350": {
+    "image_id": 56350,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "465180": {
+    "image_id": 465180,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "15335": {
+    "image_id": 15335,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "384468": {
+    "image_id": 384468,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "283520": {
+    "image_id": 283520,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "357978": {
+    "image_id": 357978,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "267537": {
+    "image_id": 267537,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "372577": {
+    "image_id": 372577,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "83113": {
+    "image_id": 83113,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "436883": {
+    "image_id": 436883,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "7108": {
+    "image_id": 7108,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "537827": {
+    "image_id": 537827,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "382125": {
+    "image_id": 382125,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "25057": {
+    "image_id": 25057,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "153669": {
+    "image_id": 153669,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "389109": {
+    "image_id": 389109,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "172946": {
+    "image_id": 172946,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "549220": {
+    "image_id": 549220,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "5529": {
+    "image_id": 5529,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "568690": {
+    "image_id": 568690,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "216516": {
+    "image_id": 216516,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "417249": {
+    "image_id": 417249,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "308631": {
+    "image_id": 308631,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "85157": {
+    "image_id": 85157,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "13201": {
+    "image_id": 13201,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "264968": {
+    "image_id": 264968,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "206487": {
+    "image_id": 206487,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "50380": {
+    "image_id": 50380,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "554595": {
+    "image_id": 554595,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "548246": {
+    "image_id": 548246,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "50326": {
+    "image_id": 50326,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "75612": {
+    "image_id": 75612,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "274272": {
+    "image_id": 274272,
+    "split": "val",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "494869": {
+    "image_id": 494869,
+    "split": "val",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "453981": {
+    "image_id": 453981,
+    "split": "train",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "533145": {
+    "image_id": 533145,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "21167": {
+    "image_id": 21167,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "153011": {
+    "image_id": 153011,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "177213": {
+    "image_id": 177213,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "88462": {
+    "image_id": 88462,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "492110": {
+    "image_id": 492110,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "439773": {
+    "image_id": 439773,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "361142": {
+    "image_id": 361142,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "574315": {
+    "image_id": 574315,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "254368": {
+    "image_id": 254368,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "520707": {
+    "image_id": 520707,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "276434": {
+    "image_id": 276434,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "70158": {
+    "image_id": 70158,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "231747": {
+    "image_id": 231747,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "245311": {
+    "image_id": 245311,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "147729": {
+    "image_id": 147729,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "109055": {
+    "image_id": 109055,
+    "split": "val",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "180751": {
+    "image_id": 180751,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "32901": {
+    "image_id": 32901,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "260106": {
+    "image_id": 260106,
+    "split": "test",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "483999": {
+    "image_id": 483999,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "345466": {
+    "image_id": 345466,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "90208": {
+    "image_id": 90208,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "194716": {
+    "image_id": 194716,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "124975": {
+    "image_id": 124975,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "313182": {
+    "image_id": 313182,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "210032": {
+    "image_id": 210032,
+    "split": "test",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "239857": {
+    "image_id": 239857,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "475572": {
+    "image_id": 475572,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "377239": {
+    "image_id": 377239,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "498747": {
+    "image_id": 498747,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "568710": {
+    "image_id": 568710,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "480275": {
+    "image_id": 480275,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "430073": {
+    "image_id": 430073,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "480936": {
+    "image_id": 480936,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "52996": {
+    "image_id": 52996,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "546219": {
+    "image_id": 546219,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "229948": {
+    "image_id": 229948,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "474854": {
+    "image_id": 474854,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "87476": {
+    "image_id": 87476,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "82688": {
+    "image_id": 82688,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "433103": {
+    "image_id": 433103,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "117492": {
+    "image_id": 117492,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "312552": {
+    "image_id": 312552,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "278463": {
+    "image_id": 278463,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "249180": {
+    "image_id": 249180,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "300155": {
+    "image_id": 300155,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "556000": {
+    "image_id": 556000,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "293625": {
+    "image_id": 293625,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "2006": {
+    "image_id": 2006,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "37988": {
+    "image_id": 37988,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "356428": {
+    "image_id": 356428,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "425226": {
+    "image_id": 425226,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "179765": {
+    "image_id": 179765,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "330790": {
+    "image_id": 330790,
+    "split": "val",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "147223": {
+    "image_id": 147223,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "399205": {
+    "image_id": 399205,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "489924": {
+    "image_id": 489924,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "91500": {
+    "image_id": 91500,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "162415": {
+    "image_id": 162415,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "177015": {
+    "image_id": 177015,
+    "split": "test",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "371749": {
+    "image_id": 371749,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "464089": {
+    "image_id": 464089,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "485237": {
+    "image_id": 485237,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "246968": {
+    "image_id": 246968,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "359937": {
+    "image_id": 359937,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "98392": {
+    "image_id": 98392,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "29393": {
+    "image_id": 29393,
+    "split": "test",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "511398": {
+    "image_id": 511398,
+    "split": "test",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "30504": {
+    "image_id": 30504,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "2685": {
+    "image_id": 2685,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "144333": {
+    "image_id": 144333,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "456394": {
+    "image_id": 456394,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "337987": {
+    "image_id": 337987,
+    "split": "val",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "396338": {
+    "image_id": 396338,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "96549": {
+    "image_id": 96549,
+    "split": "val",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "224337": {
+    "image_id": 224337,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "338986": {
+    "image_id": 338986,
+    "split": "test",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "266768": {
+    "image_id": 266768,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "128699": {
+    "image_id": 128699,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "121497": {
+    "image_id": 121497,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "440617": {
+    "image_id": 440617,
+    "split": "val",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "336053": {
+    "image_id": 336053,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "163118": {
+    "image_id": 163118,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "12670": {
+    "image_id": 12670,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "289343": {
+    "image_id": 289343,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "512657": {
+    "image_id": 512657,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "443969": {
+    "image_id": 443969,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "885": {
+    "image_id": 885,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "474078": {
+    "image_id": 474078,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "196185": {
+    "image_id": 196185,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "236784": {
+    "image_id": 236784,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "202339": {
+    "image_id": 202339,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "223188": {
+    "image_id": 223188,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "345356": {
+    "image_id": 345356,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "500613": {
+    "image_id": 500613,
+    "split": "val",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "231580": {
+    "image_id": 231580,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "133631": {
+    "image_id": 133631,
+    "split": "val",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "438862": {
+    "image_id": 438862,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "171190": {
+    "image_id": 171190,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "427256": {
+    "image_id": 427256,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "144300": {
+    "image_id": 144300,
+    "split": "val",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "136915": {
+    "image_id": 136915,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "294350": {
+    "image_id": 294350,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "54593": {
+    "image_id": 54593,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "551804": {
+    "image_id": 551804,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "68409": {
+    "image_id": 68409,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "160012": {
+    "image_id": 160012,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "299887": {
+    "image_id": 299887,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "18193": {
+    "image_id": 18193,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "81766": {
+    "image_id": 81766,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "439426": {
+    "image_id": 439426,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "474028": {
+    "image_id": 474028,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "137294": {
+    "image_id": 137294,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "391290": {
+    "image_id": 391290,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "221291": {
+    "image_id": 221291,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "479248": {
+    "image_id": 479248,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "154718": {
+    "image_id": 154718,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "110042": {
+    "image_id": 110042,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "513283": {
+    "image_id": 513283,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "70254": {
+    "image_id": 70254,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "313034": {
+    "image_id": 313034,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "55022": {
+    "image_id": 55022,
+    "split": "val",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "356531": {
+    "image_id": 356531,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "455624": {
+    "image_id": 455624,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "303499": {
+    "image_id": 303499,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "507223": {
+    "image_id": 507223,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "272049": {
+    "image_id": 272049,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "156076": {
+    "image_id": 156076,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "440336": {
+    "image_id": 440336,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "526706": {
+    "image_id": 526706,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "311518": {
+    "image_id": 311518,
+    "split": "test",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "464872": {
+    "image_id": 464872,
+    "split": "val",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "562207": {
+    "image_id": 562207,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "240754": {
+    "image_id": 240754,
+    "split": "test",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "378453": {
+    "image_id": 378453,
+    "split": "test",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "100238": {
+    "image_id": 100238,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "210230": {
+    "image_id": 210230,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "71877": {
+    "image_id": 71877,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "184324": {
+    "image_id": 184324,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "233771": {
+    "image_id": 233771,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "479030": {
+    "image_id": 479030,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "459954": {
+    "image_id": 459954,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "434548": {
+    "image_id": 434548,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "101068": {
+    "image_id": 101068,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "502737": {
+    "image_id": 502737,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "468332": {
+    "image_id": 468332,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "399764": {
+    "image_id": 399764,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "451879": {
+    "image_id": 451879,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "133969": {
+    "image_id": 133969,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "31217": {
+    "image_id": 31217,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "3156": {
+    "image_id": 3156,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "273760": {
+    "image_id": 273760,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "281687": {
+    "image_id": 281687,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "325838": {
+    "image_id": 325838,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "265777": {
+    "image_id": 265777,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "33104": {
+    "image_id": 33104,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "416758": {
+    "image_id": 416758,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "67213": {
+    "image_id": 67213,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "552902": {
+    "image_id": 552902,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "365745": {
+    "image_id": 365745,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "368038": {
+    "image_id": 368038,
+    "split": "test",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "147338": {
+    "image_id": 147338,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "114884": {
+    "image_id": 114884,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "179392": {
+    "image_id": 179392,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "246963": {
+    "image_id": 246963,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "521259": {
+    "image_id": 521259,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "162092": {
+    "image_id": 162092,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "93717": {
+    "image_id": 93717,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "506656": {
+    "image_id": 506656,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "271402": {
+    "image_id": 271402,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "181421": {
+    "image_id": 181421,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "88345": {
+    "image_id": 88345,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "24243": {
+    "image_id": 24243,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "78404": {
+    "image_id": 78404,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "157807": {
+    "image_id": 157807,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "370486": {
+    "image_id": 370486,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "290833": {
+    "image_id": 290833,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "500423": {
+    "image_id": 500423,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "218424": {
+    "image_id": 218424,
+    "split": "val",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "377113": {
+    "image_id": 377113,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "562443": {
+    "image_id": 562443,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "465836": {
+    "image_id": 465836,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "321790": {
+    "image_id": 321790,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "125211": {
+    "image_id": 125211,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "258388": {
+    "image_id": 258388,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "148508": {
+    "image_id": 148508,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "466602": {
+    "image_id": 466602,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "170739": {
+    "image_id": 170739,
+    "split": "test",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "292997": {
+    "image_id": 292997,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "145597": {
+    "image_id": 145597,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "227478": {
+    "image_id": 227478,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "338428": {
+    "image_id": 338428,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "306893": {
+    "image_id": 306893,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "193181": {
+    "image_id": 193181,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "36844": {
+    "image_id": 36844,
+    "split": "val",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "38829": {
+    "image_id": 38829,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "516318": {
+    "image_id": 516318,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "298738": {
+    "image_id": 298738,
+    "split": "train",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "546011": {
+    "image_id": 546011,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "14439": {
+    "image_id": 14439,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "334371": {
+    "image_id": 334371,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "390555": {
+    "image_id": 390555,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "64868": {
+    "image_id": 64868,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "402473": {
+    "image_id": 402473,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "429690": {
+    "image_id": 429690,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "84674": {
+    "image_id": 84674,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "396200": {
+    "image_id": 396200,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "529939": {
+    "image_id": 529939,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "358525": {
+    "image_id": 358525,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "46497": {
+    "image_id": 46497,
+    "split": "val",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "325347": {
+    "image_id": 325347,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "190140": {
+    "image_id": 190140,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "391722": {
+    "image_id": 391722,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "171611": {
+    "image_id": 171611,
+    "split": "test",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "346905": {
+    "image_id": 346905,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "193245": {
+    "image_id": 193245,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "80659": {
+    "image_id": 80659,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "68933": {
+    "image_id": 68933,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "94871": {
+    "image_id": 94871,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "186449": {
+    "image_id": 186449,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "236690": {
+    "image_id": 236690,
+    "split": "test",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "276055": {
+    "image_id": 276055,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "314709": {
+    "image_id": 314709,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "576052": {
+    "image_id": 576052,
+    "split": "val",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "127394": {
+    "image_id": 127394,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "430377": {
+    "image_id": 430377,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "375278": {
+    "image_id": 375278,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "184978": {
+    "image_id": 184978,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "493286": {
+    "image_id": 493286,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "260470": {
+    "image_id": 260470,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "514797": {
+    "image_id": 514797,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "284743": {
+    "image_id": 284743,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "308545": {
+    "image_id": 308545,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "546475": {
+    "image_id": 546475,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "497867": {
+    "image_id": 497867,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "562561": {
+    "image_id": 562561,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "220732": {
+    "image_id": 220732,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "462031": {
+    "image_id": 462031,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "114907": {
+    "image_id": 114907,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "569565": {
+    "image_id": 569565,
+    "split": "test",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "112110": {
+    "image_id": 112110,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "115870": {
+    "image_id": 115870,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "523241": {
+    "image_id": 523241,
+    "split": "val",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "459662": {
+    "image_id": 459662,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "441543": {
+    "image_id": 441543,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "427160": {
+    "image_id": 427160,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "176778": {
+    "image_id": 176778,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "227898": {
+    "image_id": 227898,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "281929": {
+    "image_id": 281929,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "255664": {
+    "image_id": 255664,
+    "split": "val",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "78420": {
+    "image_id": 78420,
+    "split": "val",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "470924": {
+    "image_id": 470924,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "503755": {
+    "image_id": 503755,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "51309": {
+    "image_id": 51309,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "397354": {
+    "image_id": 397354,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "411530": {
+    "image_id": 411530,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "108244": {
+    "image_id": 108244,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "441491": {
+    "image_id": 441491,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "351530": {
+    "image_id": 351530,
+    "split": "train",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "577976": {
+    "image_id": 577976,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "189806": {
+    "image_id": 189806,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "576031": {
+    "image_id": 576031,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "511321": {
+    "image_id": 511321,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "556193": {
+    "image_id": 556193,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "89697": {
+    "image_id": 89697,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "88485": {
+    "image_id": 88485,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "57150": {
+    "image_id": 57150,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "433243": {
+    "image_id": 433243,
+    "split": "val",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "570539": {
+    "image_id": 570539,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "213605": {
+    "image_id": 213605,
+    "split": "val",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "447465": {
+    "image_id": 447465,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "455219": {
+    "image_id": 455219,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "331604": {
+    "image_id": 331604,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "214539": {
+    "image_id": 214539,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "85089": {
+    "image_id": 85089,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "449661": {
+    "image_id": 449661,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "160556": {
+    "image_id": 160556,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "554156": {
+    "image_id": 554156,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "437239": {
+    "image_id": 437239,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "250619": {
+    "image_id": 250619,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "206831": {
+    "image_id": 206831,
+    "split": "test",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "545958": {
+    "image_id": 545958,
+    "split": "val",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "355325": {
+    "image_id": 355325,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "290248": {
+    "image_id": 290248,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "424642": {
+    "image_id": 424642,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "217948": {
+    "image_id": 217948,
+    "split": "val",
+    "object_class": "bear",
+    "manipulation_type": "removal"
+  },
+  "192607": {
+    "image_id": 192607,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "128372": {
+    "image_id": 128372,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "474167": {
+    "image_id": 474167,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "52565": {
+    "image_id": 52565,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "109313": {
+    "image_id": 109313,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "565563": {
+    "image_id": 565563,
+    "split": "test",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "118367": {
+    "image_id": 118367,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "64499": {
+    "image_id": 64499,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "199771": {
+    "image_id": 199771,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "289417": {
+    "image_id": 289417,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "61418": {
+    "image_id": 61418,
+    "split": "train",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "382088": {
+    "image_id": 382088,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "492937": {
+    "image_id": 492937,
+    "split": "train",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "133778": {
+    "image_id": 133778,
+    "split": "test",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "416451": {
+    "image_id": 416451,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "296657": {
+    "image_id": 296657,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "489046": {
+    "image_id": 489046,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "20333": {
+    "image_id": 20333,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "122927": {
+    "image_id": 122927,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "263463": {
+    "image_id": 263463,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "150638": {
+    "image_id": 150638,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "343561": {
+    "image_id": 343561,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "18837": {
+    "image_id": 18837,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "519764": {
+    "image_id": 519764,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "128654": {
+    "image_id": 128654,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "404805": {
+    "image_id": 404805,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "32735": {
+    "image_id": 32735,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "485071": {
+    "image_id": 485071,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "421060": {
+    "image_id": 421060,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "49810": {
+    "image_id": 49810,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "278848": {
+    "image_id": 278848,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "458325": {
+    "image_id": 458325,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "232692": {
+    "image_id": 232692,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "418062": {
+    "image_id": 418062,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "190676": {
+    "image_id": 190676,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "229659": {
+    "image_id": 229659,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "41635": {
+    "image_id": 41635,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "201426": {
+    "image_id": 201426,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "474095": {
+    "image_id": 474095,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "293324": {
+    "image_id": 293324,
+    "split": "test",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "527750": {
+    "image_id": 527750,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "244750": {
+    "image_id": 244750,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "106757": {
+    "image_id": 106757,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "76417": {
+    "image_id": 76417,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "166287": {
+    "image_id": 166287,
+    "split": "test",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "146667": {
+    "image_id": 146667,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "201934": {
+    "image_id": 201934,
+    "split": "test",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "77396": {
+    "image_id": 77396,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "291619": {
+    "image_id": 291619,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "432553": {
+    "image_id": 432553,
+    "split": "train",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "191288": {
+    "image_id": 191288,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "289393": {
+    "image_id": 289393,
+    "split": "val",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "152214": {
+    "image_id": 152214,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "261097": {
+    "image_id": 261097,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "470952": {
+    "image_id": 470952,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "55528": {
+    "image_id": 55528,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "44590": {
+    "image_id": 44590,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "547502": {
+    "image_id": 547502,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "424162": {
+    "image_id": 424162,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "111086": {
+    "image_id": 111086,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "2261": {
+    "image_id": 2261,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "384666": {
+    "image_id": 384666,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "15956": {
+    "image_id": 15956,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "303818": {
+    "image_id": 303818,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "111207": {
+    "image_id": 111207,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "11051": {
+    "image_id": 11051,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "211674": {
+    "image_id": 211674,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "369310": {
+    "image_id": 369310,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "564336": {
+    "image_id": 564336,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "182923": {
+    "image_id": 182923,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "121744": {
+    "image_id": 121744,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "378284": {
+    "image_id": 378284,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "156071": {
+    "image_id": 156071,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "484404": {
+    "image_id": 484404,
+    "split": "test",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "506707": {
+    "image_id": 506707,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "322610": {
+    "image_id": 322610,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "325483": {
+    "image_id": 325483,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "440508": {
+    "image_id": 440508,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "396568": {
+    "image_id": 396568,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "369323": {
+    "image_id": 369323,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "312340": {
+    "image_id": 312340,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "411754": {
+    "image_id": 411754,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "15597": {
+    "image_id": 15597,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "161861": {
+    "image_id": 161861,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "105264": {
+    "image_id": 105264,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "154425": {
+    "image_id": 154425,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "577149": {
+    "image_id": 577149,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "454067": {
+    "image_id": 454067,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "135670": {
+    "image_id": 135670,
+    "split": "train",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "309484": {
+    "image_id": 309484,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "551820": {
+    "image_id": 551820,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "394510": {
+    "image_id": 394510,
+    "split": "test",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "279730": {
+    "image_id": 279730,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "281409": {
+    "image_id": 281409,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "187734": {
+    "image_id": 187734,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "58539": {
+    "image_id": 58539,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "434459": {
+    "image_id": 434459,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "39670": {
+    "image_id": 39670,
+    "split": "test",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "415536": {
+    "image_id": 415536,
+    "split": "val",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "375493": {
+    "image_id": 375493,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "283785": {
+    "image_id": 283785,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "261116": {
+    "image_id": 261116,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "464824": {
+    "image_id": 464824,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "16249": {
+    "image_id": 16249,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "42102": {
+    "image_id": 42102,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "131386": {
+    "image_id": 131386,
+    "split": "val",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "27186": {
+    "image_id": 27186,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "348488": {
+    "image_id": 348488,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "360960": {
+    "image_id": 360960,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "20059": {
+    "image_id": 20059,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "174123": {
+    "image_id": 174123,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "153529": {
+    "image_id": 153529,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "88432": {
+    "image_id": 88432,
+    "split": "test",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "507015": {
+    "image_id": 507015,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "421834": {
+    "image_id": 421834,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "21879": {
+    "image_id": 21879,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "557672": {
+    "image_id": 557672,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "97679": {
+    "image_id": 97679,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "12748": {
+    "image_id": 12748,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "110449": {
+    "image_id": 110449,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "320632": {
+    "image_id": 320632,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "549930": {
+    "image_id": 549930,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "90003": {
+    "image_id": 90003,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "334555": {
+    "image_id": 334555,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "280710": {
+    "image_id": 280710,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "21903": {
+    "image_id": 21903,
+    "split": "val",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "296222": {
+    "image_id": 296222,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "279278": {
+    "image_id": 279278,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "572388": {
+    "image_id": 572388,
+    "split": "test",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "193717": {
+    "image_id": 193717,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "499031": {
+    "image_id": 499031,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "74733": {
+    "image_id": 74733,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "464476": {
+    "image_id": 464476,
+    "split": "val",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "33638": {
+    "image_id": 33638,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "439854": {
+    "image_id": 439854,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "382111": {
+    "image_id": 382111,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "105912": {
+    "image_id": 105912,
+    "split": "val",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "235836": {
+    "image_id": 235836,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "212573": {
+    "image_id": 212573,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "561009": {
+    "image_id": 561009,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "269316": {
+    "image_id": 269316,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "553776": {
+    "image_id": 553776,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "27696": {
+    "image_id": 27696,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "121031": {
+    "image_id": 121031,
+    "split": "val",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "301867": {
+    "image_id": 301867,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "370270": {
+    "image_id": 370270,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "190753": {
+    "image_id": 190753,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "442161": {
+    "image_id": 442161,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "15338": {
+    "image_id": 15338,
+    "split": "test",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "267434": {
+    "image_id": 267434,
+    "split": "val",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "334719": {
+    "image_id": 334719,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "565045": {
+    "image_id": 565045,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "496571": {
+    "image_id": 496571,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "373705": {
+    "image_id": 373705,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "250127": {
+    "image_id": 250127,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "439180": {
+    "image_id": 439180,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "473219": {
+    "image_id": 473219,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "580197": {
+    "image_id": 580197,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "130826": {
+    "image_id": 130826,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "106389": {
+    "image_id": 106389,
+    "split": "val",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "259597": {
+    "image_id": 259597,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "160864": {
+    "image_id": 160864,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "350003": {
+    "image_id": 350003,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "428562": {
+    "image_id": 428562,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "406611": {
+    "image_id": 406611,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "193743": {
+    "image_id": 193743,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "457559": {
+    "image_id": 457559,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "300913": {
+    "image_id": 300913,
+    "split": "val",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "78915": {
+    "image_id": 78915,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "568439": {
+    "image_id": 568439,
+    "split": "val",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "581206": {
+    "image_id": 581206,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "217285": {
+    "image_id": 217285,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "421455": {
+    "image_id": 421455,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "420281": {
+    "image_id": 420281,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "25394": {
+    "image_id": 25394,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "374369": {
+    "image_id": 374369,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "405205": {
+    "image_id": 405205,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "548780": {
+    "image_id": 548780,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "212226": {
+    "image_id": 212226,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "76625": {
+    "image_id": 76625,
+    "split": "test",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "328337": {
+    "image_id": 328337,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "176901": {
+    "image_id": 176901,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "351096": {
+    "image_id": 351096,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "100274": {
+    "image_id": 100274,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "359833": {
+    "image_id": 359833,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "266981": {
+    "image_id": 266981,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "133244": {
+    "image_id": 133244,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "257478": {
+    "image_id": 257478,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "373315": {
+    "image_id": 373315,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "356612": {
+    "image_id": 356612,
+    "split": "test",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "53626": {
+    "image_id": 53626,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "133645": {
+    "image_id": 133645,
+    "split": "val",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "491366": {
+    "image_id": 491366,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "257370": {
+    "image_id": 257370,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "41888": {
+    "image_id": 41888,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "387387": {
+    "image_id": 387387,
+    "split": "val",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "427500": {
+    "image_id": 427500,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "173008": {
+    "image_id": 173008,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "554328": {
+    "image_id": 554328,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "374083": {
+    "image_id": 374083,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "235857": {
+    "image_id": 235857,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "431876": {
+    "image_id": 431876,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "578489": {
+    "image_id": 578489,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "122166": {
+    "image_id": 122166,
+    "split": "test",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "167572": {
+    "image_id": 167572,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "447917": {
+    "image_id": 447917,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "217872": {
+    "image_id": 217872,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "357737": {
+    "image_id": 357737,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "125472": {
+    "image_id": 125472,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "185472": {
+    "image_id": 185472,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "271471": {
+    "image_id": 271471,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "450399": {
+    "image_id": 450399,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "315187": {
+    "image_id": 315187,
+    "split": "test",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "145620": {
+    "image_id": 145620,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "172571": {
+    "image_id": 172571,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "389812": {
+    "image_id": 389812,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "126107": {
+    "image_id": 126107,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "563648": {
+    "image_id": 563648,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "123633": {
+    "image_id": 123633,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "578792": {
+    "image_id": 578792,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "156292": {
+    "image_id": 156292,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "519688": {
+    "image_id": 519688,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "97278": {
+    "image_id": 97278,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "215259": {
+    "image_id": 215259,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "555597": {
+    "image_id": 555597,
+    "split": "val",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "70739": {
+    "image_id": 70739,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "449579": {
+    "image_id": 449579,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "303566": {
+    "image_id": 303566,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "447088": {
+    "image_id": 447088,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "126226": {
+    "image_id": 126226,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "407960": {
+    "image_id": 407960,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "25560": {
+    "image_id": 25560,
+    "split": "test",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "442456": {
+    "image_id": 442456,
+    "split": "test",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "203629": {
+    "image_id": 203629,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "484978": {
+    "image_id": 484978,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "22396": {
+    "image_id": 22396,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "179898": {
+    "image_id": 179898,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "401250": {
+    "image_id": 401250,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "232684": {
+    "image_id": 232684,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "420230": {
+    "image_id": 420230,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "479155": {
+    "image_id": 479155,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "558213": {
+    "image_id": 558213,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "577864": {
+    "image_id": 577864,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "292488": {
+    "image_id": 292488,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "550084": {
+    "image_id": 550084,
+    "split": "train",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "6040": {
+    "image_id": 6040,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "46048": {
+    "image_id": 46048,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "553731": {
+    "image_id": 553731,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "151516": {
+    "image_id": 151516,
+    "split": "test",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "32861": {
+    "image_id": 32861,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "213445": {
+    "image_id": 213445,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "334483": {
+    "image_id": 334483,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "297830": {
+    "image_id": 297830,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "537991": {
+    "image_id": 537991,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "372819": {
+    "image_id": 372819,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "459634": {
+    "image_id": 459634,
+    "split": "train",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "211042": {
+    "image_id": 211042,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "373382": {
+    "image_id": 373382,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "320743": {
+    "image_id": 320743,
+    "split": "val",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "60932": {
+    "image_id": 60932,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "280891": {
+    "image_id": 280891,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "455157": {
+    "image_id": 455157,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "493566": {
+    "image_id": 493566,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "253742": {
+    "image_id": 253742,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "310072": {
+    "image_id": 310072,
+    "split": "val",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "282037": {
+    "image_id": 282037,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "422670": {
+    "image_id": 422670,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "319721": {
+    "image_id": 319721,
+    "split": "test",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "130699": {
+    "image_id": 130699,
+    "split": "test",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "107226": {
+    "image_id": 107226,
+    "split": "val",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "82812": {
+    "image_id": 82812,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "515982": {
+    "image_id": 515982,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "438774": {
+    "image_id": 438774,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "436738": {
+    "image_id": 436738,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "565391": {
+    "image_id": 565391,
+    "split": "val",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "84650": {
+    "image_id": 84650,
+    "split": "test",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "456303": {
+    "image_id": 456303,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "146358": {
+    "image_id": 146358,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "71226": {
+    "image_id": 71226,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "267169": {
+    "image_id": 267169,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "346703": {
+    "image_id": 346703,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "187362": {
+    "image_id": 187362,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "7278": {
+    "image_id": 7278,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "208208": {
+    "image_id": 208208,
+    "split": "test",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "203294": {
+    "image_id": 203294,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "149770": {
+    "image_id": 149770,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "521956": {
+    "image_id": 521956,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "344029": {
+    "image_id": 344029,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "353027": {
+    "image_id": 353027,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "293794": {
+    "image_id": 293794,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "9400": {
+    "image_id": 9400,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "323496": {
+    "image_id": 323496,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "512564": {
+    "image_id": 512564,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "429109": {
+    "image_id": 429109,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "25393": {
+    "image_id": 25393,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "177539": {
+    "image_id": 177539,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "539445": {
+    "image_id": 539445,
+    "split": "val",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "87470": {
+    "image_id": 87470,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "230008": {
+    "image_id": 230008,
+    "split": "test",
+    "object_class": "motorcycle",
+    "manipulation_type": "removal"
+  },
+  "194471": {
+    "image_id": 194471,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "554291": {
+    "image_id": 554291,
+    "split": "test",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "192699": {
+    "image_id": 192699,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "68387": {
+    "image_id": 68387,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "532493": {
+    "image_id": 532493,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "304291": {
+    "image_id": 304291,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "311190": {
+    "image_id": 311190,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "369541": {
+    "image_id": 369541,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "577932": {
+    "image_id": 577932,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "509451": {
+    "image_id": 509451,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "210789": {
+    "image_id": 210789,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "474170": {
+    "image_id": 474170,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "263425": {
+    "image_id": 263425,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "6954": {
+    "image_id": 6954,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "80340": {
+    "image_id": 80340,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "303305": {
+    "image_id": 303305,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "350002": {
+    "image_id": 350002,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "110638": {
+    "image_id": 110638,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "239537": {
+    "image_id": 239537,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "32817": {
+    "image_id": 32817,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "213035": {
+    "image_id": 213035,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "201676": {
+    "image_id": 201676,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "507037": {
+    "image_id": 507037,
+    "split": "test",
+    "object_class": "bicycle",
+    "manipulation_type": "removal"
+  },
+  "15751": {
+    "image_id": 15751,
+    "split": "train",
+    "object_class": "bird",
+    "manipulation_type": "replacement"
+  },
+  "293200": {
+    "image_id": 293200,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "447342": {
+    "image_id": 447342,
+    "split": "train",
+    "object_class": "bus",
+    "manipulation_type": "removal"
+  },
+  "42563": {
+    "image_id": 42563,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "495146": {
+    "image_id": 495146,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "354829": {
+    "image_id": 354829,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "145781": {
+    "image_id": 145781,
+    "split": "train",
+    "object_class": "dog",
+    "manipulation_type": "replacement"
+  },
+  "235784": {
+    "image_id": 235784,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "18380": {
+    "image_id": 18380,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "139871": {
+    "image_id": 139871,
+    "split": "train",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "209972": {
+    "image_id": 209972,
+    "split": "val",
+    "object_class": "boat",
+    "manipulation_type": "replacement"
+  },
+  "287291": {
+    "image_id": 287291,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "571264": {
+    "image_id": 571264,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "445248": {
+    "image_id": 445248,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "250282": {
+    "image_id": 250282,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "361268": {
+    "image_id": 361268,
+    "split": "train",
+    "object_class": "cow",
+    "manipulation_type": "replacement"
+  },
+  "398810": {
+    "image_id": 398810,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "44195": {
+    "image_id": 44195,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "384513": {
+    "image_id": 384513,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "152686": {
+    "image_id": 152686,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "311392": {
+    "image_id": 311392,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "501523": {
+    "image_id": 501523,
+    "split": "train",
+    "object_class": "cat",
+    "manipulation_type": "replacement"
+  },
+  "110999": {
+    "image_id": 110999,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "579070": {
+    "image_id": 579070,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "433374": {
+    "image_id": 433374,
+    "split": "train",
+    "object_class": "elephant",
+    "manipulation_type": "removal"
+  },
+  "287347": {
+    "image_id": 287347,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "414673": {
+    "image_id": 414673,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "383621": {
+    "image_id": 383621,
+    "split": "val",
+    "object_class": "airplane",
+    "manipulation_type": "replacement"
+  },
+  "376322": {
+    "image_id": 376322,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "78170": {
+    "image_id": 78170,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "132587": {
+    "image_id": 132587,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "404922": {
+    "image_id": 404922,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "482436": {
+    "image_id": 482436,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "270908": {
+    "image_id": 270908,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "44877": {
+    "image_id": 44877,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "297681": {
+    "image_id": 297681,
+    "split": "train",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "501243": {
+    "image_id": 501243,
+    "split": "train",
+    "object_class": "zebra",
+    "manipulation_type": "removal"
+  },
+  "52413": {
+    "image_id": 52413,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "196442": {
+    "image_id": 196442,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "62692": {
+    "image_id": 62692,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "81988": {
+    "image_id": 81988,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "185473": {
+    "image_id": 185473,
+    "split": "train",
+    "object_class": "horse",
+    "manipulation_type": "replacement"
+  },
+  "140556": {
+    "image_id": 140556,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "108440": {
+    "image_id": 108440,
+    "split": "train",
+    "object_class": "train",
+    "manipulation_type": "removal"
+  },
+  "515266": {
+    "image_id": 515266,
+    "split": "val",
+    "object_class": "truck",
+    "manipulation_type": "replacement"
+  },
+  "381587": {
+    "image_id": 381587,
+    "split": "test",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "514508": {
+    "image_id": 514508,
+    "split": "train",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  },
+  "155341": {
+    "image_id": 155341,
+    "split": "test",
+    "object_class": "car",
+    "manipulation_type": "replacement"
+  },
+  "468501": {
+    "image_id": 468501,
+    "split": "val",
+    "object_class": "person",
+    "manipulation_type": "replacement"
+  }
+}

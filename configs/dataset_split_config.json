@@ -1,0 +1,16 @@
+{
+  "data_dir": "data",
+  "summary_csv_filename": "dataset_summary.csv",
+  "included_statuses": ["completed"],
+  "train_ratio": 0.7,
+  "val_ratio": 0.15,
+  "test_ratio": 0.15,
+  "stratify_columns": ["object_class"],
+  "seed": 42,
+  "min_group_size_for_full_stratification": 3,
+  "dry_run": false,
+  "log_level": "INFO",
+  "output_dir": "data/splits",
+  "splits_manifest_filename": "splits.json",
+  "split_summary_filename": "split_summary.csv"
+}
